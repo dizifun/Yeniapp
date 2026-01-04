@@ -2,10 +2,10 @@ name: Film Listesini Güncelle (TMDB)
 
 on:
   schedule:
-    # Her 6 saatte bir çalışır (TMDB'yi çok yormamak için ideal)
+    # Her 6 saatte bir çalışır (TMDB limitlerine takılmamak için ideal süre)
     - cron: '0 */6 * * *'
   
-  # İstediğin zaman elle "Run" butonuna basıp çalıştırabilmen için
+  # İstediğin zaman elle "Run workflow" diyebilmen için
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # 1. Adım: Repodaki dosyaları sanal makineye çek
+      # 1. Adım: Repoyu sanal makineye çek
       - name: Repoyu Kontrol Et (Checkout)
         uses: actions/checkout@v3
 
@@ -23,8 +23,7 @@ jobs:
         with:
           python-version: '3.9'
 
-      # 3. Adım: Kütüphaneleri Yükle (ENTEGRE EDİLDİ)
-      # requirements.txt dosyasına ihtiyacın yok, buradan direkt kuruyoruz.
+      # 3. Adım: Gerekli Kütüphaneyi Yükle (Dosya aramadan direkt kurar)
       - name: Gerekli Kütüphaneyi Kur
         run: |
           python -m pip install --upgrade pip
@@ -34,11 +33,19 @@ jobs:
       - name: Film Scriptini Başlat
         run: python update_movies.py
         
-      # 5. Adım: Oluşan JSON dosyasını GitHub'a kaydet
+      # 5. Adım: Hata Veren Kısmın Düzeltilmiş Hali (Önce Çek Sonra Yükle)
       - name: Değişiklikleri Kaydet (Push)
         run: |
           git config --global user.name 'FilmBotu'
           git config --global user.email 'bot@film.com'
+          
+          # Dosyayı sahneye al
           git add filmler_tmdb.json
-          # Değişiklik varsa commit at, yoksa hata verme devam et
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Film listesi güncellendi: $(date)" && git push)
+          
+          # Eğer değişiklik varsa commitle, yoksa hata verme devam et
+          git diff --quiet && git diff --staged --quiet || git commit -m "Film listesi güncellendi: $(date)"
+          
+          # --- ÇÖZÜM BURADA ---
+          # Önce GitHub'daki yenilikleri çek (Pull), sonra kendi dosyanı gönder (Push)
+          git pull --rebase origin main
+          git push origin main
