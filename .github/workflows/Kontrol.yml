@@ -1,0 +1,67 @@
+name: Kontrol
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'  
+jobs:
+  BirlesikGuncelleme:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: write
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4.2.2
+
+      - name: Python 3.11.8 Yükle
+        uses: actions/setup-python@v5.3.0
+        with:
+          python-version: 3.11.8
+
+      - name: Gereksinimleri Kur
+        run: |
+          python -m pip install --upgrade pip
+          pip install -U setuptools wheel Kekik httpx parsel requests cloudscraper
+          
+      - name: inattv.py Çalıştır
+        continue-on-error: true
+        run: python inattv.py
+      - name: vav.py Çalıştır
+        continue-on-error: true
+        run: python vav.py
+      - name: androtv.py Çalıştır
+        continue-on-error: true
+        run: python androtv.py
+      - name: selcuk.py Çalıştır
+        continue-on-error: true
+        run: python selcuk.py
+      - name: rec.py Çalıştır
+        continue-on-error: true
+        run: python rec.py
+      - name: rec2.py Çalıştır
+        continue-on-error: true
+        run: python rec2.py
+      - name: gbl.py Çalıştır
+        continue-on-error: true
+        run: python gbl.py        
+      - name: birlestir.py Çalıştır
+        continue-on-error: true
+        run: python birlestir.py        
+
+      - name: Değişiklik Kontrolü
+        id: degisiklik_kontrol
+        run: |
+          git diff --quiet . || echo "degisiklik=true" >> $GITHUB_OUTPUT
+          
+      - name: Değişiklikleri Commit Et
+        if: steps.degisiklik_kontrol.outputs.degisiklik == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🔄 Kanallar güncellendi" -m "📺 Domain kontrolü ve M3U güncellemeleri tamamlandı" -m "🕒 Otomatik işlem - $GITHUB_SHA"
+          git push
