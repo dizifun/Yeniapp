@@ -1,0 +1,37 @@
+name: Spor Listelerini Güncelle
+
+on:
+  schedule:
+    # Her 30 dakikada bir çalış (Canlı maçlar için ideal süre)
+    - cron: '*/30 * * * *'
+  
+  # Manuel tetikleme butonu
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Repoyu Çek (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: |
+          pip install -r requirements.txt
+
+      - name: Scripti Çalıştır
+        run: python update_sports.py
+
+      - name: Değişiklikleri Kaydet (Commit & Push)
+        run: |
+          git config --global user.name 'SporBotu'
+          git config --global user.email 'bot@playtv.com'
+          git add spor_listesi.json
+          # Eğer değişiklik yoksa hata verme, devam et
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Spor listesi guncellendi: $(date)" && git push)
