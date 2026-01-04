@@ -21,9 +21,10 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Kütüphaneleri Yükle
+            - name: Kütüphaneleri Yükle
         run: |
-          pip install -r requirements.txt
+          pip install requests
+
 
       - name: Scripti Çalıştır
         run: python update_sports.py
