@@ -6,7 +6,7 @@ import os
 # --- AYARLAR ---
 URLS = [
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/Pixelsports.m3u8",
-    "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/justintv_proxy_kanallar.m3u8",
+    "https://raw.githubusercontent.com/undefinedtv/undefinedtv/main/karisik.m3u",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/istplay_streams.m3u",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/androiptv.m3u8",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/Roxiestreams.m3u",
