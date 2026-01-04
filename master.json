@@ -1,33 +1,33 @@
 {
-  "app_settings": {
-    "app_name": "Fanatik Play",
-    "version": "1.0",
-    "maintenance_mode": false
-  },
-  "categories": [
-    {
-      "id": "canli_mac",
-      "title": "Günün Maçları",
-      "type": "live_event",
-      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/stadium.png",
-      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/spor_listesi.json",
-      "is_active": true
-    },
-    {
-      "id": "spor_tv",
-      "title": "Spor Kanalları",
-      "type": "live_tv_channel",
-      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/football.png",
-      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/spor_kanallari.json",
-      "is_active": true
-    },
-    {
-      "id": "film_vod",
-      "title": "Sinema (VOD)",
-      "type": "vod_movie",
-      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/movie.png",
-      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/filmler_tmdb.json",
-      "is_active": true
-    }
-  ]
+  "app_settings": {
+    "app_name": "Fanatik Play",
+    "version": "1.0",
+    "maintenance_mode": false
+  },
+  "categories": [
+    {
+      "id": "canli_mac",
+      "title": "Günün Maçları",
+      "type": "live_event",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/stadium.png",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/spor_listesi.json",
+      "is_active": true
+    },
+    {
+      "id": "spor_tv",
+      "title": "Spor Kanalları",
+      "type": "live_tv_channel",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/football.png",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/spor_kanallari.json",
+      "is_active": true
+    },
+    {
+      "id": "film_vod",
+      "title": "Sinema (VOD)",
+      "type": "vod_movie",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/movie.png",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/filmler_tmdb.json",
+      "is_active": true
+    }
+  ]
 }
