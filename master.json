@@ -1,0 +1,81 @@
+{
+  "app_settings": {
+    "app_name": "Fanatik Play",
+    "version": "1.0",
+    "maintenance_mode": false,
+    "maintenance_message": "Sunucularımızda bakım var, lütfen 10 dakika sonra tekrar deneyin."
+  },
+  "categories": [
+    {
+      "id": "canli_mac",
+      "title": "Günün Maçları",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/stadium.png",
+      "type": "live_event",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/mac_yayinlari.json",
+      "update_frequency": "very_high" 
+    },
+    {
+      "id": "spor_tv",
+      "title": "Spor Kanalları",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/football.png",
+      "type": "live_tv_channel",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/spor_kanallari.json"
+    },
+    {
+      "id": "ulusal",
+      "title": "Ulusal Kanallar",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/turkey.png",
+      "type": "live_tv_channel",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/ulusal.json"
+    },
+    {
+      "id": "film_vod",
+      "title": "Film İzle (VOD)",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/movie.png",
+      "type": "vod_movie",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/filmler_tmdb.json"
+    },
+    {
+      "id": "dizi_vod",
+      "title": "Diziler (VOD)",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/series.png",
+      "type": "vod_series",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/diziler.json"
+    },
+    {
+      "id": "sinema_tv",
+      "title": "Sinema Kanalları",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/cinema_tv.png",
+      "type": "live_tv_channel",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/sinema_kanallari.json"
+    },
+    {
+      "id": "cocuk",
+      "title": "Çocuk & Çizgi Film",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/kids.png",
+      "type": "live_tv_channel",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/cocuk.json"
+    },
+    {
+      "id": "haber",
+      "title": "Haberler",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/news.png",
+      "type": "live_tv_channel",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/haber.json"
+    },
+    {
+      "id": "dini",
+      "title": "Dini Yayınlar",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/mosque.png",
+      "type": "live_tv_channel",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/dini.json"
+    },
+    {
+      "id": "yabanci",
+      "title": "Global Channels",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/global.png",
+      "type": "live_tv_channel",
+      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/yabanci.json"
+    }
+  ]
+}
