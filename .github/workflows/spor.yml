@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.9'
 
-            - name: Kütüphaneleri Yükle
+      - name: Kütüphaneleri Yükle
         run: |
           pip install requests
 
