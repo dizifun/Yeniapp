@@ -27081,12 +27081,6 @@
       "url": "http://movie.vidmoly.workers.dev/?ID=hmdfz3v3o17q&video.mp4"
     },
     {
-      "name": "Gizli Dünya",
-      "tmdb_id": 14836,
-      "year": "2015",
-      "url": "http://movie.vidmoly.workers.dev/?ID=y1xv22gqz21j&video.mp4"
-    },
-    {
       "name": "Ters Yüz",
       "tmdb_id": 150540,
       "year": "2015",
@@ -33973,6 +33967,12 @@
       "tmdb_id": null,
       "year": "2015",
       "url": "http://movie.vidmoly.workers.dev/?ID=0rzamk078ueb&video.mp4"
+    },
+    {
+      "name": "Gizli Dünya",
+      "tmdb_id": null,
+      "year": "2015",
+      "url": "http://movie.vidmoly.workers.dev/?ID=y1xv22gqz21j&video.mp4"
     },
     {
       "name": "Bir Anlık Hata",
