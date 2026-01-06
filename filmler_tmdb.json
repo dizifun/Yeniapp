@@ -1579,12 +1579,6 @@
       "url": "http://movie.vidmoly.workers.dev/?ID=se584h9r4oo6&video.mp4"
     },
     {
-      "name": "Beth'ten Sonra",
-      "tmdb_id": 244566,
-      "year": "2014",
-      "url": "http://movie.vidmoly.workers.dev/?ID=oykqs4mufft1&video.mp4"
-    },
-    {
       "name": "Işıkların Ardında",
       "tmdb_id": 241771,
       "year": "2014",
@@ -4177,6 +4171,12 @@
       "tmdb_id": 711017,
       "year": "2020",
       "url": "http://movie.vidmoly.workers.dev/?ID=cuipwoj3esc5&video.mp4"
+    },
+    {
+      "name": "Fatman",
+      "tmdb_id": 602211,
+      "year": "2020",
+      "url": "http://movie.vidmoly.workers.dev/?ID=f3i8lhn14mg4&video.mp4"
     },
     {
       "name": "Koş Saklan Dövüş",
@@ -10551,12 +10551,6 @@
       "tmdb_id": 38358,
       "year": "2011",
       "url": "http://movie.vidmoly.workers.dev/?ID=zwmmtqxgy5i9&video.mp4"
-    },
-    {
-      "name": "Two",
-      "tmdb_id": 474350,
-      "year": "2021",
-      "url": "http://movie.vidmoly.workers.dev/?ID=k39grybjvqr8&video.mp4"
     },
     {
       "name": "Derindeki Ev",
@@ -17647,12 +17641,6 @@
       "url": "http://movie.vidmoly.workers.dev/?ID=mpvzatmokd9v&video.mp4"
     },
     {
-      "name": "Fatman",
-      "tmdb_id": 602211,
-      "year": "2020",
-      "url": "http://movie.vidmoly.workers.dev/?ID=f3i8lhn14mg4&video.mp4"
-    },
-    {
       "name": "Dövüş Kulübü",
       "tmdb_id": 550,
       "year": "2020",
@@ -18125,6 +18113,12 @@
       "tmdb_id": 654387,
       "year": "2019",
       "url": "http://movie.vidmoly.workers.dev/?ID=2zj5olykpyry&video.mp4"
+    },
+    {
+      "name": "Muhbir",
+      "tmdb_id": 466081,
+      "year": "2019",
+      "url": "http://movie.vidmoly.workers.dev/?ID=i30hsr3lucak&video.mp4"
     },
     {
       "name": "Blackbird",
@@ -21320,7 +21314,7 @@
     },
     {
       "name": "X+Y",
-      "tmdb_id": 261824,
+      "tmdb_id": 278236,
       "year": "2014",
       "url": "http://movie.vidmoly.workers.dev/?ID=qj6gk5j7itgf&video.mp4"
     },
@@ -27081,6 +27075,12 @@
       "url": "http://movie.vidmoly.workers.dev/?ID=hmdfz3v3o17q&video.mp4"
     },
     {
+      "name": "Gizli Dünya",
+      "tmdb_id": 14836,
+      "year": "2015",
+      "url": "http://movie.vidmoly.workers.dev/?ID=y1xv22gqz21j&video.mp4"
+    },
+    {
       "name": "Ters Yüz",
       "tmdb_id": 150540,
       "year": "2015",
@@ -29199,12 +29199,6 @@
       "tmdb_id": 650673,
       "year": "2019",
       "url": "http://movie.vidmoly.workers.dev/?ID=hn7l50zkeg04&video.mp4"
-    },
-    {
-      "name": "Muhbir",
-      "tmdb_id": 134411,
-      "year": "2019",
-      "url": "http://movie.vidmoly.workers.dev/?ID=i30hsr3lucak&video.mp4"
     },
     {
       "name": "Tünel",
@@ -33969,12 +33963,6 @@
       "url": "http://movie.vidmoly.workers.dev/?ID=0rzamk078ueb&video.mp4"
     },
     {
-      "name": "Gizli Dünya",
-      "tmdb_id": null,
-      "year": "2015",
-      "url": "http://movie.vidmoly.workers.dev/?ID=y1xv22gqz21j&video.mp4"
-    },
-    {
       "name": "Bir Anlık Hata",
       "tmdb_id": null,
       "year": "2015",
@@ -34159,6 +34147,12 @@
       "tmdb_id": null,
       "year": "2014",
       "url": "http://movie.vidmoly.workers.dev/?ID=x3y2vn1i6oln&video.mp4"
+    },
+    {
+      "name": "Beth'ten Sonra",
+      "tmdb_id": null,
+      "year": "2014",
+      "url": "http://movie.vidmoly.workers.dev/?ID=oykqs4mufft1&video.mp4"
     },
     {
       "name": "Kalbimi Kırıpta Gitme 2",
@@ -35535,6 +35529,12 @@
       "tmdb_id": 754067,
       "year": "2021",
       "url": "http://movie.vidmoly.workers.dev/?ID=dkjpn6ubmhej&video.mp4"
+    },
+    {
+      "name": "Two",
+      "tmdb_id": 121,
+      "year": "2021",
+      "url": "http://movie.vidmoly.workers.dev/?ID=k39grybjvqr8&video.mp4"
     },
     {
       "name": "Kral Olacak Adam",
