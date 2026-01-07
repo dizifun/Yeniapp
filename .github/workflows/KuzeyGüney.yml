@@ -1,0 +1,52 @@
+name: Kuzey Guney TV Botu
+
+# ZAMANLAYICI AYARLARI
+on:
+  schedule:
+    # Her 30 dakikada bir çalış
+    - cron: '*/30 * * * *'
+  
+  # GitHub sitesinden butona basarak elle çalıştırmak için
+  workflow_dispatch:
+
+# Botun dosyayı kaydedebilmesi için yazma izni
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Sanal bilgisayar
+
+    steps:
+      # 1. ADIM: Depoyu Çek
+      - name: Depoyu Kontrol Et
+        uses: actions/checkout@v3
+
+      # 2. ADIM: Python Kur
+      - name: Python 3.9 Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # 3. ADIM: Kütüphaneleri Yükle (requirements.txt GEREKMEZ)
+      # Requests kütüphanesini direkt burada indiriyoruz
+      - name: Kütüphaneleri Yükle
+        run: |
+          pip install requests
+
+      # 4. ADIM: Botu Çalıştır
+      - name: TV Botunu Başlat
+        run: python bot.py
+
+      # 5. ADIM: Oluşan JSON'u Kaydet
+      - name: Değişiklikleri GitHub'a Gönder
+        run: |
+          git config --global user.name 'TVBot'
+          git config --global user.email 'bot@noreply.github.com'
+          
+          # 'api' klasöründeki değişiklikleri al
+          git add api/*
+          
+          # Hata verirse (değişiklik yoksa) durma devam et (|| exit 0)
+          git commit -m "Otomatik Canlı Yayın Güncellemesi" || exit 0
+          git push
