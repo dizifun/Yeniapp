@@ -6147,12 +6147,6 @@
       "url": "http://movie.vidmoly.workers.dev/?ID=3yn0lrzycyub&video.mp4"
     },
     {
-      "name": "The Assassins",
-      "tmdb_id": 44092,
-      "year": "2012",
-      "url": "http://movie.vidmoly.workers.dev/?ID=urxex3ou9ntd&video.mp4"
-    },
-    {
       "name": "Şeref Madalyası",
       "tmdb_id": 75674,
       "year": "2012",
@@ -21308,7 +21302,7 @@
     },
     {
       "name": "X+Y",
-      "tmdb_id": 278236,
+      "tmdb_id": 261824,
       "year": "2014",
       "url": "http://movie.vidmoly.workers.dev/?ID=qj6gk5j7itgf&video.mp4"
     },
@@ -22291,6 +22285,12 @@
       "url": "http://movie.vidmoly.workers.dev/?ID=pziqqw0qpaxq&video.mp4"
     },
     {
+      "name": "The Assassins",
+      "tmdb_id": 136701,
+      "year": "2012",
+      "url": "http://movie.vidmoly.workers.dev/?ID=urxex3ou9ntd&video.mp4"
+    },
+    {
       "name": "Boyun Eğmeyeceğim",
       "tmdb_id": 82631,
       "year": "2012",
@@ -22940,7 +22940,7 @@
     },
     {
       "name": "Can Dostum",
-      "tmdb_id": 489,
+      "tmdb_id": 77338,
       "year": "2011",
       "url": "http://movie.vidmoly.workers.dev/?ID=yn6xab66eldd&video.mp4"
     },
