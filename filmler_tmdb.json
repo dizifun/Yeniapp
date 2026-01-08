@@ -1219,6 +1219,18 @@
       "url": "https://vidmody.com/mm/tt14001894/main/index.m3u8"
     },
     {
+      "name": "The Cable Guy",
+      "tmdb_id": null,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0115798/main/index.m3u8"
+    },
+    {
+      "name": "The Craigslist Killer",
+      "tmdb_id": null,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1772373/main/index.m3u8"
+    },
+    {
       "name": "Eddington Komedi-Dram-Western",
       "tmdb_id": null,
       "year": "2025",
@@ -9087,6 +9099,12 @@
       "url": "https://vidmody.com/mm/tt0436339/main/index.m3u8"
     },
     {
+      "name": "Harold and the Purple Crayon",
+      "tmdb_id": 826510,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1609486/main/index.m3u8"
+    },
+    {
       "name": "Jungle Beat: The Movie",
       "tmdb_id": 663459,
       "year": null,
@@ -10449,12 +10467,6 @@
       "tmdb_id": 9836,
       "year": null,
       "url": "https://vidmody.com/mm/tt0366548/main/index.m3u8"
-    },
-    {
-      "name": "Harold and the Purple Crayon",
-      "tmdb_id": 187133,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1609486/main/index.m3u8"
     },
     {
       "name": "Hop",
@@ -17643,12 +17655,6 @@
       "tmdb_id": 765119,
       "year": null,
       "url": "https://vidmody.com/mm/tt13610562/main/index.m3u8"
-    },
-    {
-      "name": "The Cable Guy",
-      "tmdb_id": 9894,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0115798/main/index.m3u8"
     },
     {
       "name": "The Campaign",
@@ -36783,12 +36789,6 @@
       "tmdb_id": 87496,
       "year": null,
       "url": "https://vidmody.com/mm/tt1381404/main/index.m3u8"
-    },
-    {
-      "name": "The Craigslist Killer",
-      "tmdb_id": 55680,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1772373/main/index.m3u8"
     },
     {
       "name": "The Cry of the Owl",
