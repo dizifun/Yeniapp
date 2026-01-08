@@ -1219,18 +1219,6 @@
       "url": "https://vidmody.com/mm/tt14001894/main/index.m3u8"
     },
     {
-      "name": "The Cable Guy",
-      "tmdb_id": null,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0115798/main/index.m3u8"
-    },
-    {
-      "name": "The Craigslist Killer",
-      "tmdb_id": null,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1772373/main/index.m3u8"
-    },
-    {
       "name": "Eddington Komedi-Dram-Western",
       "tmdb_id": null,
       "year": "2025",
@@ -3167,6 +3155,12 @@
       "tmdb_id": null,
       "year": null,
       "url": "https://vidmody.com/vs/tt24249946/"
+    },
+    {
+      "name": "Die Hart 2 Die Harter",
+      "tmdb_id": null,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt32094375/main/index.m3u8"
     },
     {
       "name": "Erry tarafından karıştırılmıştır.",
@@ -9771,6 +9765,12 @@
       "url": "https://vidmody.com/mm/tt0811080/main/index.m3u8"
     },
     {
+      "name": "Yıldız tozu",
+      "tmdb_id": 1321339,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0486655/main/index.m3u8"
+    },
+    {
       "name": "Söz",
       "tmdb_id": 9279,
       "year": null,
@@ -11593,6 +11593,12 @@
       "url": "https://vidmody.com/mm/tt12517908/main/index.m3u8"
     },
     {
+      "name": "Alive",
+      "tmdb_id": 7305,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0106246/main/index.m3u8"
+    },
+    {
       "name": "Anaconda",
       "tmdb_id": 1234731,
       "year": null,
@@ -12313,6 +12319,12 @@
       "url": "https://vidmody.com/mm/tt29195603/main/index.m3u8"
     },
     {
+      "name": "Kuşatma",
+      "tmdb_id": 764595,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt16156592/main/index.m3u8"
+    },
+    {
       "name": "Suikastçi",
       "tmdb_id": 58857,
       "year": null,
@@ -12377,6 +12389,12 @@
       "tmdb_id": 1091181,
       "year": null,
       "url": "https://vidmody.com/mm/tt9288692/main/index.m3u8"
+    },
+    {
+      "name": "Kuşatma",
+      "tmdb_id": 764595,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt14577300/main/index.m3u8"
     },
     {
       "name": "Sihirli Yollarda",
@@ -12773,12 +12791,6 @@
       "tmdb_id": 58857,
       "year": null,
       "url": "https://vidmody.com/mm/tt0499556/main/index.m3u8"
-    },
-    {
-      "name": "Yıldız tozu",
-      "tmdb_id": 2270,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0486655/main/index.m3u8"
     },
     {
       "name": "Dünyalar Savaşı War of the Worlds",
@@ -17657,6 +17669,12 @@
       "url": "https://vidmody.com/mm/tt13610562/main/index.m3u8"
     },
     {
+      "name": "The Cable Guy",
+      "tmdb_id": 9894,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0115798/main/index.m3u8"
+    },
+    {
       "name": "The Campaign",
       "tmdb_id": 77953,
       "year": null,
@@ -19719,6 +19737,12 @@
       "tmdb_id": 313369,
       "year": null,
       "url": "https://vidmody.com/mm/tt3783958/main/index.m3u8"
+    },
+    {
+      "name": "Aşkın Gözü Kördür",
+      "tmdb_id": 366514,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4699388/main/index.m3u8"
     },
     {
       "name": "Ay'ın Sırrı",
@@ -23599,12 +23623,6 @@
       "url": "https://vidmody.com/mm/tt29722855/main/index.m3u8"
     },
     {
-      "name": "Die Hart 2 Die Harter",
-      "tmdb_id": 1611488,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt32094375/main/index.m3u8"
-    },
-    {
       "name": "Dominique",
       "tmdb_id": 1331375,
       "year": null,
@@ -23729,12 +23747,6 @@
       "tmdb_id": 274857,
       "year": null,
       "url": "https://vidmody.com/mm/tt10720352/main/index.m3u8"
-    },
-    {
-      "name": "Kuşatma",
-      "tmdb_id": 8845,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt16156592/main/index.m3u8"
     },
     {
       "name": "Madame Web",
@@ -24221,12 +24233,6 @@
       "tmdb_id": 11817,
       "year": null,
       "url": "https://vidmody.com/mm/tt10198564/main/index.m3u8"
-    },
-    {
-      "name": "Kuşatma",
-      "tmdb_id": 8845,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt14577300/main/index.m3u8"
     },
     {
       "name": "Kuzey Denizi",
@@ -25699,6 +25705,12 @@
       "url": "https://vidmody.com/mm/tt0948470/main/index.m3u8"
     },
     {
+      "name": "Jack Reacher",
+      "tmdb_id": 343611,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
+    },
+    {
       "name": "James Bond Skyfall",
       "tmdb_id": 37724,
       "year": null,
@@ -26201,6 +26213,12 @@
       "tmdb_id": 1139140,
       "year": null,
       "url": "https://vidmody.com/mm/tt0082198/main/index.m3u8"
+    },
+    {
+      "name": "Araba",
+      "tmdb_id": 1229730,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0075809/main/index.m3u8"
     },
     {
       "name": "Çağrı",
@@ -27187,6 +27205,12 @@
       "tmdb_id": 1481979,
       "year": null,
       "url": "https://vidmody.com/mm/tt28769440/main/index.m3u8"
+    },
+    {
+      "name": "Rupture",
+      "tmdb_id": 1451283,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt4578118/"
     },
     {
       "name": "Saboteur",
@@ -33479,12 +33503,6 @@
       "url": "https://vidmody.com/mm/tt4072326/main/index.m3u8"
     },
     {
-      "name": "Alive",
-      "tmdb_id": 61076,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0106246/main/index.m3u8"
-    },
-    {
       "name": "All Quiet on the Western Front",
       "tmdb_id": 143,
       "year": null,
@@ -36791,6 +36809,12 @@
       "url": "https://vidmody.com/mm/tt1381404/main/index.m3u8"
     },
     {
+      "name": "The Craigslist Killer",
+      "tmdb_id": 55680,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1772373/main/index.m3u8"
+    },
+    {
       "name": "The Cry of the Owl",
       "tmdb_id": 18530,
       "year": null,
@@ -38241,6 +38265,12 @@
       "tmdb_id": 282113,
       "year": null,
       "url": "https://vidmody.com/mm/tt16304446/main/index.m3u8"
+    },
+    {
+      "name": "Anneler Günü",
+      "tmdb_id": 1482699,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
     },
     {
       "name": "Apocalypse Z: Sonun Başlangıcı",
@@ -39839,12 +39869,6 @@
       "url": "https://vidmody.com/mm/tt3068194/main/index.m3u8"
     },
     {
-      "name": "Aşkın Gözü Kördür",
-      "tmdb_id": 45069,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4699388/main/index.m3u8"
-    },
-    {
       "name": "Ay Işığı",
       "tmdb_id": 376867,
       "year": null,
@@ -40907,6 +40931,12 @@
       "url": "https://vidmody.com/mm/tt2357129/main/index.m3u8"
     },
     {
+      "name": "Tanrinin Oglu",
+      "tmdb_id": 235260,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
+    },
+    {
       "name": "Umudun Pesinde",
       "tmdb_id": 205220,
       "year": null,
@@ -41919,12 +41949,6 @@
       "tmdb_id": 10734,
       "year": null,
       "url": "https://vidmody.com/vs/tt0079116/"
-    },
-    {
-      "name": "Araba",
-      "tmdb_id": 58129,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0075809/main/index.m3u8"
     },
     {
       "name": "Çığlıklar ve Fısıltılar",
@@ -43909,12 +43933,6 @@
       "tmdb_id": 881415,
       "year": "2024",
       "url": "https://vidmody.com/vs/tt21375602/"
-    },
-    {
-      "name": "Anneler Günü",
-      "tmdb_id": 718838,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
     },
     {
       "name": "Balayımsı",
@@ -45929,22 +45947,10 @@
       "url": "https://vidmody.com/mm/tt0804463/main/index.m3u8"
     },
     {
-      "name": "Tanrinin Oglu",
-      "tmdb_id": 152736,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
-    },
-    {
       "name": "Street Kings 2: Motor City",
       "tmdb_id": 58625,
       "year": "2011",
       "url": "https://vidmody.com/vs/tt1707687/"
-    },
-    {
-      "name": "Jack Reacher",
-      "tmdb_id": 75780,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
     },
     {
       "name": "Taş Kafa",
@@ -46921,12 +46927,6 @@
       "url": "https://vidmody.com/mm/tt2215457/main/index.m3u8"
     },
     {
-      "name": "Rupture",
-      "tmdb_id": 345925,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt4578118/"
-    },
-    {
       "name": "Shark Lake",
       "tmdb_id": 299553,
       "year": null,
@@ -47729,6 +47729,12 @@
       "tmdb_id": 811631,
       "year": null,
       "url": "https://vidmody.com/mm/tt14060232/main/index.m3u8"
+    },
+    {
+      "name": "Tanrının Gazabı",
+      "tmdb_id": 880313,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15189534/main/index.m3u8"
     },
     {
       "name": "Tehlikeli Nokta",
@@ -49655,12 +49661,6 @@
       "tmdb_id": 617653,
       "year": null,
       "url": "https://vidmody.com/mm/tt4244994/main/index.m3u8"
-    },
-    {
-      "name": "Tanrının Gazabı",
-      "tmdb_id": 2000,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15189534/main/index.m3u8"
     },
     {
       "name": "Benim Adım Sara",
