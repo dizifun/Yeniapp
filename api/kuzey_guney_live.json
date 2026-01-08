@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1767844284,
+    "timestamp": 1767847566,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 6. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/d548_237/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 984
+        "start_at_second": 4266
     },
     "next_episode": {
         "title": "Kuzey Güney - 7. Bölüm",
