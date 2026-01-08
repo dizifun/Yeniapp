@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1767890414,
+    "timestamp": 1767893649,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 13. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/79ad_683/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 2174
+        "start_at_second": 5409
     },
     "next_episode": {
         "title": "Kuzey Güney - 14. Bölüm",
