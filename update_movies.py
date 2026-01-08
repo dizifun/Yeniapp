@@ -5,7 +5,7 @@ import time
 import os
 
 # --- AYARLAR ---
-M3U_URL = "https://raw.githubusercontent.com/sultansmgr/smart/main/HDFilm.m3u"
+M3U_URL = "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
 OUTPUT_FILE = "filmler_tmdb.json"
 
 # BURAYA KENDİ TMDB API ANAHTARINI YAZMALISIN!
