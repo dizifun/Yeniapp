@@ -1,15 +1,15 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1767904426,
+    "timestamp": 1767907803,
     "total_episodes": 80,
     "now_playing": {
-        "title": "Kuzey Güney - 15. Bölüm",
-        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/3cf0_701/index.m3u8",
+        "title": "Kuzey Güney - 16. Bölüm",
+        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/4278_600/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 3346
+        "start_at_second": 303
     },
     "next_episode": {
-        "title": "Kuzey Güney - 16. Bölüm",
-        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/4278_600/index.m3u8"
+        "title": "Kuzey Güney - 17. Bölüm",
+        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/23ec_594/index.m3u8"
     }
 }
