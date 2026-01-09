@@ -1219,6 +1219,24 @@
       "url": "https://vidmody.com/mm/tt14001894/main/index.m3u8"
     },
     {
+      "name": "Nuremberg Dökümantasyon-Drama",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt29567915/"
+    },
+    {
+      "name": "Fackham Hall Komedi-Hiciv",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt29008225/"
+    },
+    {
+      "name": "Xeno Alien -Macera-Dram",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt27629220/"
+    },
+    {
       "name": "Eddington Komedi-Dram-Western",
       "tmdb_id": null,
       "year": "2025",
@@ -9667,6 +9685,12 @@
       "tmdb_id": 418680,
       "year": null,
       "url": "https://vidmody.com/mm/tt1653665/main/index.m3u8"
+    },
+    {
+      "name": "Göç Mevsimi",
+      "tmdb_id": 1544348,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6386748/main/index.m3u8"
     },
     {
       "name": "Max 2-Max 2: White House Hero",
@@ -39563,12 +39587,6 @@
       "url": "https://vidmody.com/mm/tt4465538/main/index.m3u8"
     },
     {
-      "name": "Göç Mevsimi",
-      "tmdb_id": 438146,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6386748/main/index.m3u8"
-    },
-    {
       "name": "Göz Bebeğim",
       "tmdb_id": 430421,
       "year": null,
@@ -40134,7 +40152,7 @@
     },
     {
       "name": "Hatırla",
-      "tmdb_id": 302528,
+      "tmdb_id": 1354624,
       "year": null,
       "url": "https://vidmody.com/mm/tt3704050/main/index.m3u8"
     },
@@ -40907,6 +40925,12 @@
       "url": "https://vidmody.com/mm/tt2357129/main/index.m3u8"
     },
     {
+      "name": "Tanrinin Oglu",
+      "tmdb_id": 235260,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
+    },
+    {
       "name": "Umudun Pesinde",
       "tmdb_id": 205220,
       "year": null,
@@ -41334,7 +41358,7 @@
     },
     {
       "name": "Asla Pes Etme",
-      "tmdb_id": 391757,
+      "tmdb_id": 8456,
       "year": null,
       "url": "https://vidmody.com/mm/tt1023111/main/index.m3u8"
     },
@@ -45927,12 +45951,6 @@
       "tmdb_id": 152792,
       "year": null,
       "url": "https://vidmody.com/mm/tt0804463/main/index.m3u8"
-    },
-    {
-      "name": "Tanrinin Oglu",
-      "tmdb_id": 152736,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
     },
     {
       "name": "Street Kings 2: Motor City",
