@@ -1,15 +1,15 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1767990807,
+    "timestamp": 1767994114,
     "total_episodes": 80,
     "now_playing": {
-        "title": "Kuzey Güney - 28. Bölüm",
-        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/0d3a_472/index.m3u8",
+        "title": "Kuzey Güney - 29. Bölüm",
+        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/f74e_437/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 6267
+        "start_at_second": 3154
     },
     "next_episode": {
-        "title": "Kuzey Güney - 29. Bölüm",
-        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/f74e_437/index.m3u8"
+        "title": "Kuzey Güney - 30. Bölüm",
+        "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/48d2_573/index.m3u8"
     }
 }
