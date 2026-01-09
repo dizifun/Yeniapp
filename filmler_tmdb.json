@@ -17681,12 +17681,6 @@
       "url": "https://vidmody.com/mm/tt1790886/main/index.m3u8"
     },
     {
-      "name": "The Catholic School",
-      "tmdb_id": 1203432,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt10345782/main/index.m3u8"
-    },
-    {
       "name": "The Change-Up",
       "tmdb_id": 49520,
       "year": null,
@@ -18384,7 +18378,7 @@
     },
     {
       "name": "What We Did on Our Holiday",
-      "tmdb_id": 276843,
+      "tmdb_id": 1092644,
       "year": null,
       "url": "https://vidmody.com/mm/tt2725962/main/index.m3u8"
     },
@@ -23131,6 +23125,12 @@
       "url": "https://vidmody.com/mm/tt1465519/main/index.m3u8"
     },
     {
+      "name": "Thirst",
+      "tmdb_id": 409366,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3955808/main/index.m3u8"
+    },
+    {
       "name": "Three Kings",
       "tmdb_id": 6415,
       "year": null,
@@ -25537,12 +25537,6 @@
       "url": "https://vidmody.com/mm/tt1206543/main/index.m3u8"
     },
     {
-      "name": "Keskin Nisanci",
-      "tmdb_id": 1410082,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2179136/main/index.m3u8"
-    },
-    {
       "name": "Maskeli Suvari",
       "tmdb_id": 57201,
       "year": null,
@@ -25703,12 +25697,6 @@
       "tmdb_id": 1930,
       "year": null,
       "url": "https://vidmody.com/mm/tt0948470/main/index.m3u8"
-    },
-    {
-      "name": "Jack Reacher",
-      "tmdb_id": 343611,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
     },
     {
       "name": "James Bond Skyfall",
@@ -27265,6 +27253,12 @@
       "tmdb_id": 1128938,
       "year": null,
       "url": "https://vidmody.com/mm/tt10648198/main/index.m3u8"
+    },
+    {
+      "name": "The Catholic School",
+      "tmdb_id": 1612382,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt10345782/main/index.m3u8"
     },
     {
       "name": "The Colony",
@@ -35525,12 +35519,6 @@
       "url": "https://vidmody.com/mm/tt12676326/main/index.m3u8"
     },
     {
-      "name": "Mandy",
-      "tmdb_id": 47026,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6998518/main/index.m3u8"
-    },
-    {
       "name": "Mansfield Park",
       "tmdb_id": 16236,
       "year": null,
@@ -37715,12 +37703,6 @@
       "url": "https://vidmody.com/mm/tt0469623/main/index.m3u8"
     },
     {
-      "name": "Thirst",
-      "tmdb_id": 315212,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3955808/main/index.m3u8"
-    },
-    {
       "name": "This Beautiful Fantastic",
       "tmdb_id": 352490,
       "year": null,
@@ -37788,7 +37770,7 @@
     },
     {
       "name": "Toro",
-      "tmdb_id": 364615,
+      "tmdb_id": 70707,
       "year": null,
       "url": "https://vidmody.com/mm/tt4213806/main/index.m3u8"
     },
@@ -40158,7 +40140,7 @@
     },
     {
       "name": "Hatırla",
-      "tmdb_id": 1354624,
+      "tmdb_id": 302528,
       "year": null,
       "url": "https://vidmody.com/mm/tt3704050/main/index.m3u8"
     },
@@ -40931,12 +40913,6 @@
       "url": "https://vidmody.com/mm/tt2357129/main/index.m3u8"
     },
     {
-      "name": "Tanrinin Oglu",
-      "tmdb_id": 235260,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
-    },
-    {
       "name": "Umudun Pesinde",
       "tmdb_id": 205220,
       "year": null,
@@ -41364,7 +41340,7 @@
     },
     {
       "name": "Asla Pes Etme",
-      "tmdb_id": 8456,
+      "tmdb_id": 391757,
       "year": null,
       "url": "https://vidmody.com/mm/tt1023111/main/index.m3u8"
     },
@@ -42305,6 +42281,12 @@
       "tmdb_id": 11511,
       "year": null,
       "url": "https://vidmody.com/vs/tt0116756/"
+    },
+    {
+      "name": "Mandy",
+      "tmdb_id": 460885,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6998518/main/index.m3u8"
     },
     {
       "name": "Mara and the Firebringer",
@@ -45947,10 +45929,22 @@
       "url": "https://vidmody.com/mm/tt0804463/main/index.m3u8"
     },
     {
+      "name": "Tanrinin Oglu",
+      "tmdb_id": 152736,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
+    },
+    {
       "name": "Street Kings 2: Motor City",
       "tmdb_id": 58625,
       "year": "2011",
       "url": "https://vidmody.com/vs/tt1707687/"
+    },
+    {
+      "name": "Jack Reacher",
+      "tmdb_id": 75780,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
     },
     {
       "name": "Taş Kafa",
@@ -49045,6 +49039,12 @@
       "tmdb_id": 282631,
       "year": null,
       "url": "https://vidmody.com/mm/tt3541262/main/index.m3u8"
+    },
+    {
+      "name": "Keskin Nisanci",
+      "tmdb_id": 190859,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2179136/main/index.m3u8"
     },
     {
       "name": "Son Kalan",
