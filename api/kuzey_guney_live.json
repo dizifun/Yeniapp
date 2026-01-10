@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1768072903,
+    "timestamp": 1768074053,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 41. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/293b_199/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 4903
+        "start_at_second": 6053
     },
     "next_episode": {
         "title": "Kuzey Güney - 42. Bölüm",
