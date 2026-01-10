@@ -8197,12 +8197,6 @@
       "url": "https://vidmody.com/vs/tt21200850/"
     },
     {
-      "name": "Cehennem Silahi 1",
-      "tmdb_id": null,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0093409/main/index.m3u8"
-    },
-    {
       "name": "Buz Devri 4 Bir Yilbasi Macerasi",
       "tmdb_id": null,
       "year": null,
@@ -9571,12 +9565,6 @@
       "tmdb_id": 638597,
       "year": null,
       "url": "https://vidmody.com/mm/tt8521876/main/index.m3u8"
-    },
-    {
-      "name": "Zoom",
-      "tmdb_id": 14113,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3763866/main/index.m3u8"
     },
     {
       "name": "Lilo & Stitch",
@@ -11063,6 +11051,12 @@
       "url": "https://vidmody.com/mm/tt27276658/main/index.m3u8"
     },
     {
+      "name": "Zoom",
+      "tmdb_id": 351065,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3763866/main/index.m3u8"
+    },
+    {
       "name": ".hack//GIFT",
       "tmdb_id": 573554,
       "year": null,
@@ -12155,12 +12149,6 @@
       "tmdb_id": 1368337,
       "year": null,
       "url": "https://vidmody.com/mm/tt1659619/main/index.m3u8"
-    },
-    {
-      "name": "The Philadelphia Experiment",
-      "tmdb_id": 122293,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2039399/main/index.m3u8"
     },
     {
       "name": "The Physician",
@@ -13497,12 +13485,6 @@
       "url": "https://vidmody.com/mm/tt2436386/main/index.m3u8"
     },
     {
-      "name": "Push",
-      "tmdb_id": 13455,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0465580/main/index.m3u8"
-    },
-    {
       "name": "Red Faction: Origins",
       "tmdb_id": 65945,
       "year": null,
@@ -13609,6 +13591,12 @@
       "tmdb_id": 1280444,
       "year": null,
       "url": "https://vidmody.com/mm/tt9345754/main/index.m3u8"
+    },
+    {
+      "name": "The Philadelphia Experiment",
+      "tmdb_id": 10606,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2039399/main/index.m3u8"
     },
     {
       "name": "The Recall",
@@ -15231,12 +15219,6 @@
       "tmdb_id": 71552,
       "year": null,
       "url": "https://vidmody.com/vs/tt1605630/"
-    },
-    {
-      "name": "Amistad",
-      "tmdb_id": 1184074,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0118607/main/index.m3u8"
     },
     {
       "name": "An American Werewolf in London",
@@ -23791,12 +23773,6 @@
       "url": "https://vidmody.com/mm/tt9224104/main/index.m3u8"
     },
     {
-      "name": "Motorcular",
-      "tmdb_id": 11199,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt21454134/main/index.m3u8"
-    },
-    {
       "name": "Panda Planı",
       "tmdb_id": 1160956,
       "year": null,
@@ -25723,6 +25699,12 @@
       "url": "https://vidmody.com/mm/tt0948470/main/index.m3u8"
     },
     {
+      "name": "Jack Reacher",
+      "tmdb_id": 343611,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
+    },
+    {
       "name": "James Bond Skyfall",
       "tmdb_id": 37724,
       "year": null,
@@ -26957,6 +26939,12 @@
       "tmdb_id": 9471,
       "year": null,
       "url": "https://vidmody.com/mm/tt0305357/main/index.m3u8"
+    },
+    {
+      "name": "Cehennem Silahi 1",
+      "tmdb_id": 941,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0093409/main/index.m3u8"
     },
     {
       "name": "Cehennem Silahi 2",
@@ -29147,6 +29135,12 @@
       "tmdb_id": 395982,
       "year": null,
       "url": "https://vidmody.com/mm/tt5154288/main/index.m3u8"
+    },
+    {
+      "name": "Push",
+      "tmdb_id": 1073109,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0465580/main/index.m3u8"
     },
     {
       "name": "Realms",
@@ -33579,6 +33573,12 @@
       "tmdb_id": 431261,
       "year": null,
       "url": "https://vidmody.com/mm/tt4303202/main/index.m3u8"
+    },
+    {
+      "name": "Amistad",
+      "tmdb_id": 11831,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0118607/main/index.m3u8"
     },
     {
       "name": "Amour Fou",
@@ -38591,12 +38591,6 @@
       "url": "https://vidmody.com/mm/tt9013182/main/index.m3u8"
     },
     {
-      "name": "Büyük Büyü",
-      "tmdb_id": 14320,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt17040210/main/index.m3u8"
-    },
-    {
       "name": "Carter",
       "tmdb_id": 477025,
       "year": null,
@@ -38736,7 +38730,7 @@
     },
     {
       "name": "Küçük Şeyler",
-      "tmdb_id": 605279,
+      "tmdb_id": 1102493,
       "year": null,
       "url": "https://vidmody.com/mm/tt10016180/main/index.m3u8"
     },
@@ -40919,12 +40913,6 @@
       "url": "https://vidmody.com/mm/tt2357129/main/index.m3u8"
     },
     {
-      "name": "Tanrinin Oglu",
-      "tmdb_id": 235260,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
-    },
-    {
       "name": "Umudun Pesinde",
       "tmdb_id": 205220,
       "year": null,
@@ -42539,6 +42527,12 @@
       "tmdb_id": 10202,
       "year": null,
       "url": "https://vidmody.com/mm/tt10192704/main/index.m3u8"
+    },
+    {
+      "name": "Büyük Büyü",
+      "tmdb_id": 2280,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt17040210/main/index.m3u8"
     },
     {
       "name": "Can Çıkar Huy Çıkmaz",
@@ -45371,6 +45365,12 @@
       "url": "https://vidmody.com/mm/tt21275544/main/index.m3u8"
     },
     {
+      "name": "Motorcular",
+      "tmdb_id": 1008409,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt21454134/main/index.m3u8"
+    },
+    {
       "name": "Ölümcül Ateş",
       "tmdb_id": 1108566,
       "year": null,
@@ -45947,16 +45947,16 @@
       "url": "https://vidmody.com/mm/tt0804463/main/index.m3u8"
     },
     {
+      "name": "Tanrinin Oglu",
+      "tmdb_id": 152736,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3210686/main/index.m3u8"
+    },
+    {
       "name": "Street Kings 2: Motor City",
       "tmdb_id": 58625,
       "year": "2011",
       "url": "https://vidmody.com/vs/tt1707687/"
-    },
-    {
-      "name": "Jack Reacher",
-      "tmdb_id": 75780,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
     },
     {
       "name": "Taş Kafa",
