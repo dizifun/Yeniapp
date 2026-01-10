@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1768049711,
+    "timestamp": 1768052079,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 38. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/fc3e_236/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 971
+        "start_at_second": 3339
     },
     "next_episode": {
         "title": "Kuzey Güney - 39. Bölüm",
