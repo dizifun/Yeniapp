@@ -11141,12 +11141,6 @@
       "url": "https://vidmody.com/mm/tt8995218/main/index.m3u8"
     },
     {
-      "name": "Burada Değilim",
-      "tmdb_id": 15137,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5657712/main/index.m3u8"
-    },
-    {
       "name": "Cüce Dedektif Şerlok",
       "tmdb_id": 370567,
       "year": null,
@@ -12917,12 +12911,6 @@
       "tmdb_id": 11589,
       "year": null,
       "url": "https://vidmody.com/mm/tt0065938/main/index.m3u8"
-    },
-    {
-      "name": "Kiyamet",
-      "tmdb_id": 840464,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0078788/main/index.m3u8"
     },
     {
       "name": "Monty Python Ve Kutsal Kase",
@@ -19589,6 +19577,12 @@
       "url": "https://vidmody.com/mm/tt7755856/main/index.m3u8"
     },
     {
+      "name": "Burada Değilim",
+      "tmdb_id": 580522,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5657712/main/index.m3u8"
+    },
+    {
       "name": "Büyülü Geceler",
       "tmdb_id": 552088,
       "year": null,
@@ -19722,7 +19716,7 @@
     },
     {
       "name": "Alaaddin'in Yeni Serüvenleri",
-      "tmdb_id": 459616,
+      "tmdb_id": 344268,
       "year": null,
       "url": "https://vidmody.com/vs/tt4466864/"
     },
@@ -21848,7 +21842,7 @@
     },
     {
       "name": "Demon Warriors",
-      "tmdb_id": 27436,
+      "tmdb_id": 238303,
       "year": null,
       "url": "https://vidmody.com/vs/tt1190556/"
     },
@@ -25699,12 +25693,6 @@
       "url": "https://vidmody.com/mm/tt0948470/main/index.m3u8"
     },
     {
-      "name": "Jack Reacher",
-      "tmdb_id": 343611,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
-    },
-    {
       "name": "James Bond Skyfall",
       "tmdb_id": 37724,
       "year": null,
@@ -26231,6 +26219,12 @@
       "tmdb_id": 10640,
       "year": null,
       "url": "https://vidmody.com/mm/tt0074559/main/index.m3u8"
+    },
+    {
+      "name": "Kiyamet",
+      "tmdb_id": 840464,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0078788/main/index.m3u8"
     },
     {
       "name": "Pasifik Savaşları",
@@ -36396,7 +36390,7 @@
     },
     {
       "name": "Shell",
-      "tmdb_id": 787747,
+      "tmdb_id": 135990,
       "year": null,
       "url": "https://vidmody.com/mm/tt2088893/main/index.m3u8"
     },
@@ -45957,6 +45951,12 @@
       "tmdb_id": 58625,
       "year": "2011",
       "url": "https://vidmody.com/vs/tt1707687/"
+    },
+    {
+      "name": "Jack Reacher",
+      "tmdb_id": 75780,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
     },
     {
       "name": "Taş Kafa",
