@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1768058819,
+    "timestamp": 1768059877,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 39. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/8f05_207/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 3659
+        "start_at_second": 4717
     },
     "next_episode": {
         "title": "Kuzey Güney - 40. Bölüm",
