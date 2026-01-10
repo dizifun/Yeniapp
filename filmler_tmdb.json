@@ -1219,6 +1219,18 @@
       "url": "https://vidmody.com/mm/tt14001894/main/index.m3u8"
     },
     {
+      "name": "Turbulence Macera-Dram-Gerilim",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt33009027/"
+    },
+    {
+      "name": "Wildcat Aksiyon-Gerilim",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt36153493/"
+    },
+    {
       "name": "Nuremberg Dökümantasyon-Drama",
       "tmdb_id": null,
       "year": "2025",
@@ -1849,54 +1861,6 @@
       "url": "https://vidmody.com/vs/tt28335348/"
     },
     {
-      "name": "Playdate Oyun Tarihi-Komedi",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt31425731/"
-    },
-    {
-      "name": "The Home Ev -Korku-Gerilim",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt17023012/"
-    },
-    {
-      "name": "Mango Romantik-Drama-Komedi",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt33293169/"
-    },
-    {
-      "name": "Frankenstein Korku-Kara Fantezi",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt1312221/"
-    },
-    {
-      "name": "Jurassic World: Rebirth Aksiyon-Macera",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt31036941/"
-    },
-    {
-      "name": "Bölük Pörçük-Bir Tuncel Kurtiz Biyografisii All Over the Place-A Portrait of Tuncel Kurtiz",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt36503240/"
-    },
-    {
-      "name": "Tyler Perry's Finding Joy Drama",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt31193547/"
-    },
-    {
-      "name": "Vicious Doğaüstü Korku-Gerilim",
-      "tmdb_id": null,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt31511689/"
-    },
-    {
       "name": "Bonjour Tristesse Romantik-Dram",
       "tmdb_id": null,
       "year": "2024",
@@ -1939,16 +1903,64 @@
       "url": "https://vidmody.com/vs/tt27156915/"
     },
     {
-      "name": "Vacances Forcees Zoraki Tatil-Komedi",
+      "name": "Playdate Oyun Tarihi-Komedi",
       "tmdb_id": null,
       "year": "2025",
-      "url": "https://vidmody.com/vs/tt33836626/"
+      "url": "https://vidmody.com/vs/tt31425731/"
+    },
+    {
+      "name": "The Home Ev -Korku-Gerilim",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt17023012/"
+    },
+    {
+      "name": "Mango Romantik-Drama-Komedi",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt33293169/"
+    },
+    {
+      "name": "Frankenstein Korku-Kara Fantezi",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt1312221/"
+    },
+    {
+      "name": "Jurassic World: Rebirth Aksiyon-Macera",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt31036941/"
+    },
+    {
+      "name": "Bölük Pörçük-Bir Tuncel Kurtiz Biyografisii All Over the Place-A Portrait of Tuncel Kurtiz",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt36503240/"
     },
     {
       "name": "Vacances Forcees Zoraki Tatil-Komedi",
       "tmdb_id": null,
       "year": "2025",
       "url": "https://vidmody.com/vs/tt33836626/"
+    },
+    {
+      "name": "Tyler Perry's Finding Joy Drama",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt31193547/"
+    },
+    {
+      "name": "Vacances Forcees Zoraki Tatil-Komedi",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt33836626/"
+    },
+    {
+      "name": "Vicious Doğaüstü Korku-Gerilim",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt31511689/"
     },
     {
       "name": "The Rats: A Witcher Tale Fareler:Bir Witcher Hikayesi- Aksiyon",
@@ -17598,7 +17610,7 @@
     },
     {
       "name": "The Best Christmas Pageant Ever",
-      "tmdb_id": 1206617,
+      "tmdb_id": 27163,
       "year": null,
       "url": "https://vidmody.com/mm/tt2347285/main/index.m3u8"
     },
@@ -18633,6 +18645,12 @@
       "tmdb_id": 4951,
       "year": null,
       "url": "https://vidmody.com/mm/tt0147800/main/index.m3u8"
+    },
+    {
+      "name": "Ricky Gervais: Mortality",
+      "tmdb_id": 1312150,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt32767869/"
     },
     {
       "name": "My Secret Santa",
@@ -23345,6 +23363,12 @@
       "tmdb_id": 941520,
       "year": null,
       "url": "https://s17.imagehub.pics/mc/G2MeMF5QMJ1vMKWcYxM1pzyirzRhZwNlZF4kZQtjpP5DG0jd0zxnJ1uM2IbqJVhpTywpjs0xi17vr1"
+    },
+    {
+      "name": "Gerilim",
+      "tmdb_id": 15092,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt3331548/"
     },
     {
       "name": "Khao Chum Thong Khanong Chum Chon -Altına Hücum-Gold Rush Gang",
@@ -38133,6 +38157,12 @@
       "tmdb_id": 1268999,
       "year": null,
       "url": "https://vidmody.com/mm/tt1131724/main/index.m3u8"
+    },
+    {
+      "name": "Romantik",
+      "tmdb_id": 572514,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt19847976/"
     },
     {
       "name": "She Walks in Darkness Karanlıkta Saklı",
