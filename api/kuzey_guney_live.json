@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1768087582,
+    "timestamp": 1768088649,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 44. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/2c1c_202/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 322
+        "start_at_second": 1389
     },
     "next_episode": {
         "title": "Kuzey Güney - 45. Bölüm",
