@@ -1,1 +1,23 @@
-.
+{
+  "playlist_name": "Fanatk Canlı Platformu",
+  "channels": [
+    {
+      "name": "Kuzey Güney 7/24",
+      "logo": "https://tmdb.tmsimg.com/assets/p8681533_b_v13_aa.jpg",
+      "group": "Efsane Diziler",
+      "url": "https://cdn.jsdelivr.net/gh/dizifun/Yeniapp@main/api/kuzey_guney_full.json"
+    },
+    {
+      "name": "Aşk-ı Memnu Özel",
+      "logo": "https://upload.wikimedia.org/wikipedia/tr/6/62/A%C5%9Fk-%C4%B1_Memnu_Dizi_Afi%C5%9Fi.jpg",
+      "group": "Efsane Diziler",
+      "url": "https://senin-sunucun.com/api/aski_memnu_listesi.json"
+    },
+    {
+      "name": "Kurtlar Vadisi",
+      "logo": "https://i.imgur.com/kurtlar_vadisi_logo.png",
+      "group": "Aksiyon",
+      "url": "https://senin-sunucun.com/api/kv_listesi.json"
+    }
+  ]
+}
