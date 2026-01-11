@@ -9051,12 +9051,6 @@
       "url": "https://vidmody.com/mm/tt0952640/main/index.m3u8"
     },
     {
-      "name": "Ayi Paddington",
-      "tmdb_id": 516729,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1109624/main/index.m3u8"
-    },
-    {
       "name": "Beauty and the Beast",
       "tmdb_id": 321612,
       "year": null,
@@ -14529,6 +14523,12 @@
       "tmdb_id": 23398,
       "year": null,
       "url": "https://vidmody.com/mm/tt1231580/main/index.m3u8"
+    },
+    {
+      "name": "Ayi Paddington",
+      "tmdb_id": 116149,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1109624/main/index.m3u8"
     },
     {
       "name": "Garfield",
@@ -25723,6 +25723,12 @@
       "url": "https://vidmody.com/mm/tt0948470/main/index.m3u8"
     },
     {
+      "name": "Jack Reacher",
+      "tmdb_id": 343611,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
+    },
+    {
       "name": "James Bond Skyfall",
       "tmdb_id": 37724,
       "year": null,
@@ -26804,7 +26810,7 @@
     },
     {
       "name": "John Wick",
-      "tmdb_id": 458156,
+      "tmdb_id": 245891,
       "year": null,
       "url": "https://vidmody.com/mm/tt2911666/main/index.m3u8"
     },
@@ -40164,7 +40170,7 @@
     },
     {
       "name": "Hatırla",
-      "tmdb_id": 1354624,
+      "tmdb_id": 302528,
       "year": null,
       "url": "https://vidmody.com/mm/tt3704050/main/index.m3u8"
     },
@@ -45975,12 +45981,6 @@
       "tmdb_id": 58625,
       "year": "2011",
       "url": "https://vidmody.com/vs/tt1707687/"
-    },
-    {
-      "name": "Jack Reacher",
-      "tmdb_id": 75780,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
     },
     {
       "name": "Taş Kafa",
