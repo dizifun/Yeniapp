@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1768120571,
+    "timestamp": 1768123737,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 49. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/76f5_120/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 1211
+        "start_at_second": 4377
     },
     "next_episode": {
         "title": "Kuzey Güney - 50. Bölüm",
