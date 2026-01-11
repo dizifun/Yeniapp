@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1768152285,
+    "timestamp": 1768153444,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 54. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/dc2b_1224/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 825
+        "start_at_second": 1984
     },
     "next_episode": {
         "title": "Kuzey Güney - 55. Bölüm",
