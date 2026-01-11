@@ -13383,6 +13383,12 @@
       "url": "https://vidmody.com/mm/tt3804114/main/index.m3u8"
     },
     {
+      "name": "Hotel Artemis",
+      "tmdb_id": 406761,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5834262/main/index.m3u8"
+    },
+    {
       "name": "How It Ends",
       "tmdb_id": 475210,
       "year": null,
@@ -21860,7 +21866,7 @@
     },
     {
       "name": "Demon Warriors",
-      "tmdb_id": 238303,
+      "tmdb_id": 27436,
       "year": null,
       "url": "https://vidmody.com/vs/tt1190556/"
     },
@@ -32824,7 +32830,7 @@
     },
     {
       "name": "Trans",
-      "tmdb_id": 1481313,
+      "tmdb_id": 840902,
       "year": null,
       "url": "https://vidmody.com/mm/tt1924429/main/index.m3u8"
     },
@@ -38289,6 +38295,12 @@
       "tmdb_id": 282113,
       "year": null,
       "url": "https://vidmody.com/mm/tt16304446/main/index.m3u8"
+    },
+    {
+      "name": "Anneler Günü",
+      "tmdb_id": 1482699,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
     },
     {
       "name": "Apocalypse Z: Sonun Başlangıcı",
@@ -43947,12 +43959,6 @@
       "url": "https://vidmody.com/vs/tt21375602/"
     },
     {
-      "name": "Anneler Günü",
-      "tmdb_id": 718838,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
-    },
-    {
       "name": "Balayımsı",
       "tmdb_id": 1257750,
       "year": null,
@@ -46661,12 +46667,6 @@
       "tmdb_id": 577889,
       "year": null,
       "url": "https://vidmody.com/mm/tt7857374/main/index.m3u8"
-    },
-    {
-      "name": "Hotel Artemis",
-      "tmdb_id": 406761,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5834262/main/index.m3u8"
     },
     {
       "name": "House of 9",
