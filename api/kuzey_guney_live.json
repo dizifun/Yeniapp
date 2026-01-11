@@ -1,12 +1,12 @@
 {
     "channel_name": "Kuzey Güney 7/24",
-    "timestamp": 1768107732,
+    "timestamp": 1768110600,
     "total_episodes": 80,
     "now_playing": {
         "title": "Kuzey Güney - 47. Bölüm",
         "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/2d29_141/index.m3u8",
         "total_duration": 6420,
-        "start_at_second": 1212
+        "start_at_second": 4080
     },
     "next_episode": {
         "title": "Kuzey Güney - 48. Bölüm",
