@@ -1,52 +1,41 @@
-name: Kuzey Guney TV Botu
+name: Dizi Listesi Guncelleyici
 
-# ZAMANLAYICI AYARLARI
+# TETİKLEYİCİLER
 on:
-  schedule:
-    # Her 30 dakikada bir çalış
-    - cron: '*/30 * * * *'
-  
-  # GitHub sitesinden butona basarak elle çalıştırmak için
+  # Otomatik zamanlama (cron) kaldırıldı.
+  # Sadece elle çalıştırma butonu aktif:
   workflow_dispatch:
 
-# Botun dosyayı kaydedebilmesi için yazma izni
 permissions:
   contents: write
 
 jobs:
-  build:
-    runs-on: ubuntu-latest # Sanal bilgisayar
+  update-list:
+    runs-on: ubuntu-latest
 
     steps:
-      # 1. ADIM: Depoyu Çek
-      - name: Depoyu Kontrol Et
+      - name: Depoyu Çek
         uses: actions/checkout@v3
 
-      # 2. ADIM: Python Kur
-      - name: Python 3.9 Kur
+      - name: Python Kur
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      # 3. ADIM: Kütüphaneleri Yükle (requirements.txt GEREKMEZ)
-      # Requests kütüphanesini direkt burada indiriyoruz
       - name: Kütüphaneleri Yükle
-        run: |
-          pip install requests
+        run: pip install requests
 
-      # 4. ADIM: Botu Çalıştır
-      - name: TV Botunu Başlat
+      - name: Botu Çalıştır ve JSON Oluştur
         run: python bot.py
 
-      # 5. ADIM: Oluşan JSON'u Kaydet
-      - name: Değişiklikleri GitHub'a Gönder
+      - name: GitHub'a Kaydet
         run: |
-          git config --global user.name 'TVBot'
+          git config --global user.name 'PlaylistBot'
           git config --global user.email 'bot@noreply.github.com'
           
-          # 'api' klasöründeki değişiklikleri al
+          # Sadece api klasörünü ekle
           git add api/*
           
-          # Hata verirse (değişiklik yoksa) durma devam et (|| exit 0)
-          git commit -m "Otomatik Canlı Yayın Güncellemesi" || exit 0
+          # Değişiklik varsa commit at, yoksa hata verme
+          git commit -m "Dizi listesi güncellendi" || echo "Değişiklik yok"
           git push
