@@ -19025,6 +19025,12 @@
       "url": "https://vidmody.com/mm/tt13834006/main/index.m3u8"
     },
     {
+      "name": "Büyük Büyü",
+      "tmdb_id": 38365,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt17040210/main/index.m3u8"
+    },
+    {
       "name": "Fanteziler",
       "tmdb_id": 768127,
       "year": null,
@@ -19740,7 +19746,7 @@
     },
     {
       "name": "Alaaddin'in Yeni Serüvenleri",
-      "tmdb_id": 344268,
+      "tmdb_id": 459616,
       "year": null,
       "url": "https://vidmody.com/vs/tt4466864/"
     },
@@ -21866,7 +21872,7 @@
     },
     {
       "name": "Demon Warriors",
-      "tmdb_id": 27436,
+      "tmdb_id": 238303,
       "year": null,
       "url": "https://vidmody.com/vs/tt1190556/"
     },
@@ -27870,7 +27876,7 @@
     },
     {
       "name": "The Maltese Falcon",
-      "tmdb_id": 28257,
+      "tmdb_id": 963,
       "year": null,
       "url": "https://vidmody.com/mm/tt0033870/main/index.m3u8"
     },
@@ -38285,12 +38291,6 @@
       "url": "https://vidmody.com/mm/tt16304446/main/index.m3u8"
     },
     {
-      "name": "Anneler Günü",
-      "tmdb_id": 1482699,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
-    },
-    {
       "name": "Apocalypse Z: Sonun Başlangıcı",
       "tmdb_id": 1118031,
       "year": null,
@@ -42553,12 +42553,6 @@
       "url": "https://vidmody.com/mm/tt10192704/main/index.m3u8"
     },
     {
-      "name": "Büyük Büyü",
-      "tmdb_id": 2280,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt17040210/main/index.m3u8"
-    },
-    {
       "name": "Can Çıkar Huy Çıkmaz",
       "tmdb_id": 785457,
       "year": null,
@@ -43945,6 +43939,12 @@
       "tmdb_id": 881415,
       "year": "2024",
       "url": "https://vidmody.com/vs/tt21375602/"
+    },
+    {
+      "name": "Anneler Günü",
+      "tmdb_id": 718838,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
     },
     {
       "name": "Balayımsı",
