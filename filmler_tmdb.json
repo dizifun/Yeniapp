@@ -24391,12 +24391,6 @@
       "url": "https://vidmody.com/mm/tt15837458/main/index.m3u8"
     },
     {
-      "name": "Son Görev",
-      "tmdb_id": 9319,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt9804272/main/index.m3u8"
-    },
-    {
       "name": "Tek Atış",
       "tmdb_id": 1214314,
       "year": null,
@@ -26195,12 +26189,6 @@
       "tmdb_id": 6520,
       "year": null,
       "url": "https://vidmody.com/mm/tt0113071/main/index.m3u8"
-    },
-    {
-      "name": "Son Görev",
-      "tmdb_id": 9319,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt0102266/"
     },
     {
       "name": "He-Man",
@@ -47767,6 +47755,12 @@
       "url": "https://vidmody.com/mm/tt14138650/main/index.m3u8"
     },
     {
+      "name": "Son Görev",
+      "tmdb_id": 18355,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt9804272/main/index.m3u8"
+    },
+    {
       "name": "Sonsuz Fırtına",
       "tmdb_id": 811631,
       "year": null,
@@ -48701,6 +48695,12 @@
       "tmdb_id": 9944,
       "year": null,
       "url": "https://vidmody.com/mm/tt0107798/main/index.m3u8"
+    },
+    {
+      "name": "Son Görev",
+      "tmdb_id": 18355,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt0102266/"
     },
     {
       "name": "Arka Pencere",
