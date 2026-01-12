@@ -1,4 +1,4 @@
-name: Kontrol
+Name: Kontrol
 concurrency:
   group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
@@ -30,24 +30,31 @@ jobs:
       - name: inattv.py Çalıştır
         continue-on-error: true
         run: python inattv.py
+        
       - name: vav.py Çalıştır
         continue-on-error: true
         run: python vav.py
+        
       - name: androtv.py Çalıştır
         continue-on-error: true
         run: python androtv.py
+        
       - name: selcuk.py Çalıştır
         continue-on-error: true
         run: python selcuk.py
+        
       - name: rec.py Çalıştır
         continue-on-error: true
         run: python rec.py
+        
       - name: rec2.py Çalıştır
         continue-on-error: true
         run: python rec2.py
+        
       - name: gbl.py Çalıştır
         continue-on-error: true
-        run: python gbl.py        
+        run: python gbl.py
+        
       - name: birlestir.py Çalıştır
         continue-on-error: true
         run: python birlestir.py        
@@ -55,7 +62,14 @@ jobs:
       - name: Değişiklik Kontrolü
         id: degisiklik_kontrol
         run: |
-          git diff --quiet . || echo "degisiklik=true" >> $GITHUB_OUTPUT
+          # Git status ile yeni eklenen ve değişen tüm dosyaları kontrol et
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "degisiklik=true" >> $GITHUB_OUTPUT
+            echo "✅ Değişiklikler tespit edildi, commit işlemine geçiliyor."
+          else
+            echo "degisiklik=false" >> $GITHUB_OUTPUT
+            echo "🚫 Herhangi bir değişiklik bulunamadı."
+          fi
           
       - name: Değişiklikleri Commit Et
         if: steps.degisiklik_kontrol.outputs.degisiklik == 'true'
