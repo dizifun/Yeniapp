@@ -1243,6 +1243,24 @@
       "url": "https://vidmody.com/mm/tt14001894/main/index.m3u8"
     },
     {
+      "name": "A Shot in the Dark Karanlıkta Bir Çığlık --Komedi -Gizem-Suç",
+      "tmdb_id": null,
+      "year": "1964",
+      "url": "https://vidmody.com/vs/tt0058586/\""
+    },
+    {
+      "name": "The Pink Panther Komedi",
+      "tmdb_id": null,
+      "year": "2006",
+      "url": "https://vidmody.com/vs/tt0383216/"
+    },
+    {
+      "name": "The Return of the Pink Panther Komedi",
+      "tmdb_id": null,
+      "year": "1975",
+      "url": "https://vidmody.com/vs/tt0072081/"
+    },
+    {
       "name": "Turbulence Macera-Dram-Gerilim",
       "tmdb_id": null,
       "year": "2025",
@@ -13929,12 +13947,6 @@
       "url": "https://vidmody.com/mm/tt12483708/main/index.m3u8"
     },
     {
-      "name": "Keşfedilmemiş",
-      "tmdb_id": 455551,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1464335/main/index.m3u8"
-    },
-    {
       "name": "Koloni",
       "tmdb_id": 760873,
       "year": null,
@@ -18509,12 +18521,6 @@
       "url": "https://vidmody.com/mm/tt0477139/main/index.m3u8"
     },
     {
-      "name": "Year One",
-      "tmdb_id": 17610,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1045778/main/index.m3u8"
-    },
-    {
       "name": "Yes Man",
       "tmdb_id": 10201,
       "year": null,
@@ -20529,12 +20535,6 @@
       "tmdb_id": 75802,
       "year": null,
       "url": "https://vidmody.com/mm/tt1435513/main/index.m3u8"
-    },
-    {
-      "name": "Ozel Kuvvetler",
-      "tmdb_id": 10313,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1656192/main/index.m3u8"
     },
     {
       "name": "Ödünç Sevgili",
@@ -24253,6 +24253,12 @@
       "url": "https://vidmody.com/mm/tt21222434/main/index.m3u8"
     },
     {
+      "name": "Keşfedilmemiş",
+      "tmdb_id": 584850,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1464335/main/index.m3u8"
+    },
+    {
       "name": "Kırmızı Bülten",
       "tmdb_id": 512195,
       "year": null,
@@ -25819,6 +25825,12 @@
       "url": "https://vidmody.com/mm/tt0822847/main/index.m3u8"
     },
     {
+      "name": "Ozel Kuvvetler",
+      "tmdb_id": 74513,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1656192/main/index.m3u8"
+    },
+    {
       "name": "Plan",
       "tmdb_id": 232817,
       "year": null,
@@ -26864,7 +26876,7 @@
     },
     {
       "name": "John Wick",
-      "tmdb_id": 458156,
+      "tmdb_id": 245891,
       "year": null,
       "url": "https://vidmody.com/mm/tt2911666/main/index.m3u8"
     },
@@ -29960,7 +29972,7 @@
     },
     {
       "name": "Gece Avı",
-      "tmdb_id": 371608,
+      "tmdb_id": 1058710,
       "year": null,
       "url": "https://vidmody.com/mm/tt13899250/main/index.m3u8"
     },
@@ -31861,6 +31873,18 @@
       "tmdb_id": 985762,
       "year": null,
       "url": "https://vidmody.com/mm/tt30841644/main/index.m3u8"
+    },
+    {
+      "name": "The Tale of Silyan Silyan Efsanesi",
+      "tmdb_id": 1517130,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt37660542/"
+    },
+    {
+      "name": "Batık Gemi Endurance -Endurance",
+      "tmdb_id": 947763,
+      "year": "2024",
+      "url": "https://vidmody.com/vs/tt18556278/"
     },
     {
       "name": "The Truth About Jussie Smollett?",
@@ -38175,6 +38199,12 @@
       "tmdb_id": 333596,
       "year": null,
       "url": "https://vidmody.com/mm/tt4183692/main/index.m3u8"
+    },
+    {
+      "name": "Year One",
+      "tmdb_id": 1187694,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1045778/main/index.m3u8"
     },
     {
       "name": "Yosemite",
