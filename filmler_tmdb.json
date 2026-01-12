@@ -11363,12 +11363,6 @@
       "url": "https://vidmody.com/mm/tt0422401/main/index.m3u8"
     },
     {
-      "name": "Gökyüzü Savaşçıları",
-      "tmdb_id": 15877,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0421974/main/index.m3u8"
-    },
-    {
       "name": "Robinson Crusoe",
       "tmdb_id": 739040,
       "year": null,
@@ -19776,7 +19770,7 @@
     },
     {
       "name": "Alaaddin'in Yeni Serüvenleri",
-      "tmdb_id": 459616,
+      "tmdb_id": 344268,
       "year": null,
       "url": "https://vidmody.com/vs/tt4466864/"
     },
@@ -21902,7 +21896,7 @@
     },
     {
       "name": "Demon Warriors",
-      "tmdb_id": 238303,
+      "tmdb_id": 27436,
       "year": null,
       "url": "https://vidmody.com/vs/tt1190556/"
     },
@@ -25777,6 +25771,12 @@
       "url": "https://vidmody.com/mm/tt0948470/main/index.m3u8"
     },
     {
+      "name": "Jack Reacher",
+      "tmdb_id": 343611,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
+    },
+    {
       "name": "James Bond Skyfall",
       "tmdb_id": 37724,
       "year": null,
@@ -26063,6 +26063,12 @@
       "tmdb_id": 7551,
       "year": null,
       "url": "https://vidmody.com/mm/tt0453467/main/index.m3u8"
+    },
+    {
+      "name": "Gökyüzü Savaşçıları",
+      "tmdb_id": 10798,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0421974/main/index.m3u8"
     },
     {
       "name": "Güzel Dedektif 2 Silahlı ve Cazibeli",
@@ -31124,7 +31130,7 @@
     },
     {
       "name": "Palyaço",
-      "tmdb_id": 112454,
+      "tmdb_id": 713364,
       "year": null,
       "url": "https://vidmody.com/mm/tt4400038/main/index.m3u8"
     },
@@ -31385,12 +31391,6 @@
       "tmdb_id": 585216,
       "year": null,
       "url": "https://vidmody.com/mm/tt0471041/main/index.m3u8"
-    },
-    {
-      "name": "Aynalar",
-      "tmdb_id": 13515,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0790686/main/index.m3u8"
     },
     {
       "name": "Çatı Katı",
@@ -36042,7 +36042,7 @@
     },
     {
       "name": "Passing",
-      "tmdb_id": 541524,
+      "tmdb_id": 1142600,
       "year": null,
       "url": "https://vidmody.com/mm/tt8893974/main/index.m3u8"
     },
@@ -38331,12 +38331,6 @@
       "tmdb_id": 282113,
       "year": null,
       "url": "https://vidmody.com/mm/tt16304446/main/index.m3u8"
-    },
-    {
-      "name": "Anneler Günü",
-      "tmdb_id": 1482699,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
     },
     {
       "name": "Apocalypse Z: Sonun Başlangıcı",
@@ -41405,6 +41399,12 @@
       "url": "https://vidmody.com/mm/tt1023111/main/index.m3u8"
     },
     {
+      "name": "Aynalar",
+      "tmdb_id": 1178602,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0790686/main/index.m3u8"
+    },
+    {
       "name": "Bakis Acisi",
       "tmdb_id": 7461,
       "year": null,
@@ -43977,6 +43977,12 @@
       "url": "https://vidmody.com/vs/tt21375602/"
     },
     {
+      "name": "Anneler Günü",
+      "tmdb_id": 718838,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt19724192/main/index.m3u8"
+    },
+    {
       "name": "Balayımsı",
       "tmdb_id": 1257750,
       "year": null,
@@ -46005,12 +46011,6 @@
       "tmdb_id": 58625,
       "year": "2011",
       "url": "https://vidmody.com/vs/tt1707687/"
-    },
-    {
-      "name": "Jack Reacher",
-      "tmdb_id": 75780,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0790724/main/index.m3u8"
     },
     {
       "name": "Taş Kafa",
