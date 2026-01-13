@@ -36582,7 +36582,7 @@
     },
     {
       "name": "Skin",
-      "tmdb_id": 29989,
+      "tmdb_id": 542417,
       "year": null,
       "url": "https://vidmody.com/mm/tt0964586/main/index.m3u8"
     },
@@ -40260,7 +40260,7 @@
     },
     {
       "name": "Hatırla",
-      "tmdb_id": 1354624,
+      "tmdb_id": 302528,
       "year": null,
       "url": "https://vidmody.com/mm/tt3704050/main/index.m3u8"
     },
@@ -45335,12 +45335,6 @@
       "url": "https://vidmody.com/mm/tt3655414/main/index.m3u8"
     },
     {
-      "name": "U Turn",
-      "tmdb_id": 10155,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0120399/main/index.m3u8"
-    },
-    {
       "name": "VANish",
       "tmdb_id": 298032,
       "year": null,
@@ -47375,6 +47369,12 @@
       "tmdb_id": 384099,
       "year": null,
       "url": "https://vidmody.com/mm/tt4060030/main/index.m3u8"
+    },
+    {
+      "name": "U Turn",
+      "tmdb_id": 535657,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0120399/main/index.m3u8"
     },
     {
       "name": "U.S. Marshals",
