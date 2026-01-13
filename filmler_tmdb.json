@@ -673,6 +673,18 @@
       "url": "https://vidmody.com/mm/tt0120737/main/index.m3u8"
     },
     {
+      "name": "Şahap Sayılgan",
+      "tmdb_id": null,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt36589374/"
+    },
+    {
+      "name": "Serçenin Gözyaşı Dram-Ezgi Esenler-Uğur Güneş-Yeşim Salkım-Tamer Karadağlı",
+      "tmdb_id": null,
+      "year": "2023",
+      "url": "https://vidmody.com/vs/tt23049286/"
+    },
+    {
       "name": "7 Kocalı Hürmüz-7 Husbands for Hurmuz Komedi-Tarih-Romantik",
       "tmdb_id": null,
       "year": "2009",
@@ -1241,6 +1253,18 @@
       "tmdb_id": null,
       "year": null,
       "url": "https://vidmody.com/mm/tt14001894/main/index.m3u8"
+    },
+    {
+      "name": "People We Meet on Vacation Tatilde Tanıştığımız İnsanlar -Romantik Komedi",
+      "tmdb_id": null,
+      "year": "2026",
+      "url": "https://vidmody.com/vs/tt22740896/"
+    },
+    {
+      "name": "Oscar Shaw Aksiyon-Dram-Suç",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt27674706/"
     },
     {
       "name": "A Shot in the Dark Karanlıkta Bir Çığlık --Komedi -Gizem-Suç",
@@ -14451,12 +14475,6 @@
       "url": "https://vidmody.com/mm/tt2103281/main/index.m3u8"
     },
     {
-      "name": "Matrix 2",
-      "tmdb_id": 624860,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0234215/main/index.m3u8"
-    },
-    {
       "name": "Jurassic Park 3",
       "tmdb_id": 516058,
       "year": null,
@@ -19139,12 +19157,6 @@
       "url": "https://vidmody.com/mm/tt13109952/main/index.m3u8"
     },
     {
-      "name": "Kaybolma",
-      "tmdb_id": 435218,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15488838/main/index.m3u8"
-    },
-    {
       "name": "Kimsin Sen ?",
       "tmdb_id": 823461,
       "year": null,
@@ -21926,7 +21938,7 @@
     },
     {
       "name": "Demon Warriors",
-      "tmdb_id": 238303,
+      "tmdb_id": 27436,
       "year": null,
       "url": "https://vidmody.com/vs/tt1190556/"
     },
@@ -24263,6 +24275,12 @@
       "tmdb_id": 808228,
       "year": null,
       "url": "https://vidmody.com/mm/tt10375916/main/index.m3u8"
+    },
+    {
+      "name": "Kaybolma",
+      "tmdb_id": 360203,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15488838/main/index.m3u8"
     },
     {
       "name": "Kayıp Şehir",
@@ -26879,6 +26897,12 @@
       "tmdb_id": 634649,
       "year": null,
       "url": "https://vidmody.com/mm/tt2250912/main/index.m3u8"
+    },
+    {
+      "name": "Matrix 2",
+      "tmdb_id": 603,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0234215/main/index.m3u8"
     },
     {
       "name": "Kirli İşler 2 2003",
@@ -32715,6 +32739,12 @@
       "url": "https://vidmody.com/mm/tt19811010/main/index.m3u8"
     },
     {
+      "name": "Things to Come",
+      "tmdb_id": 633756,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4120176/main/index.m3u8"
+    },
+    {
       "name": "Three Floors",
       "tmdb_id": 900972,
       "year": null,
@@ -37803,12 +37833,6 @@
       "tmdb_id": 42029,
       "year": null,
       "url": "https://vidmody.com/mm/tt1654829/main/index.m3u8"
-    },
-    {
-      "name": "Things to Come",
-      "tmdb_id": 3596,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4120176/main/index.m3u8"
     },
     {
       "name": "Things We Lost in the Fire",
