@@ -10,7 +10,7 @@ GITHUB_SOURCE_URL = 'https://raw.githubusercontent.com/nikyokki/nik-cloudstream/
 PROXY_URL = 'https://api.codetabs.com/v1/proxy/?quest=' + requests.utils.quote(GITHUB_SOURCE_URL)
 
 # Sabitler
-M3U_USER_AGENT = 'Dart/3.7 (dart:io)'
+M3U_USER_AGENT = 'googleusercontent'
 TIMEOUT = 15
 MAX_WORKERS = 10  # Aynı anda kaç sayfa taransın (Hız için artırılabilir)
 
@@ -22,7 +22,7 @@ FILE_SERIES = 'diziler.m3u'
 class RecTVScraper:
     def __init__(self):
         self.headers = {
-            'User-Agent': 'Dart/3.7 (dart:io)',
+            'User-Agent': 'okhttp/4.12.0',
             'Referer': 'https://twitter.com/'
         }
         self.main_url = "https://m.prectv60.lol" # Fallback
