@@ -1,4 +1,1596 @@
 {
+  "Animasyon": [
+    {
+      "name": "Zootopia",
+      "tmdb_id": 269149,
+      "year": "2016",
+      "url": "https://vidmody.com/vs/tt2948356/"
+    },
+    {
+      "name": "The Twits",
+      "tmdb_id": 927254,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt0498396/"
+    },
+    {
+      "name": "Buffalo Kids",
+      "tmdb_id": 1154304,
+      "year": "2024",
+      "url": "https://vidmody.com/vs/tt26530493/"
+    },
+    {
+      "name": "Smurfs Şirinler",
+      "tmdb_id": 936108,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt18069420/"
+    },
+    {
+      "name": "Mononoke Movie 2: Hinezumi - The Ashes of Rage",
+      "tmdb_id": 1322218,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt35301440/"
+    },
+    {
+      "name": "Fixed",
+      "tmdb_id": 537921,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt8785038/"
+    },
+    {
+      "name": "Rafadan Tayfa: Kapadokya",
+      "tmdb_id": 1234053,
+      "year": "2024",
+      "url": "https://vidmody.com/vs/tt35156304/"
+    },
+    {
+      "name": "Dedektif Sun ve Ekibi: Kurtarma Operasyonu",
+      "tmdb_id": 987750,
+      "year": "2022",
+      "url": "https://vidmody.com/vs/tt6661616/"
+    },
+    {
+      "name": "Kayara",
+      "tmdb_id": 666154,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt11846550/"
+    },
+    {
+      "name": "Batman Ninja vs. Yakuza League",
+      "tmdb_id": 1297763,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt32508210/"
+    },
+    {
+      "name": "Leo",
+      "tmdb_id": 1075794,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5755238/main/index.m3u8"
+    },
+    {
+      "name": "Megazeka",
+      "tmdb_id": 38055,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1001526/main/index.m3u8"
+    },
+    {
+      "name": "Meraklı Kedinin 10 Yaşamı",
+      "tmdb_id": 567811,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7959138/main/index.m3u8"
+    },
+    {
+      "name": "Mononoke the Movie: The Phantom in the Rain",
+      "tmdb_id": 989730,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt32574149/main/index.m3u8"
+    },
+    {
+      "name": "Monster Family",
+      "tmdb_id": 454699,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6572702/main/index.m3u8"
+    },
+    {
+      "name": "Monster High: Freaky Fusion",
+      "tmdb_id": 290727,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3824344/main/index.m3u8"
+    },
+    {
+      "name": "Monster High: Ghouls Rule",
+      "tmdb_id": 134632,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2446108/main/index.m3u8"
+    },
+    {
+      "name": "Monster High: Haunted",
+      "tmdb_id": 324963,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4137924/main/index.m3u8"
+    },
+    {
+      "name": "Monster House",
+      "tmdb_id": 9297,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0385880/main/index.m3u8"
+    },
+    {
+      "name": "Monsters University",
+      "tmdb_id": 62211,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1453405/main/index.m3u8"
+    },
+    {
+      "name": "Mortal Kombat Legends: Battle of the Realms",
+      "tmdb_id": 841755,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt14901058/main/index.m3u8"
+    },
+    {
+      "name": "Mortal Kombat Legends: Cage Match",
+      "tmdb_id": 1034062,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt22698070/main/index.m3u8"
+    },
+    {
+      "name": "Mortal Kombat Legends: Scorpion's Revenge",
+      "tmdb_id": 664767,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt9580138/main/index.m3u8"
+    },
+    {
+      "name": "Mortal Kombat Legends: Snow Blind",
+      "tmdb_id": 1007401,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt21477618/main/index.m3u8"
+    },
+    {
+      "name": "Neşeli Dalgalar 2: Dalgamanya",
+      "tmdb_id": 411840,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt5513260/"
+    },
+    {
+      "name": "Olaf's Frozen Adventure",
+      "tmdb_id": 460793,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5452780/main/index.m3u8"
+    },
+    {
+      "name": "Orion and the Dark",
+      "tmdb_id": 1139829,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt28066777/main/index.m3u8"
+    },
+    {
+      "name": "Patron Bebek",
+      "tmdb_id": 459151,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3874544/main/index.m3u8"
+    },
+    {
+      "name": "Paws of Fury: The Legend of Hank",
+      "tmdb_id": 366672,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4428398/main/index.m3u8"
+    },
+    {
+      "name": "Peter Rabbit",
+      "tmdb_id": 381719,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5117670/main/index.m3u8"
+    },
+    {
+      "name": "Planet 51",
+      "tmdb_id": 16866,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0762125/main/index.m3u8"
+    },
+    {
+      "name": "Ploey: You Never Fly Alone",
+      "tmdb_id": 506596,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt2766104/"
+    },
+    {
+      "name": "Quackerz",
+      "tmdb_id": 377878,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt3723780/"
+    },
+    {
+      "name": "Rabbit School: Guardians of the Golden Egg",
+      "tmdb_id": 425218,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5029776/main/index.m3u8"
+    },
+    {
+      "name": "Rango",
+      "tmdb_id": 44896,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1192628/main/index.m3u8"
+    },
+    {
+      "name": "Rio 2",
+      "tmdb_id": 172385,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2357291/main/index.m3u8"
+    },
+    {
+      "name": "Rise of the Guardians",
+      "tmdb_id": 81188,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1446192/main/index.m3u8"
+    },
+    {
+      "name": "Robots",
+      "tmdb_id": 9928,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0358082/main/index.m3u8"
+    },
+    {
+      "name": "Rock Dog",
+      "tmdb_id": 333667,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2822672/main/index.m3u8"
+    },
+    {
+      "name": "Rock Dog 2: Rock Around the Park",
+      "tmdb_id": 812204,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt11207240/main/index.m3u8"
+    },
+    {
+      "name": "Ron's Gone Wrong",
+      "tmdb_id": 482321,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7504818/main/index.m3u8"
+    },
+    {
+      "name": "Rumble",
+      "tmdb_id": 598331,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8337158/main/index.m3u8"
+    },
+    {
+      "name": "SamSam",
+      "tmdb_id": 589973,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt9784518/main/index.m3u8"
+    },
+    {
+      "name": "Scoob!",
+      "tmdb_id": 682254,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3152592/main/index.m3u8"
+    },
+    {
+      "name": "Scooby-Doo! Legend of the Phantosaur",
+      "tmdb_id": 67900,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1777608/main/index.m3u8"
+    },
+    {
+      "name": "Scooby-Doo! Mask of the Blue Falcon",
+      "tmdb_id": 151535,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2586070/main/index.m3u8"
+    },
+    {
+      "name": "Seal Team",
+      "tmdb_id": 823610,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8456190/main/index.m3u8"
+    },
+    {
+      "name": "Shimmy: The First Monkey King",
+      "tmdb_id": 1085046,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt21448604/main/index.m3u8"
+    },
+    {
+      "name": "Sing: Thriller",
+      "tmdb_id": 1371727,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3470600/main/index.m3u8"
+    },
+    {
+      "name": "Soul",
+      "tmdb_id": 508442,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2948372/main/index.m3u8"
+    },
+    {
+      "name": "Spies in Disguise",
+      "tmdb_id": 431693,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5814534/main/index.m3u8"
+    },
+    {
+      "name": "Spirit: Özgür Ruh",
+      "tmdb_id": 637693,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt11084896/main/index.m3u8"
+    },
+    {
+      "name": "Strawberry Shortcake and the Beast of Berry Bog",
+      "tmdb_id": 1186402,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt29389870/main/index.m3u8"
+    },
+    {
+      "name": "Strawberry Shortcake's Perfect Holiday",
+      "tmdb_id": 1199118,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt29721553/main/index.m3u8"
+    },
+    {
+      "name": "Superman/Shazam!: The Return of Black Adam",
+      "tmdb_id": 43641,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1701223/main/index.m3u8"
+    },
+    {
+      "name": "Superman: Red Son",
+      "tmdb_id": 124305,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt10985510/main/index.m3u8"
+    },
+    {
+      "name": "Superman: Unbound",
+      "tmdb_id": 166076,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2617456/main/index.m3u8"
+    },
+    {
+      "name": "Şirinler: Yeni Yıl Şarkısı",
+      "tmdb_id": 79443,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2062677/main/index.m3u8"
+    },
+    {
+      "name": "Tangled",
+      "tmdb_id": 38757,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0398286/main/index.m3u8"
+    },
+    {
+      "name": "Teen Titans Go! See Space Jam",
+      "tmdb_id": 834404,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt14851194/main/index.m3u8"
+    },
+    {
+      "name": "Teen Titans Go! To the Movies",
+      "tmdb_id": 474395,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7424200/main/index.m3u8"
+    },
+    {
+      "name": "Teenage Kraken",
+      "tmdb_id": 1040148,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt27155038/main/index.m3u8"
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "tmdb_id": 614930,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8589698/main/index.m3u8"
+    },
+    {
+      "name": "The Aristocats",
+      "tmdb_id": 10112,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0065421/main/index.m3u8"
+    },
+    {
+      "name": "The Bad Guys: A Very Bad Holiday",
+      "tmdb_id": 1046032,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt28863512/main/index.m3u8"
+    },
+    {
+      "name": "The Boxtrolls",
+      "tmdb_id": 170687,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0787474/main/index.m3u8"
+    },
+    {
+      "name": "The Casagrandes Movie",
+      "tmdb_id": 1216512,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt31123288/main/index.m3u8"
+    },
+    {
+      "name": "The Croods",
+      "tmdb_id": 49519,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0481499/main/index.m3u8"
+    },
+    {
+      "name": "The Great Mouse Detective",
+      "tmdb_id": 9994,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0091149/main/index.m3u8"
+    },
+    {
+      "name": "The Inventor",
+      "tmdb_id": 676727,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5822848/main/index.m3u8"
+    },
+    {
+      "name": "The Jungle Bunch",
+      "tmdb_id": 369002,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6314690/main/index.m3u8"
+    },
+    {
+      "name": "The Larva Island Movie",
+      "tmdb_id": 718867,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt12588448/main/index.m3u8"
+    },
+    {
+      "name": "The Lego Movie",
+      "tmdb_id": 137106,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1490017/main/index.m3u8"
+    },
+    {
+      "name": "The Magician's Elephant",
+      "tmdb_id": 776835,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2560092/main/index.m3u8"
+    },
+    {
+      "name": "The Movie",
+      "tmdb_id": 1218925,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt10364034/main/index.m3u8"
+    },
+    {
+      "name": "The Nut Job",
+      "tmdb_id": 227783,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1821658/main/index.m3u8"
+    },
+    {
+      "name": "The Pirates! In an Adventure with Scientists!",
+      "tmdb_id": 72197,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt1430626/"
+    },
+    {
+      "name": "The Princess and the Frog",
+      "tmdb_id": 10198,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0780521/main/index.m3u8"
+    },
+    {
+      "name": "The Simpsons Movie",
+      "tmdb_id": 35,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0462538/main/index.m3u8"
+    },
+    {
+      "name": "The Smurfs: A Christmas Carol",
+      "tmdb_id": 79443,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt0472181/"
+    },
+    {
+      "name": "The Star",
+      "tmdb_id": 355547,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4587656/main/index.m3u8"
+    },
+    {
+      "name": "Tilki ve Tavşan: Orman Macerası",
+      "tmdb_id": 1061785,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt23451240/main/index.m3u8"
+    },
+    {
+      "name": "Uçaklar",
+      "tmdb_id": 151960,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1691917/main/index.m3u8"
+    },
+    {
+      "name": "Vahşi Robot",
+      "tmdb_id": 1184918,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt29623480/"
+    },
+    {
+      "name": "Vikingler: Büyük Macera",
+      "tmdb_id": 648572,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8065768/main/index.m3u8"
+    },
+    {
+      "name": "A Cat in Paris",
+      "tmdb_id": 52264,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1673702/main/index.m3u8"
+    },
+    {
+      "name": "Aladdin",
+      "tmdb_id": 812,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0103639/main/index.m3u8"
+    },
+    {
+      "name": "All Star Superman",
+      "tmdb_id": 56590,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1699114/main/index.m3u8"
+    },
+    {
+      "name": "America: The Motion Picture",
+      "tmdb_id": 739542,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6733874/main/index.m3u8"
+    },
+    {
+      "name": "Anastasia",
+      "tmdb_id": 9444,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0118617/main/index.m3u8"
+    },
+    {
+      "name": "Antz",
+      "tmdb_id": 8916,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0120587/main/index.m3u8"
+    },
+    {
+      "name": "Arthur 3: The War of the Two Worlds",
+      "tmdb_id": 42949,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0940656/main/index.m3u8"
+    },
+    {
+      "name": "Asterix: The Mansions of the Gods",
+      "tmdb_id": 170522,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3759416/main/index.m3u8"
+    },
+    {
+      "name": "Astro Boy",
+      "tmdb_id": 16577,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0375568/main/index.m3u8"
+    },
+    {
+      "name": "Atlantis: The Lost Empire",
+      "tmdb_id": 10865,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0230011/main/index.m3u8"
+    },
+    {
+      "name": "Bambi II",
+      "tmdb_id": 13205,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0447854/main/index.m3u8"
+    },
+    {
+      "name": "Barbie and Stacie to the Rescue",
+      "tmdb_id": 1170657,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt31181357/main/index.m3u8"
+    },
+    {
+      "name": "Barbie in Princess Power",
+      "tmdb_id": 316322,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4215332/main/index.m3u8"
+    },
+    {
+      "name": "Barbie in Rock 'N Royals",
+      "tmdb_id": 355111,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4955162/main/index.m3u8"
+    },
+    {
+      "name": "Batman: The Doom That Came to Gotham",
+      "tmdb_id": 1003579,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt24223450/main/index.m3u8"
+    },
+    {
+      "name": "Boonie Bears: A Mystical Winter",
+      "tmdb_id": 335832,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4412240/main/index.m3u8"
+    },
+    {
+      "name": "Brave",
+      "tmdb_id": 62177,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1217209/main/index.m3u8"
+    },
+    {
+      "name": "Cars",
+      "tmdb_id": 920,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0317219/main/index.m3u8"
+    },
+    {
+      "name": "Cars 2",
+      "tmdb_id": 49013,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1216475/main/index.m3u8"
+    },
+    {
+      "name": "Cars 3",
+      "tmdb_id": 260514,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3606752/main/index.m3u8"
+    },
+    {
+      "name": "Cats in the Museum",
+      "tmdb_id": 1264821,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt24069962/main/index.m3u8"
+    },
+    {
+      "name": "Cloudy with a Chance of Meatballs 2",
+      "tmdb_id": 109451,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1985966/main/index.m3u8"
+    },
+    {
+      "name": "Crazy Birds",
+      "tmdb_id": 701232,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt10691070/main/index.m3u8"
+    },
+    {
+      "name": "Ella and the Little Sorcerer",
+      "tmdb_id": 918930,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt14633194/main/index.m3u8"
+    },
+    {
+      "name": "Frankenweenie",
+      "tmdb_id": 62214,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1142977/main/index.m3u8"
+    },
+    {
+      "name": "Goldbeak",
+      "tmdb_id": 1508641,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15257928/main/index.m3u8"
+    },
+    {
+      "name": "Happy Feet",
+      "tmdb_id": 9836,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0366548/main/index.m3u8"
+    },
+    {
+      "name": "Hop",
+      "tmdb_id": 50359,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1411704/main/index.m3u8"
+    },
+    {
+      "name": "Hotel Transylvania 2",
+      "tmdb_id": 159824,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2510894/main/index.m3u8"
+    },
+    {
+      "name": "Hotel Transylvania 3: Summer Vacation",
+      "tmdb_id": 400155,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5220122/main/index.m3u8"
+    },
+    {
+      "name": "Hotel Transylvania: Transformania",
+      "tmdb_id": 585083,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0837562/main/index.m3u8"
+    },
+    {
+      "name": "How to Train Your Dragon: The Hidden World",
+      "tmdb_id": 166428,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2386490/main/index.m3u8"
+    },
+    {
+      "name": "Ice Age: Continental Drift",
+      "tmdb_id": 57800,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1667889/main/index.m3u8"
+    },
+    {
+      "name": "Justice League Dark: Apokolips War",
+      "tmdb_id": 618344,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt11079148/main/index.m3u8"
+    },
+    {
+      "name": "Justice League: Crisis on Infinite Earths Part Two",
+      "tmdb_id": 1209288,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt30150907/main/index.m3u8"
+    },
+    {
+      "name": "Kahraman Ikili",
+      "tmdb_id": 175574,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1621039/main/index.m3u8"
+    },
+    {
+      "name": "Kahraman Uzaylilar",
+      "tmdb_id": 68179,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0765446/main/index.m3u8"
+    },
+    {
+      "name": "Karlar Ulkesi",
+      "tmdb_id": 109445,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2294629/main/index.m3u8"
+    },
+    {
+      "name": "Katak: The Brave Beluga",
+      "tmdb_id": 1052152,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt13952306/main/index.m3u8"
+    },
+    {
+      "name": "King Tweety",
+      "tmdb_id": 952217,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt18951472/main/index.m3u8"
+    },
+    {
+      "name": "Kronk's New Groove",
+      "tmdb_id": 13417,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0401398/main/index.m3u8"
+    },
+    {
+      "name": "Kung Fu Panda 4",
+      "tmdb_id": 1011985,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt21692408/main/index.m3u8"
+    },
+    {
+      "name": "Lamya's Poem",
+      "tmdb_id": 716094,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt10346674/main/index.m3u8"
+    },
+    {
+      "name": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "tmdb_id": 41216,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1219342/main/index.m3u8"
+    },
+    {
+      "name": "Legion of Super-Heroes",
+      "tmdb_id": 1003580,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt22769820/main/index.m3u8"
+    },
+    {
+      "name": "LEGO Marvel Super Heroes: Maximum Overload",
+      "tmdb_id": 763861,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3322904/main/index.m3u8"
+    },
+    {
+      "name": "Şrek-Shrek",
+      "tmdb_id": 808,
+      "year": "2001",
+      "url": "https://vidmody.com/mm/tt0126029/main/index.m3u8"
+    },
+    {
+      "name": "Ters Yüz-Inside Out",
+      "tmdb_id": 150540,
+      "year": "2015",
+      "url": "https://vidmody.com/mm/tt2096673/main/index.m3u8"
+    },
+    {
+      "name": "Ratatuy-Ratatouille",
+      "tmdb_id": 2062,
+      "year": "2007",
+      "url": "https://vidmody.com/mm/tt0382932/main/index.m3u8"
+    },
+    {
+      "name": "Oyuncak Hikayesi 3 :Toy Story 3",
+      "tmdb_id": 10193,
+      "year": "2010",
+      "url": "https://vidmody.com/mm/tt0435761/main/index.m3u8"
+    },
+    {
+      "name": "Ruhların Kaçışı :Sen to Chihiro no Kamikakushi",
+      "tmdb_id": 129,
+      "year": "2001",
+      "url": "https://vidmody.com/mm/tt0245429/main/index.m3u8"
+    },
+    {
+      "name": "Sevimli Canavarlar :Monsters- Inc.",
+      "tmdb_id": 585,
+      "year": "2001",
+      "url": "https://vidmody.com/mm/tt0198781/main/index.m3u8"
+    },
+    {
+      "name": "Kayıp Balık Nemo :Finding Nemo",
+      "tmdb_id": 12,
+      "year": "2003",
+      "url": "https://vidmody.com/mm/tt0266543/main/index.m3u8"
+    },
+    {
+      "name": "Yukarı Bak :Up",
+      "tmdb_id": 14160,
+      "year": "2009",
+      "url": "https://vidmody.com/mm/tt1049413/main/index.m3u8"
+    },
+    {
+      "name": "Vol. İ :WALL·E",
+      "tmdb_id": 10681,
+      "year": "2008",
+      "url": "https://vidmody.com/mm/tt0910970/main/index.m3u8"
+    },
+    {
+      "name": "100 Meters",
+      "tmdb_id": 1295026,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5089786/main/index.m3u8"
+    },
+    {
+      "name": "A Scanner Darkly",
+      "tmdb_id": 3509,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0405296/main/index.m3u8"
+    },
+    {
+      "name": "Ana and Bruno",
+      "tmdb_id": 265339,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6338912/main/index.m3u8"
+    },
+    {
+      "name": "and the Secret of King Midas",
+      "tmdb_id": 452773,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3896102/main/index.m3u8"
+    },
+    {
+      "name": "Appleseed Alpha",
+      "tmdb_id": 269650,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3638012/main/index.m3u8"
+    },
+    {
+      "name": "Around the World in 80 Days - 80 Günde Devri Alem",
+      "tmdb_id": 753601,
+      "year": "2021",
+      "url": "https://vidmody.com/mm/tt10341040/main/index.m3u8"
+    },
+    {
+      "name": "Babylon 5: The Road Home",
+      "tmdb_id": 1121575,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt27712788/main/index.m3u8"
+    },
+    {
+      "name": "Batman Ninja",
+      "tmdb_id": 581997,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0118688/main/index.m3u8"
+    },
+    {
+      "name": "Batman: Soul of the Dragon",
+      "tmdb_id": 732450,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt12885852/main/index.m3u8"
+    },
+    {
+      "name": "Batman: The Killing Joke",
+      "tmdb_id": 382322,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4853102/main/index.m3u8"
+    },
+    {
+      "name": "Black Clover: Sword of the Wizard King",
+      "tmdb_id": 812225,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt22868844/main/index.m3u8"
+    },
+    {
+      "name": "Boo York",
+      "tmdb_id": 360404,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt4779496/"
+    },
+    {
+      "name": "Catwoman: Hunted",
+      "tmdb_id": 862491,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15248702/main/index.m3u8"
+    },
+    {
+      "name": "Craig Before the Creek",
+      "tmdb_id": 928833,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt17154734/main/index.m3u8"
+    },
+    {
+      "name": "Day Watch",
+      "tmdb_id": 1087001,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0409904/main/index.m3u8"
+    },
+    {
+      "name": "Deathstroke: Knights & Dragons - The Movie",
+      "tmdb_id": 703771,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt12876132/main/index.m3u8"
+    },
+    {
+      "name": "Dumbo",
+      "tmdb_id": 11360,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3861390/main/index.m3u8"
+    },
+    {
+      "name": "Epic",
+      "tmdb_id": 116711,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0848537/main/index.m3u8"
+    },
+    {
+      "name": "Fantasia",
+      "tmdb_id": 756,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0032455/main/index.m3u8"
+    },
+    {
+      "name": "Ferdinand",
+      "tmdb_id": 364689,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3411444/main/index.m3u8"
+    },
+    {
+      "name": "Green Lantern: Beware My Power",
+      "tmdb_id": 887357,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt20192230/main/index.m3u8"
+    },
+    {
+      "name": "Guillermo del Toro's Pinocchio",
+      "tmdb_id": 555604,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1488589/main/index.m3u8"
+    },
+    {
+      "name": "Hilda and the Mountain King",
+      "tmdb_id": 789708,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15777864/main/index.m3u8"
+    },
+    {
+      "name": "Inside Out",
+      "tmdb_id": 150540,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1640486/main/index.m3u8"
+    },
+    {
+      "name": "Joe",
+      "tmdb_id": 306258,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt2382396/"
+    },
+    {
+      "name": "Kingsglaive: Final Fantasy XV",
+      "tmdb_id": 390734,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5595168/main/index.m3u8"
+    },
+    {
+      "name": "Look Back",
+      "tmdb_id": 1244492,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt31711040/main/index.m3u8"
+    },
+    {
+      "name": "Looney Tunes: Back in Action",
+      "tmdb_id": 10715,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0318155/main/index.m3u8"
+    },
+    {
+      "name": "Luck",
+      "tmdb_id": 585511,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7214954/main/index.m3u8"
+    },
+    {
+      "name": "Luis and the Aliens",
+      "tmdb_id": 432383,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4410000/main/index.m3u8"
+    },
+    {
+      "name": "Metalocalypse: Army of the Doomstar",
+      "tmdb_id": 828899,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt14636170/main/index.m3u8"
+    },
+    {
+      "name": "Mr. Peabody & Sherman",
+      "tmdb_id": 82703,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0864835/main/index.m3u8"
+    },
+    {
+      "name": "My Life as a Zucchini",
+      "tmdb_id": 393559,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2321405/main/index.m3u8"
+    },
+    {
+      "name": "Not Suitable For Children",
+      "tmdb_id": 1219926,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1935065/main/index.m3u8"
+    },
+    {
+      "name": "Peter Pan",
+      "tmdb_id": 10693,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0316396/main/index.m3u8"
+    },
+    {
+      "name": "Polina",
+      "tmdb_id": 1537981,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4383288/main/index.m3u8"
+    },
+    {
+      "name": "Rally Road Racers",
+      "tmdb_id": 1008102,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8417168/main/index.m3u8"
+    },
+    {
+      "name": "Richard the Stork and the Mystery of the Great Jewel",
+      "tmdb_id": 1061855,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt14514964/main/index.m3u8"
+    },
+    {
+      "name": "Scooby-Doo",
+      "tmdb_id": 45752,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt0267913/"
+    },
+    {
+      "name": "Simple Simon",
+      "tmdb_id": 184549,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1686313/main/index.m3u8"
+    },
+    {
+      "name": "Spellbound",
+      "tmdb_id": 592983,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0038109/main/index.m3u8"
+    },
+    {
+      "name": "Spider-Man: Into the Spider-Verse",
+      "tmdb_id": 324857,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4633694/main/index.m3u8"
+    },
+    {
+      "name": "Spirit: Stallion of the Cimarron",
+      "tmdb_id": 9023,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0831887/main/index.m3u8"
+    },
+    {
+      "name": "Squared Love",
+      "tmdb_id": 1560213,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt13846542/main/index.m3u8"
+    },
+    {
+      "name": "Stand by Me Doraemon",
+      "tmdb_id": 265712,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt3331846/"
+    },
+    {
+      "name": "The Angry Birds Movie",
+      "tmdb_id": 153518,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0056869/main/index.m3u8"
+    },
+    {
+      "name": "The Animatrix",
+      "tmdb_id": 55931,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0328832/main/index.m3u8"
+    },
+    {
+      "name": "The Champion",
+      "tmdb_id": 1316664,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt24079806/main/index.m3u8"
+    },
+    {
+      "name": "the Exit of Goodbyes",
+      "tmdb_id": 916192,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5910280/main/index.m3u8"
+    },
+    {
+      "name": "The Final Master",
+      "tmdb_id": 246464,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4851640/main/index.m3u8"
+    },
+    {
+      "name": "The Four of Us",
+      "tmdb_id": 1438826,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15360916/main/index.m3u8"
+    },
+    {
+      "name": "The Little Mermaid",
+      "tmdb_id": 10144,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0097757/main/index.m3u8"
+    },
+    {
+      "name": "The Man",
+      "tmdb_id": 1218925,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0399327/main/index.m3u8"
+    },
+    {
+      "name": "The Mitchells vs. the Machines",
+      "tmdb_id": 501929,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7979580/main/index.m3u8"
+    },
+    {
+      "name": "The Sky Crawlers",
+      "tmdb_id": 15877,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1056437/main/index.m3u8"
+    },
+    {
+      "name": "The Storm",
+      "tmdb_id": 865301,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1230194/main/index.m3u8"
+    },
+    {
+      "name": "The World Is Yours",
+      "tmdb_id": 1562649,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6892462/main/index.m3u8"
+    },
+    {
+      "name": "The Worthy",
+      "tmdb_id": 85142,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4943218/main/index.m3u8"
+    },
+    {
+      "name": "Thelma the Unicorn",
+      "tmdb_id": 739547,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0103074/main/index.m3u8"
+    },
+    {
+      "name": "They Shot the Piano Player",
+      "tmdb_id": 646265,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt11242654/main/index.m3u8"
+    },
+    {
+      "name": "Tom and Jerry: The Movie",
+      "tmdb_id": 22582,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2027255/main/index.m3u8"
+    },
+    {
+      "name": "Too!",
+      "tmdb_id": 80357,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt28508231/main/index.m3u8"
+    },
+    {
+      "name": "Trolls Band Together",
+      "tmdb_id": 901362,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt14362112/main/index.m3u8"
+    },
+    {
+      "name": "Turbo",
+      "tmdb_id": 77950,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1860353/main/index.m3u8"
+    },
+    {
+      "name": "UglyDolls",
+      "tmdb_id": 454458,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1946502/main/index.m3u8"
+    },
+    {
+      "name": "Wild Mouse",
+      "tmdb_id": 70879,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5376196/main/index.m3u8"
+    },
+    {
+      "name": "Winx Club - Magic Adventure",
+      "tmdb_id": 74658,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1618450/main/index.m3u8"
+    },
+    {
+      "name": "Wish",
+      "tmdb_id": 1022796,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt11304740/main/index.m3u8"
+    },
+    {
+      "name": "Zero to Hero",
+      "tmdb_id": 153609,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt27276658/main/index.m3u8"
+    },
+    {
+      "name": ".hack//GIFT",
+      "tmdb_id": 573554,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0475289/main/index.m3u8"
+    },
+    {
+      "name": "Predator: Killer of Killers",
+      "tmdb_id": 1376434,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt36463894/"
+    },
+    {
+      "name": "The Witcher Sirens of the Deep",
+      "tmdb_id": 1203329,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15495150/main/index.m3u8"
+    },
+    {
+      "name": "Ek",
+      "tmdb_id": 5255,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt17202164/main/index.m3u8"
+    },
+    {
+      "name": "Kalk!",
+      "tmdb_id": 458932,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt23778430/main/index.m3u8"
+    },
+    {
+      "name": "Köylüler",
+      "tmdb_id": 734002,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt10651230/main/index.m3u8"
+    },
+    {
+      "name": "Özgür",
+      "tmdb_id": 9023,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt31917705/main/index.m3u8"
+    },
+    {
+      "name": "2",
+      "tmdb_id": 1084242,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt12358104/"
+    },
+    {
+      "name": "Mutlu Canavar Ailesi 2",
+      "tmdb_id": 823609,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt15096796/main/index.m3u8"
+    },
+    {
+      "name": "Orman Macerası",
+      "tmdb_id": 1061785,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0870154/main/index.m3u8"
+    },
+    {
+      "name": "Sonsuz",
+      "tmdb_id": 1311031,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6654210/main/index.m3u8"
+    },
+    {
+      "name": "Mulan",
+      "tmdb_id": 10674,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4566758/main/index.m3u8"
+    },
+    {
+      "name": "Z",
+      "tmdb_id": 1084242,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8995218/main/index.m3u8"
+    },
+    {
+      "name": "Cüce Dedektif Şerlok",
+      "tmdb_id": 370567,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2296777/main/index.m3u8"
+    },
+    {
+      "name": "Hayalet Işık",
+      "tmdb_id": 13934,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6215446/main/index.m3u8"
+    },
+    {
+      "name": "Lego Batman Filmi-The LEGO Batman Movie",
+      "tmdb_id": 324849,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4116284/main/index.m3u8"
+    },
+    {
+      "name": "O",
+      "tmdb_id": 500961,
+      "year": "2017",
+      "url": "https://vidmody.com/mm/tt1396484/main/index.m3u8"
+    },
+    {
+      "name": "Yıldız Gemisi Askerleri: Mars Haini",
+      "tmdb_id": 460790,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6977240/main/index.m3u8"
+    },
+    {
+      "name": "Zamanın Sınırında",
+      "tmdb_id": 1147416,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7776936/main/index.m3u8"
+    },
+    {
+      "name": "Elleri Olmayan Kız",
+      "tmdb_id": 396899,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5698496/main/index.m3u8"
+    },
+    {
+      "name": "Fareli Koyun Kavalcisi",
+      "tmdb_id": 67596,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4718500/main/index.m3u8"
+    },
+    {
+      "name": "Gizli Dünya",
+      "tmdb_id": 14836,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3170832/main/index.m3u8"
+    },
+    {
+      "name": "Hayalet Hikayesi",
+      "tmdb_id": 116322,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4714782/main/index.m3u8"
+    },
+    {
+      "name": "Kırmızı Kaplumbağa",
+      "tmdb_id": 337703,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt3666024/"
+    },
+    {
+      "name": "Kızgın Kuşlar",
+      "tmdb_id": 153518,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1985949/main/index.m3u8"
+    },
+    {
+      "name": "Kubo ve Sihirli Telleri",
+      "tmdb_id": 313297,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4302938/main/index.m3u8"
+    },
+    {
+      "name": "Kurbağa Krallığı 2 Buz Macerası",
+      "tmdb_id": 450298,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt6448084/main/index.m3u8"
+    },
+    {
+      "name": "Kurtarıcı",
+      "tmdb_id": 686941,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4382872/main/index.m3u8"
+    },
+    {
+      "name": "Politikacı",
+      "tmdb_id": 1247656,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3485800/main/index.m3u8"
+    },
+    {
+      "name": "Son Dilek",
+      "tmdb_id": 315162,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4625516/main/index.m3u8"
+    },
+    {
+      "name": "Sonsuzluk",
+      "tmdb_id": 1311031,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3564574/main/index.m3u8"
+    },
+    {
+      "name": "Zootropolis Hayvanlar Şehri",
+      "tmdb_id": 269149,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2948356/main/index.m3u8"
+    },
+    {
+      "name": "Dinozorlarla Yurumek",
+      "tmdb_id": 77951,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1762399/main/index.m3u8"
+    },
+    {
+      "name": "Hayal Ulkesi",
+      "tmdb_id": 542890,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2514338/main/index.m3u8"
+    },
+    {
+      "name": "Lagim",
+      "tmdb_id": 1264998,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt4034380/main/index.m3u8"
+    },
+    {
+      "name": "Çizmeli Kedi",
+      "tmdb_id": 315162,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0448694/main/index.m3u8"
+    },
+    {
+      "name": "Neseli Ayaklar 2",
+      "tmdb_id": 65759,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1402488/main/index.m3u8"
+    },
+    {
+      "name": "Ruh",
+      "tmdb_id": 129,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2040560/main/index.m3u8"
+    },
+    {
+      "name": "Alice Harikalar Diyarında",
+      "tmdb_id": 12092,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1014759/main/index.m3u8"
+    },
+    {
+      "name": "Mary ve Max",
+      "tmdb_id": 24238,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0978762/main/index.m3u8"
+    },
+    {
+      "name": "Son Vampir",
+      "tmdb_id": 919,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0806027/main/index.m3u8"
+    },
+    {
+      "name": "Koruma",
+      "tmdb_id": 991494,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0841150/main/index.m3u8"
+    },
+    {
+      "name": "Otel 2",
+      "tmdb_id": 159824,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0498353/main/index.m3u8"
+    },
+    {
+      "name": "Balta",
+      "tmdb_id": 1262498,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0422401/main/index.m3u8"
+    },
+    {
+      "name": "Robinson Crusoe",
+      "tmdb_id": 739040,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0117496/main/index.m3u8"
+    },
+    {
+      "name": "Transformers 1",
+      "tmdb_id": 698687,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0418279/main/index.m3u8"
+    },
+    {
+      "name": "Transformers: Başlangıç",
+      "tmdb_id": 698687,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8864596/main/index.m3u8"
+    },
+    {
+      "name": "Superman 1",
+      "tmdb_id": 342605,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0078346/main/index.m3u8"
+    },
+    {
+      "name": "Örümcek Adam 1",
+      "tmdb_id": 324857,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0145487/main/index.m3u8"
+    },
+    {
+      "name": "Oyuncak Hikayesi 2",
+      "tmdb_id": 863,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0120363/main/index.m3u8"
+    },
+    {
+      "name": "Oyuncak Hikayesi 3",
+      "tmdb_id": 10193,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0435761/main/index.m3u8"
+    },
+    {
+      "name": "Madagaskar 3 Avrupanın Çok Arananları",
+      "tmdb_id": 80321,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1277953/main/index.m3u8"
+    },
+    {
+      "name": "Çılgın Hırsız 2",
+      "tmdb_id": 93456,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1690953/main/index.m3u8"
+    },
+    {
+      "name": "Buz Devri 1",
+      "tmdb_id": 425,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0268380/main/index.m3u8"
+    },
+    {
+      "name": "Buz Devri 2 Erime Basliyor",
+      "tmdb_id": 950,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0438097/main/index.m3u8"
+    },
+    {
+      "name": "Buz Devri 3 Dinozorlarin Safagi",
+      "tmdb_id": 8355,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1080016/main/index.m3u8"
+    }
+  ],
   "Kategorisiz": [
     {
       "name": "La plus précieuse des marchandises- Değerli HazineDram-Trajedi",
@@ -1253,6 +2845,24 @@
       "tmdb_id": null,
       "year": null,
       "url": "https://vidmody.com/mm/tt14001894/main/index.m3u8"
+    },
+    {
+      "name": "Five Nights at Freddy's 2 Korku-Gizem-Gerilim",
+      "tmdb_id": null,
+      "year": "2025",
+      "url": "https://vidmody.com/vs/tt30274401/"
+    },
+    {
+      "name": "Vermiglio Tarih-Drama",
+      "tmdb_id": null,
+      "year": "2024",
+      "url": "https://vidmody.com/vs/tt28618488/"
+    },
+    {
+      "name": "Triangle Üçgen--Fantezi-Gizem-Bilimkurgu-Gerilim",
+      "tmdb_id": null,
+      "year": "2009",
+      "url": "https://vidmody.com/vs/tt1187064/"
     },
     {
       "name": "People We Meet on Vacation Tatilde Tanıştığımız İnsanlar -Romantik Komedi",
@@ -9099,6 +10709,12 @@
       "url": "https://vidmody.com/mm/tt5715410/main/index.m3u8"
     },
     {
+      "name": "The SpongeBob SquarePants Movie",
+      "tmdb_id": 11836,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0345950/main/index.m3u8"
+    },
+    {
       "name": "A Bug's Life",
       "tmdb_id": 9487,
       "year": null,
@@ -9889,1598 +11505,6 @@
       "tmdb_id": 519182,
       "year": null,
       "url": "https://vidmody.com/vs/tt7510222/"
-    }
-  ],
-  "Animasyon": [
-    {
-      "name": "The Twits",
-      "tmdb_id": 927254,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt0498396/"
-    },
-    {
-      "name": "Buffalo Kids",
-      "tmdb_id": 1154304,
-      "year": "2024",
-      "url": "https://vidmody.com/vs/tt26530493/"
-    },
-    {
-      "name": "Smurfs Şirinler",
-      "tmdb_id": 936108,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt18069420/"
-    },
-    {
-      "name": "Mononoke Movie 2: Hinezumi - The Ashes of Rage",
-      "tmdb_id": 1322218,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt35301440/"
-    },
-    {
-      "name": "Fixed",
-      "tmdb_id": 537921,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt8785038/"
-    },
-    {
-      "name": "Rafadan Tayfa: Kapadokya",
-      "tmdb_id": 1234053,
-      "year": "2024",
-      "url": "https://vidmody.com/vs/tt35156304/"
-    },
-    {
-      "name": "Dedektif Sun ve Ekibi: Kurtarma Operasyonu",
-      "tmdb_id": 987750,
-      "year": "2022",
-      "url": "https://vidmody.com/vs/tt6661616/"
-    },
-    {
-      "name": "Kayara",
-      "tmdb_id": 666154,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt11846550/"
-    },
-    {
-      "name": "Batman Ninja vs. Yakuza League",
-      "tmdb_id": 1297763,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt32508210/"
-    },
-    {
-      "name": "Leo",
-      "tmdb_id": 1075794,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5755238/main/index.m3u8"
-    },
-    {
-      "name": "Megazeka",
-      "tmdb_id": 38055,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1001526/main/index.m3u8"
-    },
-    {
-      "name": "Meraklı Kedinin 10 Yaşamı",
-      "tmdb_id": 567811,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7959138/main/index.m3u8"
-    },
-    {
-      "name": "Mononoke the Movie: The Phantom in the Rain",
-      "tmdb_id": 989730,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt32574149/main/index.m3u8"
-    },
-    {
-      "name": "Monster Family",
-      "tmdb_id": 454699,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6572702/main/index.m3u8"
-    },
-    {
-      "name": "Monster High: Freaky Fusion",
-      "tmdb_id": 290727,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3824344/main/index.m3u8"
-    },
-    {
-      "name": "Monster High: Ghouls Rule",
-      "tmdb_id": 134632,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2446108/main/index.m3u8"
-    },
-    {
-      "name": "Monster High: Haunted",
-      "tmdb_id": 324963,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4137924/main/index.m3u8"
-    },
-    {
-      "name": "Monster House",
-      "tmdb_id": 9297,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0385880/main/index.m3u8"
-    },
-    {
-      "name": "Monsters University",
-      "tmdb_id": 62211,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1453405/main/index.m3u8"
-    },
-    {
-      "name": "Mortal Kombat Legends: Battle of the Realms",
-      "tmdb_id": 841755,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt14901058/main/index.m3u8"
-    },
-    {
-      "name": "Mortal Kombat Legends: Cage Match",
-      "tmdb_id": 1034062,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt22698070/main/index.m3u8"
-    },
-    {
-      "name": "Mortal Kombat Legends: Scorpion's Revenge",
-      "tmdb_id": 664767,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt9580138/main/index.m3u8"
-    },
-    {
-      "name": "Mortal Kombat Legends: Snow Blind",
-      "tmdb_id": 1007401,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt21477618/main/index.m3u8"
-    },
-    {
-      "name": "Neşeli Dalgalar 2: Dalgamanya",
-      "tmdb_id": 411840,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt5513260/"
-    },
-    {
-      "name": "Olaf's Frozen Adventure",
-      "tmdb_id": 460793,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5452780/main/index.m3u8"
-    },
-    {
-      "name": "Orion and the Dark",
-      "tmdb_id": 1139829,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt28066777/main/index.m3u8"
-    },
-    {
-      "name": "Patron Bebek",
-      "tmdb_id": 459151,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3874544/main/index.m3u8"
-    },
-    {
-      "name": "Paws of Fury: The Legend of Hank",
-      "tmdb_id": 366672,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4428398/main/index.m3u8"
-    },
-    {
-      "name": "Peter Rabbit",
-      "tmdb_id": 381719,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5117670/main/index.m3u8"
-    },
-    {
-      "name": "Planet 51",
-      "tmdb_id": 16866,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0762125/main/index.m3u8"
-    },
-    {
-      "name": "Ploey: You Never Fly Alone",
-      "tmdb_id": 506596,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt2766104/"
-    },
-    {
-      "name": "Quackerz",
-      "tmdb_id": 377878,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt3723780/"
-    },
-    {
-      "name": "Rabbit School: Guardians of the Golden Egg",
-      "tmdb_id": 425218,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5029776/main/index.m3u8"
-    },
-    {
-      "name": "Rango",
-      "tmdb_id": 44896,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1192628/main/index.m3u8"
-    },
-    {
-      "name": "Rio 2",
-      "tmdb_id": 172385,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2357291/main/index.m3u8"
-    },
-    {
-      "name": "Rise of the Guardians",
-      "tmdb_id": 81188,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1446192/main/index.m3u8"
-    },
-    {
-      "name": "Robots",
-      "tmdb_id": 9928,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0358082/main/index.m3u8"
-    },
-    {
-      "name": "Rock Dog",
-      "tmdb_id": 333667,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2822672/main/index.m3u8"
-    },
-    {
-      "name": "Rock Dog 2: Rock Around the Park",
-      "tmdb_id": 812204,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt11207240/main/index.m3u8"
-    },
-    {
-      "name": "Ron's Gone Wrong",
-      "tmdb_id": 482321,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7504818/main/index.m3u8"
-    },
-    {
-      "name": "Rumble",
-      "tmdb_id": 598331,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8337158/main/index.m3u8"
-    },
-    {
-      "name": "SamSam",
-      "tmdb_id": 589973,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt9784518/main/index.m3u8"
-    },
-    {
-      "name": "Scoob!",
-      "tmdb_id": 682254,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3152592/main/index.m3u8"
-    },
-    {
-      "name": "Scooby-Doo! Legend of the Phantosaur",
-      "tmdb_id": 67900,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1777608/main/index.m3u8"
-    },
-    {
-      "name": "Scooby-Doo! Mask of the Blue Falcon",
-      "tmdb_id": 151535,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2586070/main/index.m3u8"
-    },
-    {
-      "name": "Seal Team",
-      "tmdb_id": 823610,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8456190/main/index.m3u8"
-    },
-    {
-      "name": "Shimmy: The First Monkey King",
-      "tmdb_id": 1085046,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt21448604/main/index.m3u8"
-    },
-    {
-      "name": "Sing: Thriller",
-      "tmdb_id": 1371727,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3470600/main/index.m3u8"
-    },
-    {
-      "name": "Soul",
-      "tmdb_id": 508442,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2948372/main/index.m3u8"
-    },
-    {
-      "name": "Spies in Disguise",
-      "tmdb_id": 431693,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5814534/main/index.m3u8"
-    },
-    {
-      "name": "Spirit: Özgür Ruh",
-      "tmdb_id": 637693,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt11084896/main/index.m3u8"
-    },
-    {
-      "name": "Strawberry Shortcake and the Beast of Berry Bog",
-      "tmdb_id": 1186402,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt29389870/main/index.m3u8"
-    },
-    {
-      "name": "Strawberry Shortcake's Perfect Holiday",
-      "tmdb_id": 1199118,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt29721553/main/index.m3u8"
-    },
-    {
-      "name": "Superman/Shazam!: The Return of Black Adam",
-      "tmdb_id": 43641,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1701223/main/index.m3u8"
-    },
-    {
-      "name": "Superman: Red Son",
-      "tmdb_id": 124305,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt10985510/main/index.m3u8"
-    },
-    {
-      "name": "Superman: Unbound",
-      "tmdb_id": 166076,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2617456/main/index.m3u8"
-    },
-    {
-      "name": "Şirinler: Yeni Yıl Şarkısı",
-      "tmdb_id": 79443,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2062677/main/index.m3u8"
-    },
-    {
-      "name": "Tangled",
-      "tmdb_id": 38757,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0398286/main/index.m3u8"
-    },
-    {
-      "name": "Teen Titans Go! See Space Jam",
-      "tmdb_id": 834404,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt14851194/main/index.m3u8"
-    },
-    {
-      "name": "Teen Titans Go! To the Movies",
-      "tmdb_id": 474395,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7424200/main/index.m3u8"
-    },
-    {
-      "name": "Teenage Kraken",
-      "tmdb_id": 1040148,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt27155038/main/index.m3u8"
-    },
-    {
-      "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-      "tmdb_id": 614930,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8589698/main/index.m3u8"
-    },
-    {
-      "name": "The Aristocats",
-      "tmdb_id": 10112,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0065421/main/index.m3u8"
-    },
-    {
-      "name": "The Bad Guys: A Very Bad Holiday",
-      "tmdb_id": 1046032,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt28863512/main/index.m3u8"
-    },
-    {
-      "name": "The Boxtrolls",
-      "tmdb_id": 170687,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0787474/main/index.m3u8"
-    },
-    {
-      "name": "The Casagrandes Movie",
-      "tmdb_id": 1216512,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt31123288/main/index.m3u8"
-    },
-    {
-      "name": "The Croods",
-      "tmdb_id": 49519,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0481499/main/index.m3u8"
-    },
-    {
-      "name": "The Great Mouse Detective",
-      "tmdb_id": 9994,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0091149/main/index.m3u8"
-    },
-    {
-      "name": "The Inventor",
-      "tmdb_id": 676727,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5822848/main/index.m3u8"
-    },
-    {
-      "name": "The Jungle Bunch",
-      "tmdb_id": 369002,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6314690/main/index.m3u8"
-    },
-    {
-      "name": "The Larva Island Movie",
-      "tmdb_id": 718867,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt12588448/main/index.m3u8"
-    },
-    {
-      "name": "The Lego Movie",
-      "tmdb_id": 137106,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1490017/main/index.m3u8"
-    },
-    {
-      "name": "The Magician's Elephant",
-      "tmdb_id": 776835,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2560092/main/index.m3u8"
-    },
-    {
-      "name": "The Movie",
-      "tmdb_id": 1218925,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt10364034/main/index.m3u8"
-    },
-    {
-      "name": "The Nut Job",
-      "tmdb_id": 227783,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1821658/main/index.m3u8"
-    },
-    {
-      "name": "The Pirates! In an Adventure with Scientists!",
-      "tmdb_id": 72197,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt1430626/"
-    },
-    {
-      "name": "The Princess and the Frog",
-      "tmdb_id": 10198,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0780521/main/index.m3u8"
-    },
-    {
-      "name": "The Simpsons Movie",
-      "tmdb_id": 35,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0462538/main/index.m3u8"
-    },
-    {
-      "name": "The Smurfs: A Christmas Carol",
-      "tmdb_id": 79443,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt0472181/"
-    },
-    {
-      "name": "The SpongeBob SquarePants Movie",
-      "tmdb_id": 991494,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0345950/main/index.m3u8"
-    },
-    {
-      "name": "The Star",
-      "tmdb_id": 355547,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4587656/main/index.m3u8"
-    },
-    {
-      "name": "Tilki ve Tavşan: Orman Macerası",
-      "tmdb_id": 1061785,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt23451240/main/index.m3u8"
-    },
-    {
-      "name": "Uçaklar",
-      "tmdb_id": 151960,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1691917/main/index.m3u8"
-    },
-    {
-      "name": "Vahşi Robot",
-      "tmdb_id": 1184918,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt29623480/"
-    },
-    {
-      "name": "Vikingler: Büyük Macera",
-      "tmdb_id": 648572,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8065768/main/index.m3u8"
-    },
-    {
-      "name": "A Cat in Paris",
-      "tmdb_id": 52264,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1673702/main/index.m3u8"
-    },
-    {
-      "name": "Aladdin",
-      "tmdb_id": 812,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0103639/main/index.m3u8"
-    },
-    {
-      "name": "All Star Superman",
-      "tmdb_id": 56590,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1699114/main/index.m3u8"
-    },
-    {
-      "name": "America: The Motion Picture",
-      "tmdb_id": 739542,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6733874/main/index.m3u8"
-    },
-    {
-      "name": "Anastasia",
-      "tmdb_id": 9444,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0118617/main/index.m3u8"
-    },
-    {
-      "name": "Antz",
-      "tmdb_id": 8916,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0120587/main/index.m3u8"
-    },
-    {
-      "name": "Arthur 3: The War of the Two Worlds",
-      "tmdb_id": 42949,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0940656/main/index.m3u8"
-    },
-    {
-      "name": "Asterix: The Mansions of the Gods",
-      "tmdb_id": 170522,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3759416/main/index.m3u8"
-    },
-    {
-      "name": "Astro Boy",
-      "tmdb_id": 16577,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0375568/main/index.m3u8"
-    },
-    {
-      "name": "Atlantis: The Lost Empire",
-      "tmdb_id": 10865,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0230011/main/index.m3u8"
-    },
-    {
-      "name": "Bambi II",
-      "tmdb_id": 13205,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0447854/main/index.m3u8"
-    },
-    {
-      "name": "Barbie and Stacie to the Rescue",
-      "tmdb_id": 1170657,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt31181357/main/index.m3u8"
-    },
-    {
-      "name": "Barbie in Princess Power",
-      "tmdb_id": 316322,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4215332/main/index.m3u8"
-    },
-    {
-      "name": "Barbie in Rock 'N Royals",
-      "tmdb_id": 355111,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4955162/main/index.m3u8"
-    },
-    {
-      "name": "Batman: The Doom That Came to Gotham",
-      "tmdb_id": 1003579,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt24223450/main/index.m3u8"
-    },
-    {
-      "name": "Boonie Bears: A Mystical Winter",
-      "tmdb_id": 335832,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4412240/main/index.m3u8"
-    },
-    {
-      "name": "Brave",
-      "tmdb_id": 62177,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1217209/main/index.m3u8"
-    },
-    {
-      "name": "Cars",
-      "tmdb_id": 920,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0317219/main/index.m3u8"
-    },
-    {
-      "name": "Cars 2",
-      "tmdb_id": 49013,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1216475/main/index.m3u8"
-    },
-    {
-      "name": "Cars 3",
-      "tmdb_id": 260514,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3606752/main/index.m3u8"
-    },
-    {
-      "name": "Cats in the Museum",
-      "tmdb_id": 1264821,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt24069962/main/index.m3u8"
-    },
-    {
-      "name": "Cloudy with a Chance of Meatballs 2",
-      "tmdb_id": 109451,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1985966/main/index.m3u8"
-    },
-    {
-      "name": "Crazy Birds",
-      "tmdb_id": 701232,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt10691070/main/index.m3u8"
-    },
-    {
-      "name": "Ella and the Little Sorcerer",
-      "tmdb_id": 918930,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt14633194/main/index.m3u8"
-    },
-    {
-      "name": "Frankenweenie",
-      "tmdb_id": 62214,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1142977/main/index.m3u8"
-    },
-    {
-      "name": "Goldbeak",
-      "tmdb_id": 1508641,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15257928/main/index.m3u8"
-    },
-    {
-      "name": "Happy Feet",
-      "tmdb_id": 9836,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0366548/main/index.m3u8"
-    },
-    {
-      "name": "Hop",
-      "tmdb_id": 50359,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1411704/main/index.m3u8"
-    },
-    {
-      "name": "Hotel Transylvania 2",
-      "tmdb_id": 159824,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2510894/main/index.m3u8"
-    },
-    {
-      "name": "Hotel Transylvania 3: Summer Vacation",
-      "tmdb_id": 400155,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5220122/main/index.m3u8"
-    },
-    {
-      "name": "Hotel Transylvania: Transformania",
-      "tmdb_id": 585083,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0837562/main/index.m3u8"
-    },
-    {
-      "name": "How to Train Your Dragon: The Hidden World",
-      "tmdb_id": 166428,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2386490/main/index.m3u8"
-    },
-    {
-      "name": "Ice Age: Continental Drift",
-      "tmdb_id": 57800,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1667889/main/index.m3u8"
-    },
-    {
-      "name": "Justice League Dark: Apokolips War",
-      "tmdb_id": 618344,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt11079148/main/index.m3u8"
-    },
-    {
-      "name": "Justice League: Crisis on Infinite Earths Part Two",
-      "tmdb_id": 1209288,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt30150907/main/index.m3u8"
-    },
-    {
-      "name": "Kahraman Ikili",
-      "tmdb_id": 175574,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1621039/main/index.m3u8"
-    },
-    {
-      "name": "Kahraman Uzaylilar",
-      "tmdb_id": 68179,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0765446/main/index.m3u8"
-    },
-    {
-      "name": "Karlar Ulkesi",
-      "tmdb_id": 109445,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2294629/main/index.m3u8"
-    },
-    {
-      "name": "Katak: The Brave Beluga",
-      "tmdb_id": 1052152,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt13952306/main/index.m3u8"
-    },
-    {
-      "name": "King Tweety",
-      "tmdb_id": 952217,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt18951472/main/index.m3u8"
-    },
-    {
-      "name": "Kronk's New Groove",
-      "tmdb_id": 13417,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0401398/main/index.m3u8"
-    },
-    {
-      "name": "Kung Fu Panda 4",
-      "tmdb_id": 1011985,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt21692408/main/index.m3u8"
-    },
-    {
-      "name": "Lamya's Poem",
-      "tmdb_id": 716094,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt10346674/main/index.m3u8"
-    },
-    {
-      "name": "Legend of the Guardians: The Owls of Ga'Hoole",
-      "tmdb_id": 41216,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1219342/main/index.m3u8"
-    },
-    {
-      "name": "Legion of Super-Heroes",
-      "tmdb_id": 1003580,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt22769820/main/index.m3u8"
-    },
-    {
-      "name": "LEGO Marvel Super Heroes: Maximum Overload",
-      "tmdb_id": 763861,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3322904/main/index.m3u8"
-    },
-    {
-      "name": "Şrek-Shrek",
-      "tmdb_id": 808,
-      "year": "2001",
-      "url": "https://vidmody.com/mm/tt0126029/main/index.m3u8"
-    },
-    {
-      "name": "Ters Yüz-Inside Out",
-      "tmdb_id": 150540,
-      "year": "2015",
-      "url": "https://vidmody.com/mm/tt2096673/main/index.m3u8"
-    },
-    {
-      "name": "Ratatuy-Ratatouille",
-      "tmdb_id": 2062,
-      "year": "2007",
-      "url": "https://vidmody.com/mm/tt0382932/main/index.m3u8"
-    },
-    {
-      "name": "Oyuncak Hikayesi 3 :Toy Story 3",
-      "tmdb_id": 10193,
-      "year": "2010",
-      "url": "https://vidmody.com/mm/tt0435761/main/index.m3u8"
-    },
-    {
-      "name": "Ruhların Kaçışı :Sen to Chihiro no Kamikakushi",
-      "tmdb_id": 129,
-      "year": "2001",
-      "url": "https://vidmody.com/mm/tt0245429/main/index.m3u8"
-    },
-    {
-      "name": "Sevimli Canavarlar :Monsters- Inc.",
-      "tmdb_id": 585,
-      "year": "2001",
-      "url": "https://vidmody.com/mm/tt0198781/main/index.m3u8"
-    },
-    {
-      "name": "Kayıp Balık Nemo :Finding Nemo",
-      "tmdb_id": 12,
-      "year": "2003",
-      "url": "https://vidmody.com/mm/tt0266543/main/index.m3u8"
-    },
-    {
-      "name": "Yukarı Bak :Up",
-      "tmdb_id": 14160,
-      "year": "2009",
-      "url": "https://vidmody.com/mm/tt1049413/main/index.m3u8"
-    },
-    {
-      "name": "Vol. İ :WALL·E",
-      "tmdb_id": 10681,
-      "year": "2008",
-      "url": "https://vidmody.com/mm/tt0910970/main/index.m3u8"
-    },
-    {
-      "name": "100 Meters",
-      "tmdb_id": 1295026,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5089786/main/index.m3u8"
-    },
-    {
-      "name": "A Scanner Darkly",
-      "tmdb_id": 3509,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0405296/main/index.m3u8"
-    },
-    {
-      "name": "Ana and Bruno",
-      "tmdb_id": 265339,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6338912/main/index.m3u8"
-    },
-    {
-      "name": "and the Secret of King Midas",
-      "tmdb_id": 452773,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3896102/main/index.m3u8"
-    },
-    {
-      "name": "Appleseed Alpha",
-      "tmdb_id": 269650,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3638012/main/index.m3u8"
-    },
-    {
-      "name": "Around the World in 80 Days - 80 Günde Devri Alem",
-      "tmdb_id": 753601,
-      "year": "2021",
-      "url": "https://vidmody.com/mm/tt10341040/main/index.m3u8"
-    },
-    {
-      "name": "Babylon 5: The Road Home",
-      "tmdb_id": 1121575,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt27712788/main/index.m3u8"
-    },
-    {
-      "name": "Batman Ninja",
-      "tmdb_id": 581997,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0118688/main/index.m3u8"
-    },
-    {
-      "name": "Batman: Soul of the Dragon",
-      "tmdb_id": 732450,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt12885852/main/index.m3u8"
-    },
-    {
-      "name": "Batman: The Killing Joke",
-      "tmdb_id": 382322,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4853102/main/index.m3u8"
-    },
-    {
-      "name": "Black Clover: Sword of the Wizard King",
-      "tmdb_id": 812225,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt22868844/main/index.m3u8"
-    },
-    {
-      "name": "Boo York",
-      "tmdb_id": 360404,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt4779496/"
-    },
-    {
-      "name": "Catwoman: Hunted",
-      "tmdb_id": 862491,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15248702/main/index.m3u8"
-    },
-    {
-      "name": "Craig Before the Creek",
-      "tmdb_id": 928833,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt17154734/main/index.m3u8"
-    },
-    {
-      "name": "Day Watch",
-      "tmdb_id": 1087001,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0409904/main/index.m3u8"
-    },
-    {
-      "name": "Deathstroke: Knights & Dragons - The Movie",
-      "tmdb_id": 703771,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt12876132/main/index.m3u8"
-    },
-    {
-      "name": "Dumbo",
-      "tmdb_id": 11360,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3861390/main/index.m3u8"
-    },
-    {
-      "name": "Epic",
-      "tmdb_id": 116711,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0848537/main/index.m3u8"
-    },
-    {
-      "name": "Fantasia",
-      "tmdb_id": 756,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0032455/main/index.m3u8"
-    },
-    {
-      "name": "Ferdinand",
-      "tmdb_id": 364689,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3411444/main/index.m3u8"
-    },
-    {
-      "name": "Green Lantern: Beware My Power",
-      "tmdb_id": 887357,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt20192230/main/index.m3u8"
-    },
-    {
-      "name": "Guillermo del Toro's Pinocchio",
-      "tmdb_id": 555604,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1488589/main/index.m3u8"
-    },
-    {
-      "name": "Hilda and the Mountain King",
-      "tmdb_id": 789708,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15777864/main/index.m3u8"
-    },
-    {
-      "name": "Inside Out",
-      "tmdb_id": 150540,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1640486/main/index.m3u8"
-    },
-    {
-      "name": "Joe",
-      "tmdb_id": 306258,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt2382396/"
-    },
-    {
-      "name": "Kingsglaive: Final Fantasy XV",
-      "tmdb_id": 390734,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5595168/main/index.m3u8"
-    },
-    {
-      "name": "Look Back",
-      "tmdb_id": 1244492,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt31711040/main/index.m3u8"
-    },
-    {
-      "name": "Looney Tunes: Back in Action",
-      "tmdb_id": 10715,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0318155/main/index.m3u8"
-    },
-    {
-      "name": "Luck",
-      "tmdb_id": 585511,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7214954/main/index.m3u8"
-    },
-    {
-      "name": "Luis and the Aliens",
-      "tmdb_id": 432383,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4410000/main/index.m3u8"
-    },
-    {
-      "name": "Metalocalypse: Army of the Doomstar",
-      "tmdb_id": 828899,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt14636170/main/index.m3u8"
-    },
-    {
-      "name": "Mr. Peabody & Sherman",
-      "tmdb_id": 82703,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0864835/main/index.m3u8"
-    },
-    {
-      "name": "My Life as a Zucchini",
-      "tmdb_id": 393559,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2321405/main/index.m3u8"
-    },
-    {
-      "name": "Not Suitable For Children",
-      "tmdb_id": 1219926,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1935065/main/index.m3u8"
-    },
-    {
-      "name": "Peter Pan",
-      "tmdb_id": 10693,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0316396/main/index.m3u8"
-    },
-    {
-      "name": "Polina",
-      "tmdb_id": 1537981,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4383288/main/index.m3u8"
-    },
-    {
-      "name": "Rally Road Racers",
-      "tmdb_id": 1008102,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8417168/main/index.m3u8"
-    },
-    {
-      "name": "Richard the Stork and the Mystery of the Great Jewel",
-      "tmdb_id": 1061855,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt14514964/main/index.m3u8"
-    },
-    {
-      "name": "Scooby-Doo",
-      "tmdb_id": 45752,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt0267913/"
-    },
-    {
-      "name": "Simple Simon",
-      "tmdb_id": 184549,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1686313/main/index.m3u8"
-    },
-    {
-      "name": "Spellbound",
-      "tmdb_id": 592983,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0038109/main/index.m3u8"
-    },
-    {
-      "name": "Spider-Man: Into the Spider-Verse",
-      "tmdb_id": 324857,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4633694/main/index.m3u8"
-    },
-    {
-      "name": "Spirit: Stallion of the Cimarron",
-      "tmdb_id": 9023,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0831887/main/index.m3u8"
-    },
-    {
-      "name": "Squared Love",
-      "tmdb_id": 1560213,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt13846542/main/index.m3u8"
-    },
-    {
-      "name": "Stand by Me Doraemon",
-      "tmdb_id": 265712,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt3331846/"
-    },
-    {
-      "name": "The Angry Birds Movie",
-      "tmdb_id": 153518,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0056869/main/index.m3u8"
-    },
-    {
-      "name": "The Animatrix",
-      "tmdb_id": 55931,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0328832/main/index.m3u8"
-    },
-    {
-      "name": "The Champion",
-      "tmdb_id": 1316664,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt24079806/main/index.m3u8"
-    },
-    {
-      "name": "the Exit of Goodbyes",
-      "tmdb_id": 916192,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5910280/main/index.m3u8"
-    },
-    {
-      "name": "The Final Master",
-      "tmdb_id": 246464,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4851640/main/index.m3u8"
-    },
-    {
-      "name": "The Four of Us",
-      "tmdb_id": 1438826,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15360916/main/index.m3u8"
-    },
-    {
-      "name": "The Little Mermaid",
-      "tmdb_id": 10144,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0097757/main/index.m3u8"
-    },
-    {
-      "name": "The Man",
-      "tmdb_id": 1218925,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0399327/main/index.m3u8"
-    },
-    {
-      "name": "The Mitchells vs. the Machines",
-      "tmdb_id": 501929,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7979580/main/index.m3u8"
-    },
-    {
-      "name": "The Sky Crawlers",
-      "tmdb_id": 15877,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1056437/main/index.m3u8"
-    },
-    {
-      "name": "The Storm",
-      "tmdb_id": 865301,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1230194/main/index.m3u8"
-    },
-    {
-      "name": "The World Is Yours",
-      "tmdb_id": 1562649,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6892462/main/index.m3u8"
-    },
-    {
-      "name": "The Worthy",
-      "tmdb_id": 85142,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4943218/main/index.m3u8"
-    },
-    {
-      "name": "Thelma the Unicorn",
-      "tmdb_id": 739547,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0103074/main/index.m3u8"
-    },
-    {
-      "name": "They Shot the Piano Player",
-      "tmdb_id": 646265,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt11242654/main/index.m3u8"
-    },
-    {
-      "name": "Tom and Jerry: The Movie",
-      "tmdb_id": 22582,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2027255/main/index.m3u8"
-    },
-    {
-      "name": "Too!",
-      "tmdb_id": 80357,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt28508231/main/index.m3u8"
-    },
-    {
-      "name": "Trolls Band Together",
-      "tmdb_id": 901362,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt14362112/main/index.m3u8"
-    },
-    {
-      "name": "Turbo",
-      "tmdb_id": 77950,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1860353/main/index.m3u8"
-    },
-    {
-      "name": "UglyDolls",
-      "tmdb_id": 454458,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1946502/main/index.m3u8"
-    },
-    {
-      "name": "Wild Mouse",
-      "tmdb_id": 70879,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5376196/main/index.m3u8"
-    },
-    {
-      "name": "Winx Club - Magic Adventure",
-      "tmdb_id": 74658,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1618450/main/index.m3u8"
-    },
-    {
-      "name": "Wish",
-      "tmdb_id": 1022796,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt11304740/main/index.m3u8"
-    },
-    {
-      "name": "Zero to Hero",
-      "tmdb_id": 153609,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt27276658/main/index.m3u8"
-    },
-    {
-      "name": ".hack//GIFT",
-      "tmdb_id": 573554,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0475289/main/index.m3u8"
-    },
-    {
-      "name": "Predator: Killer of Killers",
-      "tmdb_id": 1376434,
-      "year": "2025",
-      "url": "https://vidmody.com/vs/tt36463894/"
-    },
-    {
-      "name": "The Witcher Sirens of the Deep",
-      "tmdb_id": 1203329,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15495150/main/index.m3u8"
-    },
-    {
-      "name": "Ek",
-      "tmdb_id": 5255,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt17202164/main/index.m3u8"
-    },
-    {
-      "name": "Kalk!",
-      "tmdb_id": 458932,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt23778430/main/index.m3u8"
-    },
-    {
-      "name": "Köylüler",
-      "tmdb_id": 734002,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt10651230/main/index.m3u8"
-    },
-    {
-      "name": "Özgür",
-      "tmdb_id": 9023,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt31917705/main/index.m3u8"
-    },
-    {
-      "name": "2",
-      "tmdb_id": 1084242,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt12358104/"
-    },
-    {
-      "name": "Mutlu Canavar Ailesi 2",
-      "tmdb_id": 823609,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt15096796/main/index.m3u8"
-    },
-    {
-      "name": "Orman Macerası",
-      "tmdb_id": 1061785,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0870154/main/index.m3u8"
-    },
-    {
-      "name": "Sonsuz",
-      "tmdb_id": 1311031,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6654210/main/index.m3u8"
-    },
-    {
-      "name": "Mulan",
-      "tmdb_id": 10674,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4566758/main/index.m3u8"
-    },
-    {
-      "name": "Z",
-      "tmdb_id": 1084242,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8995218/main/index.m3u8"
-    },
-    {
-      "name": "Cüce Dedektif Şerlok",
-      "tmdb_id": 370567,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2296777/main/index.m3u8"
-    },
-    {
-      "name": "Hayalet Işık",
-      "tmdb_id": 13934,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6215446/main/index.m3u8"
-    },
-    {
-      "name": "Lego Batman Filmi-The LEGO Batman Movie",
-      "tmdb_id": 324849,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4116284/main/index.m3u8"
-    },
-    {
-      "name": "O",
-      "tmdb_id": 500961,
-      "year": "2017",
-      "url": "https://vidmody.com/mm/tt1396484/main/index.m3u8"
-    },
-    {
-      "name": "Yıldız Gemisi Askerleri: Mars Haini",
-      "tmdb_id": 460790,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6977240/main/index.m3u8"
-    },
-    {
-      "name": "Zamanın Sınırında",
-      "tmdb_id": 1147416,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7776936/main/index.m3u8"
-    },
-    {
-      "name": "Elleri Olmayan Kız",
-      "tmdb_id": 396899,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5698496/main/index.m3u8"
-    },
-    {
-      "name": "Fareli Koyun Kavalcisi",
-      "tmdb_id": 67596,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4718500/main/index.m3u8"
-    },
-    {
-      "name": "Gizli Dünya",
-      "tmdb_id": 14836,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3170832/main/index.m3u8"
-    },
-    {
-      "name": "Hayalet Hikayesi",
-      "tmdb_id": 116322,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4714782/main/index.m3u8"
-    },
-    {
-      "name": "Kırmızı Kaplumbağa",
-      "tmdb_id": 337703,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt3666024/"
-    },
-    {
-      "name": "Kızgın Kuşlar",
-      "tmdb_id": 153518,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1985949/main/index.m3u8"
-    },
-    {
-      "name": "Kubo ve Sihirli Telleri",
-      "tmdb_id": 313297,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4302938/main/index.m3u8"
-    },
-    {
-      "name": "Kurbağa Krallığı 2 Buz Macerası",
-      "tmdb_id": 450298,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt6448084/main/index.m3u8"
-    },
-    {
-      "name": "Kurtarıcı",
-      "tmdb_id": 686941,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4382872/main/index.m3u8"
-    },
-    {
-      "name": "Politikacı",
-      "tmdb_id": 1247656,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3485800/main/index.m3u8"
-    },
-    {
-      "name": "Son Dilek",
-      "tmdb_id": 315162,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4625516/main/index.m3u8"
-    },
-    {
-      "name": "Sonsuzluk",
-      "tmdb_id": 1311031,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3564574/main/index.m3u8"
-    },
-    {
-      "name": "Zootropolis Hayvanlar Şehri",
-      "tmdb_id": 269149,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2948356/main/index.m3u8"
-    },
-    {
-      "name": "Dinozorlarla Yurumek",
-      "tmdb_id": 77951,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1762399/main/index.m3u8"
-    },
-    {
-      "name": "Hayal Ulkesi",
-      "tmdb_id": 542890,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2514338/main/index.m3u8"
-    },
-    {
-      "name": "Lagim",
-      "tmdb_id": 1264998,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt4034380/main/index.m3u8"
-    },
-    {
-      "name": "Çizmeli Kedi",
-      "tmdb_id": 315162,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0448694/main/index.m3u8"
-    },
-    {
-      "name": "Neseli Ayaklar 2",
-      "tmdb_id": 65759,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1402488/main/index.m3u8"
-    },
-    {
-      "name": "Ruh",
-      "tmdb_id": 129,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2040560/main/index.m3u8"
-    },
-    {
-      "name": "Alice Harikalar Diyarında",
-      "tmdb_id": 12092,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1014759/main/index.m3u8"
-    },
-    {
-      "name": "Mary ve Max",
-      "tmdb_id": 24238,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0978762/main/index.m3u8"
-    },
-    {
-      "name": "Son Vampir",
-      "tmdb_id": 919,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0806027/main/index.m3u8"
-    },
-    {
-      "name": "Koruma",
-      "tmdb_id": 991494,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0841150/main/index.m3u8"
-    },
-    {
-      "name": "Otel 2",
-      "tmdb_id": 159824,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0498353/main/index.m3u8"
-    },
-    {
-      "name": "Balta",
-      "tmdb_id": 1262498,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0422401/main/index.m3u8"
-    },
-    {
-      "name": "Robinson Crusoe",
-      "tmdb_id": 739040,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0117496/main/index.m3u8"
-    },
-    {
-      "name": "Transformers 1",
-      "tmdb_id": 698687,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0418279/main/index.m3u8"
-    },
-    {
-      "name": "Transformers: Başlangıç",
-      "tmdb_id": 698687,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8864596/main/index.m3u8"
-    },
-    {
-      "name": "Superman 1",
-      "tmdb_id": 342605,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0078346/main/index.m3u8"
-    },
-    {
-      "name": "Örümcek Adam 1",
-      "tmdb_id": 324857,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0145487/main/index.m3u8"
-    },
-    {
-      "name": "Oyuncak Hikayesi 2",
-      "tmdb_id": 863,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0120363/main/index.m3u8"
-    },
-    {
-      "name": "Oyuncak Hikayesi 3",
-      "tmdb_id": 10193,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0435761/main/index.m3u8"
-    },
-    {
-      "name": "Madagaskar 3 Avrupanın Çok Arananları",
-      "tmdb_id": 80321,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1277953/main/index.m3u8"
-    },
-    {
-      "name": "Çılgın Hırsız 2",
-      "tmdb_id": 93456,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1690953/main/index.m3u8"
-    },
-    {
-      "name": "Buz Devri 1",
-      "tmdb_id": 425,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0268380/main/index.m3u8"
-    },
-    {
-      "name": "Buz Devri 2 Erime Basliyor",
-      "tmdb_id": 950,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0438097/main/index.m3u8"
-    },
-    {
-      "name": "Buz Devri 3 Dinozorlarin Safagi",
-      "tmdb_id": 8355,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1080016/main/index.m3u8"
     }
   ],
   "Macera": [
@@ -14209,6 +14233,12 @@
       "tmdb_id": 755898,
       "year": null,
       "url": "https://vidmody.com/mm/tt5502816/main/index.m3u8"
+    },
+    {
+      "name": "Cehennem",
+      "tmdb_id": 653346,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3062096/main/index.m3u8"
     },
     {
       "name": "Jupiter Yukseliyor",
@@ -23749,12 +23779,6 @@
       "url": "https://vidmody.com/mm/tt12930350/main/index.m3u8"
     },
     {
-      "name": "Çıkış Yok",
-      "tmdb_id": 521113,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt16253418/main/index.m3u8"
-    },
-    {
       "name": "Çifte Pazarlık",
       "tmdb_id": 1309923,
       "year": null,
@@ -24179,12 +24203,6 @@
       "tmdb_id": 267805,
       "year": null,
       "url": "https://vidmody.com/mm/tt1655444/main/index.m3u8"
-    },
-    {
-      "name": "Çıkış Yok",
-      "tmdb_id": 521113,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7550014/main/index.m3u8"
     },
     {
       "name": "Ders Planı",
@@ -35394,7 +35412,7 @@
     },
     {
       "name": "Judgment at Nuremberg",
-      "tmdb_id": 821,
+      "tmdb_id": 1370623,
       "year": null,
       "url": "https://vidmody.com/mm/tt0055031/main/index.m3u8"
     },
@@ -40079,12 +40097,6 @@
       "url": "https://vidmody.com/mm/tt1860357/main/index.m3u8"
     },
     {
-      "name": "Cehennem",
-      "tmdb_id": 281338,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3062096/main/index.m3u8"
-    },
-    {
       "name": "Cezanne ve Ben",
       "tmdb_id": 382509,
       "year": null,
@@ -42689,12 +42701,6 @@
       "tmdb_id": 763851,
       "year": null,
       "url": "https://vidmody.com/mm/tt12749596/main/index.m3u8"
-    },
-    {
-      "name": "Gece Nöbeti",
-      "tmdb_id": 3040,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7979142/main/index.m3u8"
     },
     {
       "name": "Hellboy",
@@ -47605,6 +47611,12 @@
       "url": "https://vidmody.com/mm/tt28223926/main/index.m3u8"
     },
     {
+      "name": "Çıkış Yok",
+      "tmdb_id": 1096197,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt16253418/main/index.m3u8"
+    },
+    {
       "name": "Derin Korku",
       "tmdb_id": 507441,
       "year": null,
@@ -47687,6 +47699,12 @@
       "tmdb_id": 857454,
       "year": null,
       "url": "https://vidmody.com/mm/tt14679136/main/index.m3u8"
+    },
+    {
+      "name": "Çıkış Yok",
+      "tmdb_id": 1096197,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7550014/main/index.m3u8"
     },
     {
       "name": "Derin Korku",
@@ -47951,6 +47969,12 @@
       "tmdb_id": 737666,
       "year": null,
       "url": "https://vidmody.com/mm/tt5585272/main/index.m3u8"
+    },
+    {
+      "name": "Gece Nöbeti",
+      "tmdb_id": 526007,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7979142/main/index.m3u8"
     },
     {
       "name": "Gece Yarısına Kadar Altı Dakika",
