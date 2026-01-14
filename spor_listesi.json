@@ -1501,36 +1501,6 @@
       ]
     },
     {
-      "name": "HEARTS vs ST MIRREN",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260353.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "CHELSEA vs ARSENAL",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260535.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "CRUZEIRO U20 vs PONTE PRETA U20",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36260537.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
       "name": "NIGERIA vs MOROCCO",
       "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
@@ -1541,131 +1511,11 @@
       ]
     },
     {
-      "name": "PARIS FC vs NANTES",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260605.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ALBACETE vs REAL MADRID",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260617.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ALAVES vs VALLECANO",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36260619.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "REAL BETIS vs ELCHE",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260621.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "AZ ALKMAAR vs AJAX",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260661.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DECISAO vs NAUTICO",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36260715.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "GALICIA EC vs JUAZEIRENSE",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260717.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "VARZEA GRANDE EC vs LUVERDENSE",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260773.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DUNBEHOLDEN vs MOLYNES UNITED",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260781.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "VOLTA REDONDA vs BOAVISTA RJ",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260795.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "LINCOLN RED IMPS vs ST JOSEPH'S",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260819.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
       "name": "PORTO vs BENFICA",
       "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
           "url": "https://e4-22.n4154.xyz/36261031.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "CHILE vs GERMANY",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261207.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -1781,41 +1631,111 @@
       ]
     },
     {
-      "name": "UCAM MURCIA vs ROSTOCK SEAWOLVES",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "name": "CAMBORIU vs BARRA",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
-          "url": "https://e3-22.n4154.xyz/36260483.m3u8",
+          "url": "https://e4-22.n4154.xyz/36261639.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "PROLETER vs RUDAR 1903",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "name": "IGUATU vs CEFAT TIROL",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
-          "url": "https://e4-22.n4154.xyz/36260583.m3u8",
+          "url": "https://e1-22.n4154.xyz/36261751.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "SKYFORCE vs STARS",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "name": "EAGLE CLAW vs DIAMOND VALLEY",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
-          "url": "https://e3-22.n4154.xyz/36261247.m3u8",
+          "url": "https://e4-22.n4154.xyz/36261765.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "NIZHNY NOVGOROD vs KRASNOYARSK",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "name": "MONTEVIDEO CITY TORQUE vs CERRO LARGO",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
-          "url": "https://e4-22.n4154.xyz/36261335.m3u8",
+          "url": "https://e2-22.n4154.xyz/36261771.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "VITORIA ES vs VILAVELHENSE",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261777.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "FLUMINENSE vs MADUREIRA",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261787.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "BAHIA DE FEIRA vs BAHIA",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261807.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "BOCA JUNIORS vs MILLONARIOS",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261825.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "CORURIPE vs CSE",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261873.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "PALMEIRAS vs SANTOS",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261875.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "NORTH ESPORTE vs ATLÉTICO MINEIRO",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261877.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -1826,6 +1746,56 @@
       "sources": [
         {
           "url": "https://e2-22.n4154.xyz/36261607.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "GOSHEN vs MOUNT VERNON NAZARENE",
+      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261689.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "NIZHNY NOVGOROD vs VOLGOGRAD",
+      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261757.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "MOTOR CRUISE vs SKYFORCE",
+      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261831.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "BUCKNELL BISON vs LAFAYETTE LEOPARDS",
+      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261869.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ARMY BLACK KNIGHTS vs HOLY CROSS CRUSADERS",
+      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261871.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -1906,6 +1876,16 @@
       "sources": [
         {
           "url": "https://api.codetabs.com/v1/proxy/?quest=https://biraz.1386503.xyz/checklist/androstreamliveexn8.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Rhode Island Rams vs VCU Rams",
+      "logo": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
+      "sources": [
+        {
+          "url": "https://lb9.strmd.top/secure/IyObeAVSwUPLhxJgOZKZbNuQKXnAEtFx/delta/stream/live_ncaa_rhode-island-vcu-live-streaming-461308176/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -5773,39 +5753,39 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg",
       "sources": [
         {
-          "url": "https://1.cf32-2c8.workers.dev/static/tabi.m3u8?&ad=random?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://1.cf32-2c8.workers.dev/static/tabi.m3u8?&ad=random?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         },
         {
-          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 2"
         },
         {
-          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 3"
         },
         {
-          "url": "https://1.cf32-2c8.workers.dev/static/tabi1.m3u8?&ad=random?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://1.cf32-2c8.workers.dev/static/tabi1.m3u8?&ad=random?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 4"
         },
         {
-          "url": "https://1.cf32-2c8.workers.dev/static/tabi2.m3u8?&ad=random?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://1.cf32-2c8.workers.dev/static/tabi2.m3u8?&ad=random?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 5"
         },
         {
-          "url": "https://1.cf32-2c8.workers.dev/static/tabi3.m3u8?&ad=random?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://1.cf32-2c8.workers.dev/static/tabi3.m3u8?&ad=random?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 6"
         },
         {
-          "url": "https://1.cf32-2c8.workers.dev/static/tabi4.m3u8?&ad=random?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://1.cf32-2c8.workers.dev/static/tabi4.m3u8?&ad=random?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 7"
         },
         {
-          "url": "https://1.cf32-2c8.workers.dev/static/tabi5.m3u8?&ad=random?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://1.cf32-2c8.workers.dev/static/tabi5.m3u8?&ad=random?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 8"
         },
         {
-          "url": "https://1.cf32-2c8.workers.dev/static/tabi6.m3u8?&ad=random?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://1.cf32-2c8.workers.dev/static/tabi6.m3u8?&ad=random?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Alternatif 9"
         }
       ]
@@ -5815,7 +5795,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/smart1/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/smart1/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5825,7 +5805,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/smart2/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/smart2/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5835,7 +5815,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/euro1/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/euro1/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5845,7 +5825,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/euro2/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/euro2/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5855,7 +5835,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/t1/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/t1/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5865,7 +5845,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/t2/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/t2/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5875,7 +5855,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/t3/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/t3/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5885,7 +5865,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg",
       "sources": [
         {
-          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5895,7 +5875,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg",
       "sources": [
         {
-          "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5905,7 +5885,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg",
       "sources": [
         {
-          "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5915,7 +5895,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/fbtv/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/fbtv/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5925,7 +5905,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/yayinnbatv/index.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ds.ayakkabiparti.lol/yayinnbatv/index.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5935,7 +5915,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/3173922d598840a24005bc0c04cc926e.jpg",
       "sources": [
         {
-          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=675956db19f9bb686edda21d15d911e8&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=675956db19f9bb686edda21d15d911e8&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5945,7 +5925,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg",
       "sources": [
         {
-          "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5955,7 +5935,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/80d8999029533191ed8383fb12ccf042.jpg",
       "sources": [
         {
-          "url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?token=ugAsxKzZVT_HXIX3KCpMuQ&tms=1768513315",
+          "url": "https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?token=IVpy0m6OjoPIhbVOVPERpQ&tms=1768514164",
           "label": "Kaynak 1"
         }
       ]
@@ -5965,7 +5945,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg",
       "sources": [
         {
-          "url": "https://ds.ayakkabiparti.lol/t4/index.m3u8?token=Q_0B6b5x8jH6oq2BF_WuCg&tms=1768513316",
+          "url": "https://ds.ayakkabiparti.lol/t4/index.m3u8?token=FkSa3f1Pn-WLYMdCYY1p_w&tms=1768514165",
           "label": "Kaynak 1"
         }
       ]
@@ -5975,7 +5955,7 @@
       "logo": "https://m.prectv60.lol/uploads/cache/channel_thumb/uploads/jpg/ddc793321e06b9f205e7b99ebca71e4b.jpg",
       "sources": [
         {
-          "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor?token=Q_0B6b5x8jH6oq2BF_WuCg&tms=1768513316",
+          "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor?token=FkSa3f1Pn-WLYMdCYY1p_w&tms=1768514165",
           "label": "Kaynak 1"
         }
       ]
@@ -17343,119 +17323,11 @@
   ],
   " Teni̇s": [
     {
-      "name": "NC )",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260097.m3u8",
-          "label": "Kaynak 1"
-        },
-        {
-          "url": "https://e4-22.n4154.xyz/36261355.m3u8",
-          "label": "Alternatif 2"
-        },
-        {
-          "url": "https://e1-22.n4154.xyz/36261581.m3u8",
-          "label": "Alternatif 3"
-        }
-      ]
-    },
-    {
-      "name": "REECE FALCK vs MATTHEW THOMSON )",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260151.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "CONSTANTINOS DJAKOURIS vs RAFAEL YMER )",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36260153.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DE LA PENA/TORRES FERNANDEZ vs LEON MACCHIAVELLO/MALLA",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260425.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "VSEVOLOD FOKIN vs VSEVOLOD DEMENTYEV",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260705.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
       "name": "EVGENY KAVTOREV vs VICTOR AKIMOV",
       "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
       "sources": [
         {
           "url": "https://e2-22.n4154.xyz/36260803.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ROVERI SIDNEY / SARAIVA DOS SANTOS vs BLANDO / BLANDO )",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260809.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DMITRII IVANOV vs DMITRY YURKEVICH",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36260829.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "KIRILL SHLENEV vs PELOGANOV",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260865.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "KNIPPLING/ZIELINSKI vs TORREALBA/VILLALON VALDES",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260915.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ABOIAN/FARJAT vs ALVES/DIAS",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261119.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -17471,21 +17343,11 @@
       ]
     },
     {
-      "name": "vs",
+      "name": "AGUILAR/ZEBALLOS vs ARIAS/JUSTO",
       "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
       "sources": [
         {
           "url": "https://e1-22.n4154.xyz/36261177.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "KABBAJ/LOLLIA vs LIM/ROUVROY",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261197.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -17501,12 +17363,24 @@
       ]
     },
     {
-      "name": "NAVA ELKIN / WIRGES vs DAY / J. DEAN )",
+      "name": "NC )",
       "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
       "sources": [
         {
-          "url": "https://e2-22.n4154.xyz/36261309.m3u8",
+          "url": "https://e4-22.n4154.xyz/36261355.m3u8",
           "label": "Kaynak 1"
+        },
+        {
+          "url": "https://e1-22.n4154.xyz/36261581.m3u8",
+          "label": "Alternatif 2"
+        },
+        {
+          "url": "https://e3-22.n4154.xyz/36261647.m3u8",
+          "label": "Alternatif 3"
+        },
+        {
+          "url": "https://e3-22.n4154.xyz/36261819.m3u8",
+          "label": "Alternatif 4"
         }
       ]
     },
@@ -17531,16 +17405,6 @@
       ]
     },
     {
-      "name": "VOJTECH VALES vs ADAMANTIOS STAVRAKAS )",
-      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261441.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
       "name": "ARAM NOROOZIAN vs SHAURYA BHARADWAJ )",
       "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
       "sources": [
@@ -17549,261 +17413,101 @@
           "label": "Kaynak 1"
         }
       ]
+    },
+    {
+      "name": "NIKOLAY STRELTSOV vs VALERY DESH",
+      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261755.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "MANDZHIAPEYN N vs DHANVADA A",
+      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261839.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "DMITRY KLENKOV vs EVGENIY BOBOSHIN",
+      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261847.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "BEZIANIS A vs SHINNERER K",
+      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261867.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "vs",
+      "logo": "https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261965.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
     }
   ],
   " Buz Hokeyi̇": [
     {
-      "name": "INFOBEZ vs TRIUMF MOSCOW",
+      "name": "RAKETA MAGNITOGORSK vs GORNYAK CHELYABINSK",
       "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
       "sources": [
         {
-          "url": "https://e4-22.n4154.xyz/36260839.m3u8",
+          "url": "https://e3-22.n4154.xyz/36261789.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "NEFTYANIK VELIKY NOVGOROD vs ZVEZDA SAMARA",
+      "name": "GLADIATORS vs APACHE EAST",
       "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
       "sources": [
         {
-          "url": "https://e4-22.n4154.xyz/36261477.m3u8",
+          "url": "https://e3-22.n4154.xyz/36261803.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "ENERGIYA YEKATERINBURG vs TIGRY TYUMEN",
+      "name": "WHITE BRUINS vs CITY DEVILS",
       "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
       "sources": [
         {
-          "url": "https://e2-22.n4154.xyz/36261485.m3u8",
+          "url": "https://e4-22.n4154.xyz/36261805.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "BLACK ANGELS vs WHITE BRUINS",
+      "name": "AVIATOR SMOLENSK vs NEFTYANIK VELIKY NOVGOROD",
       "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
       "sources": [
         {
-          "url": "https://e1-22.n4154.xyz/36261513.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "WILD VIKINGS vs SHERIFF",
-      "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261603.m3u8",
+          "url": "https://e2-22.n4154.xyz/36261813.m3u8",
           "label": "Kaynak 1"
         }
       ]
     }
   ],
   " Masa Teni̇si̇": [
-    {
-      "name": "VASILIY KONDRATENKO vs SERGEY SOLOMKO",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36261409.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "JAKUB WOJDAT vs ARKADIUSZ ZIEMINSKI",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261413.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SERGEY CHULYUKOV vs GRIGORIY KULISHOV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261455.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "PIONASTALEK vs MARIUSZ SOLIWODA",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36261469.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "YAN VASEK vs YAN PINA YAN PINA )",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36261471.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "JOSE TORRES ESCOLANO vs ALEJANDRO MERINO PENA",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261487.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ALEKSANDRU DUPLIY vs VITALIY PLESKACHY",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261505.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "VICTORIA BREDIKHINA vs ANASTASIA IGNATOVA",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261509.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "GRZEGORZ SKALOWSKI vs PAWEL KALUSKI",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261533.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ORLANDO ESPINOZA vs JESUS MAYO BAEZA",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261535.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "MIROSLAV LOBODA vs YAROSLAV VORSULYAK",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36261537.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DMITRIY KARABUT vs ANDREY NIKOLAEV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36261539.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ANDREY BUDZINOVSKY vs VLADISLAV SIZONENKO",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261553.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DANIIL TOLYZIN vs IKHTIYOR MUHAMMADJONOV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36261583.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "IVAN ZELENEV vs MATVEY TKACHEV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261589.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "EVGENIY SVIRIDOV vs ALEX KUZNETSOV K.",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261593.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SERGEI AKULICH vs ALEXANDER VASILIEV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36261595.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "VIT HERRMANN vs DAVID SABUKA",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36261597.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "IGOR SHKROBOT vs ALEXANDER DYATEL",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36261605.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "YAROSLAV VEREMIYCHUK vs ANTON MARYENKO",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261617.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
     {
       "name": "PAVEL SKROBOT vs EGOR VLASENKO",
       "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
@@ -17815,67 +17519,207 @@
       ]
     },
     {
-      "name": "ROSTISLAV NEZHGODA vs PEVICHEREK PEVICHEREK )",
+      "name": "ALEKSANDR BUDNIKOV vs VLADIMIR KAYDAKOV",
       "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
       "sources": [
         {
-          "url": "https://e2-22.n4154.xyz/36261627.m3u8",
+          "url": "https://e2-22.n4154.xyz/36261667.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "VIKTORIA SEREBRENNIKOVA vs VICTORIA BREDIKHINA",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261711.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "PAVEL PLAKUSHTIY vs ALEKSANDR MISHTENKO",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261741.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ALEJANDRO MERINO PENA vs JESUS VERGARA GONZALEZ",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261747.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ALEXANDER SVIDERSKY vs VLADISLAV SIZONENKO",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261767.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "VITALY LATYPOV vs EVGENIY SVIRIDOV",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261791.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "PIONASTALEK vs GRZEGORZ PLAWSKI",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261793.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "MIKHAIL BUTYLEV vs DANIIL TOLYZIN",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261799.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "IVAN CAMPANA GOMEZ vs VICTOR MAYO BAEZA",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261827.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ONDRZHEY CHADIMA vs PEORLOVSKI",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261829.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "SERGEY SEMENETS vs SERGEY SOLOMKO",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261833.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "AUREL MERIAKRI vs YAROSLAV VEREMIYCHUK",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261837.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "MA LEI vs VITALIY JISHKEVICH",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261843.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "RAFAL STRZELCZAK vs PAWEL KALUSKI",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261845.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ALISHER KARIMJANOV vs ALEXANDR SHIRSHOV",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261915.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "EVGENIY MASYKO vs SERGEY CHELPANOV",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261919.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "KACPER PYRA vs PAWEL MISIARZ",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261935.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ARTYOM KOLESNEV vs ALEXEY GOLOSKOK",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36261959.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "MARIUSH SALUDA vs ARKADIUSH ZEMINSKIY",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261961.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "DANIELY ARAKAKI vs NAUELY SALONA",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36261963.m3u8",
           "label": "Kaynak 1"
         }
       ]
     }
   ],
   " Voleybol": [
-    {
-      "name": "MODENA vs TRENTINO",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36260325.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "COSTA VOLPINO vs NARCONON MELENDUM",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36260493.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "HBOUB vs NOUJOUM JOUNIEH",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36260501.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "AFTURELDING vs HAMAR",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36260631.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "QATAR SPORTS vs AL",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36261171.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
     {
       "name": "PANTERES vs RO",
       "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
@@ -17887,41 +17731,37 @@
       ]
     },
     {
-      "name": "RAIN OR SHINE WARRIORS vs TASMANIA RANGERS",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36261387.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "vs",
+      "name": "GUARULHOS vs SUZANO VOLEI",
       "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
       "sources": [
         {
           "url": "https://e2-22.n4154.xyz/36261451.m3u8",
           "label": "Kaynak 1"
-        },
+        }
+      ]
+    },
+    {
+      "name": "SAO JOSE vs PRAIA CLUBE",
+      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
+      "sources": [
         {
           "url": "https://e3-22.n4154.xyz/36261453.m3u8",
-          "label": "Alternatif 2"
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ASPMA ARAUCARIA vs MONTES CLAROS",
+      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36261709.m3u8",
+          "label": "Kaynak 1"
         }
       ]
     }
   ],
   " Hentbol": [
-    {
-      "name": "MKS LUBLIN vs ZAGLEBIE LUBIN",
-      "logo": "https://image.fanatik.com.tr/i/fanatik/75/0x410/6282949745d2a051587ed23b.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36260419.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
     {
       "name": "ARGENTINA U20 vs URUGUAY U20",
       "logo": "https://image.fanatik.com.tr/i/fanatik/75/0x410/6282949745d2a051587ed23b.jpg",
@@ -17957,7 +17797,7 @@
       ]
     },
     {
-      "name": "TITANS vs HUSTL",
+      "name": "TITANS CHENNAI vs HUSTLERS CHENNAI",
       "logo": "https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg",
       "sources": [
         {
@@ -17967,7 +17807,7 @@
       ]
     },
     {
-      "name": "TOP GUNS vs SMASHERS",
+      "name": "TOP GUNS INDOOR vs SMASHERS",
       "logo": "https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg",
       "sources": [
         {
@@ -17977,36 +17817,18 @@
       ]
     }
   ],
-  " Golf": [
-    {
-      "name": "BAHAMAS CLASSIC. 2026. WINNER vs",
-      "logo": "",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36259827.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    }
-  ],
   " At Yarişi": [
     {
-      "name": "TAMPA BAY DOWNS",
+      "name": "VALPARAISO",
       "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
       "sources": [
         {
-          "url": "https://e1-22.n4154.xyz/36261361.m3u8",
+          "url": "https://e2-22.n4154.xyz/36261503.m3u8",
           "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SAN ISIDRO",
-      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
-      "sources": [
+        },
         {
-          "url": "https://e4-22.n4154.xyz/36261497.m3u8",
-          "label": "Kaynak 1"
+          "url": "https://e4-22.n4154.xyz/36261749.m3u8",
+          "label": "Alternatif 2"
         }
       ]
     },
@@ -18015,23 +17837,51 @@
       "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
       "sources": [
         {
-          "url": "https://e1-22.n4154.xyz/36261499.m3u8",
+          "url": "https://e3-22.n4154.xyz/36261673.m3u8",
+          "label": "Kaynak 1"
+        },
+        {
+          "url": "https://e1-22.n4154.xyz/36261907.m3u8",
+          "label": "Alternatif 2"
+        }
+      ]
+    },
+    {
+      "name": "SAN ISIDRO",
+      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36261745.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "VALPARAISO",
+      "name": "DELTA DOWNS",
       "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
       "sources": [
         {
-          "url": "https://e2-22.n4154.xyz/36261503.m3u8",
+          "url": "https://e2-22.n4154.xyz/36261911.m3u8",
           "label": "Kaynak 1"
         }
       ]
     }
   ],
   "Roxiestreams": [
+    {
+      "name": "Roxiestreams FA Cup",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
+      "sources": [
+        {
+          "url": "https://602.shadow-ran.online/foot.m3u8",
+          "label": "Kaynak 1"
+        },
+        {
+          "url": "https://602.shadow-ran.online/foot.m3u8",
+          "label": "Alternatif 2"
+        }
+      ]
+    },
     {
       "name": "Roxiestreams AFCON Semi Final",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
@@ -18057,25 +17907,21 @@
       ]
     },
     {
-      "name": "Roxiestreams FA Cup",
+      "name": "Roxiestreams Inter Milan vs Lecce",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
       "sources": [
         {
-          "url": "https://602.shadow-ran.online/foot.m3u8",
+          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
           "label": "Kaynak 1"
-        },
-        {
-          "url": "https://602.shadow-ran.online/foot.m3u8",
-          "label": "Alternatif 2"
         }
       ]
     },
     {
-      "name": "Roxiestreams Nigeria vs Morocco",
+      "name": "Roxiestreams KÃ¶ln vs Bayern MÃ¼nchen",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
       "sources": [
         {
-          "url": "https://602.shadow-ran.online/e4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/one.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18091,6 +17937,26 @@
       ]
     },
     {
+      "name": "Roxiestreams Falkirk vs Celtic",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
+      "sources": [
+        {
+          "url": "https://602.shadow-ran.online/cbssn.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Roxiestreams Nigeria vs Morocco",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
+      "sources": [
+        {
+          "url": "https://602.shadow-ran.online/e4.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
       "name": "Roxiestreams Napoli vs Parma",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
       "sources": [
@@ -18101,11 +17967,51 @@
       ]
     },
     {
-      "name": "Roxiestreams Inter Milan vs Lecce",
+      "name": "Roxiestreams Cruz Azul vs Atlas",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
       "sources": [
         {
-          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/one.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Roxiestreams Boca Juniors vs Millonarios",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
+      "sources": [
+        {
+          "url": "https://daffodil.shadow-ran.online/boca.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Roxiestreams Chelsea vs Arsenal",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
+      "sources": [
+        {
+          "url": "https://602.shadow-ran.online/foot.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Roxiestreams Toluca vs Santos Laguna",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
+      "sources": [
+        {
+          "url": "https://d162h6qqsk8wvl.cloudfront.net/0c972070-8470-4297-9bd1-1c9ad58cbfd3/manifest.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Roxiestreams Fluminense vs Madureira",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
+      "sources": [
+        {
+          "url": "https://602.shadow-ran.online/sportv.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18125,101 +18031,11 @@
       ]
     },
     {
-      "name": "Roxiestreams Toluca vs Santos Laguna",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
-      "sources": [
-        {
-          "url": "https://d162h6qqsk8wvl.cloudfront.net/0c972070-8470-4297-9bd1-1c9ad58cbfd3/manifest.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams Falkirk vs Celtic",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
-      "sources": [
-        {
-          "url": "https://602.shadow-ran.online/cbssn.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams Chelsea vs Arsenal",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
-      "sources": [
-        {
-          "url": "https://602.shadow-ran.online/foot.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams Cruz Azul vs Atlas",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
-      "sources": [
-        {
-          "url": "https://daffodil.shadow-ran.online/one.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams KÃ¶ln vs Bayern MÃ¼nchen",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
-      "sources": [
-        {
-          "url": "https://daffodil.shadow-ran.online/one.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams Boca Juniors vs Millonarios",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Soccer.png",
-      "sources": [
-        {
-          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams Toronto Raptors vs Indiana Pacers",
+      "name": "Roxiestreams Denver Nuggets vs Dallas Mavericks",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
       "sources": [
         {
-          "url": "https://daffodil.shadow-ran.online/nba.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams Cleveland Cavaliers vs Philadelphia 76ers",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
-      "sources": [
-        {
-          "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams New York Knicks vs Sacramento Kings",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
-      "sources": [
-        {
-          "url": "https://daffodil.shadow-ran.online/nba6.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Roxiestreams Utah Jazz vs Chicago Bulls",
-      "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
-      "sources": [
-        {
-          "url": "https://daffodil.shadow-ran.online/nba3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba5.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18235,6 +18051,36 @@
       ]
     },
     {
+      "name": "Roxiestreams Utah Jazz vs Chicago Bulls",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
+      "sources": [
+        {
+          "url": "https://daffodil.shadow-ran.online/nba3.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Roxiestreams New York Knicks vs Sacramento Kings",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
+      "sources": [
+        {
+          "url": "https://daffodil.shadow-ran.online/nba6.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "Roxiestreams Cleveland Cavaliers vs Philadelphia 76ers",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
+      "sources": [
+        {
+          "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
       "name": "Roxiestreams Washington Wizards vs Los Angeles Clippers",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
       "sources": [
@@ -18245,11 +18091,11 @@
       ]
     },
     {
-      "name": "Roxiestreams Denver Nuggets vs Dallas Mavericks",
+      "name": "Roxiestreams Toronto Raptors vs Indiana Pacers",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
       "sources": [
         {
-          "url": "https://daffodil.shadow-ran.online/nba5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18257,11 +18103,21 @@
   ],
   " Other": [
     {
+      "name": "Wild West Shootout",
+      "logo": "http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png",
+      "sources": [
+        {
+          "url": "https://lb3.strmd.top/secure/fdVZEJshhynzFMuwrfKcredDKlpmVXAR/echo/stream/ppv-event-03-wild-west-shootout-ppv-03/1/playlist.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
       "name": "Chili Bowl Nationals",
       "logo": "http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png",
       "sources": [
         {
-          "url": "https://lb1.strmd.top/secure/rnSKspzplyEIHtzSfopHJZKOiBnbySYs/echo/stream/ppv-event-02-chili-bowl-nationals-ppv-02/1/playlist.m3u8",
+          "url": "https://lb3.strmd.top/secure/MAiaZaHfnIhAUgezZRsaynnxQUPjaziD/echo/stream/ppv-event-02-chili-bowl-nationals-ppv-02/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18271,7 +18127,7 @@
       "logo": "http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png",
       "sources": [
         {
-          "url": "https://lb9.strmd.top/secure/RGXEwePAbVCvgsyQsJgmznJmjgfAkVTu/echo/stream/ppv-event-01-chili-bowl-pre-race-ppv-001/1/playlist.m3u8",
+          "url": "https://lb4.strmd.top/secure/AAwSkPAVoIqClgqdiWqHJzsvMoQdlnEy/echo/stream/ppv-event-01-chili-bowl-pre-race-ppv-001/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18283,7 +18139,7 @@
       "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw4KMHzApcIbiAAmh3Yn1GjIXAQpM+KLmDLwi80faa0wjsaIhA.webp",
       "sources": [
         {
-          "url": "https://lb1.strmd.top/secure/uxXHKisHrdlDGTaiSMFeCRDIQFfLkMiP/charlie/stream/fc-porto-vs-benfica-1494403/1/playlist.m3u8",
+          "url": "https://lb7.strmd.top/secure/GjPsbQVIulSvdXfHzXZoayYgkYTDBAKA/charlie/stream/fc-porto-vs-benfica-1494403/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18293,7 +18149,7 @@
       "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIpi8gCakQ3EBp24QEPSD4gYIRCAIUmfNWzBl4ReaLVNaYJ2NEQgA.webp",
       "sources": [
         {
-          "url": "https://lb8.strmd.top/secure/CcZvfkaGKjGNuMzsqJkENTMzhabaTAuY/admin/stream/eng_che/1/playlist.m3u8",
+          "url": "https://lb2.strmd.top/secure/dQGEKkOpZkPbChNEjcadWQEUUWcmTeBu/admin/stream/eng_che/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18303,17 +18159,7 @@
       "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgoAEx5g+IVdxDrdR1SjUhEiRhSZ8UXMGXhF5ou01pgHY0RCA.webp",
       "sources": [
         {
-          "url": "https://lb10.strmd.top/secure/EZqvSBeVOkjduSOfeLsFfqChSQEycHZV/admin/stream/esp_bet/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "AZ Alkmaar vs Ajax",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiT8QKIinYhuIPiBIGQEdUZwh1BCkz5a2YMvCLzRWprTAOxoiEA.webp",
-      "sources": [
-        {
-          "url": "https://lb9.strmd.top/secure/vXcgdniSoXTnkAKiPFgjxDDwQsqCIBco/echo/stream/az-alkmaar-vs-ajax-football-1495634/1/playlist.m3u8",
+          "url": "https://lb7.strmd.top/secure/AXKkKYJPUiKwphFGJIbDOFcDfbGMXpjJ/admin/stream/esp_bet/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18323,7 +18169,7 @@
       "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0JJQYEiBQgIIbiAAmITSa3Gdh4wQpM+KLhvL15o+01pgNY0RCA.webp",
       "sources": [
         {
-          "url": "https://lb1.strmd.top/secure/JxPWRxmZUxgJZYTMZMjPTddjsWbBWHfQ/admin/stream/esp_ala/1/playlist.m3u8",
+          "url": "https://lb4.strmd.top/secure/pcPNeRLABrboCecsAMXFwcjetUlnstqZ/admin/stream/esp_ala/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18333,7 +18179,7 @@
       "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPmDUas6kNxAQQfEIhIgYuEChAqrBCkz4ouYMvCLzRzprTCuxohBAA.webp",
       "sources": [
         {
-          "url": "https://lb3.strmd.top/secure/PVRHexQgXDRClieTVQNvVPVuUQDmgHiX/admin/stream/esp_alb/1/playlist.m3u8",
+          "url": "https://lb5.strmd.top/secure/CGkHYKbkMTNCJIUBkGgmLUDPfwBbjEFR/admin/stream/esp_alb/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18343,27 +18189,7 @@
       "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxAM2YAQAZgSENxB8QifYZR7cBkMsIxgTPii5gy8IvNGOmtMM7GiIQA.webp",
       "sources": [
         {
-          "url": "https://lb8.strmd.top/secure/HnmBeMBTwkblyyWbhjXuKhKbIEsJsMlG/admin/stream/afcon/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Copa del Rey: Alaves vs Rayo Vallecano",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQhEBxAh+MYHia0qYFgh1chta+TD3gKoRCA.webp",
-      "sources": [
-        {
-          "url": "https://lb4.strmd.top/secure/bnjFXLHUHLyueGSOkzwZhxYbfWIECHYQ/charlie/stream/alaves-vs-rayo-vallecano-1503639/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Heart of Midlothian vs St Mirren",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAATaGXWqQ3EBD0g+IbTAP6SuAhSZ8UXMGXhF5ou01pgHY0RCA.webp",
-      "sources": [
-        {
-          "url": "https://lb2.strmd.top/secure/EdrLcOAXURVtmaKUydcbLOdKiSHKnNQA/echo/stream/heart-of-midlothian-vs-st-mirren-football-1382765/1/playlist.m3u8",
+          "url": "https://lb3.strmd.top/secure/JQfoTtAcpGNeTUAoIJEYgVKdyAXAHFNc/admin/stream/afcon/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -18373,109 +18199,7 @@
       "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgoAEzBJghHNxAkQ6kHxCJjhnBBAoCFJnxRcwZeEXminTWmBdjREEA.webp",
       "sources": [
         {
-          "url": "https://lb10.strmd.top/secure/rAYbLCKythSKckebJAYQdckzkjOAFzEy/admin/stream/sa_int/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Falkirk vs Celtic",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwZACYhuILRG0g+IEiFNHTMEJcuMKTPii7ry9eaMdNaYdWNEQgA.webp",
-      "sources": [
-        {
-          "url": "https://lb7.strmd.top/secure/rLJQJziJyqyyRWzjWfgQrXbfQtyMlobN/charlie/stream/falkirk-vs-celtic-1382764/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "FC Kln vs Bayern Munich",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQvVgIAModSD56AJiBQhjaiHsYUmfFFzBl4ReaPtNaYR2NEQgA.webp",
-      "sources": [
-        {
-          "url": "https://lb1.strmd.top/secure/CtrhXijuBploAQZPudYpJwEcYYWqlrXN/admin/stream/bl_koe/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Hoffenheim vs Borussia Mnchengladbach",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnhgU5MljB8Q3EBBA7EBkiESIQIGAQpM+KLmDKr680Q6a0wTsaIhA.webp",
-      "sources": [
-        {
-          "url": "https://lb9.strmd.top/secure/ZTSLattLxxHQmZpPBJaKpGkyUBqePFQw/admin/stream/bl_tsg/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "RB Leipzig vs Freiburg",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJYwfaGRghuICCD4hE+kkdwgLIAhSZ8UXMGXhF5o+01phHY0RCA.webp",
-      "sources": [
-        {
-          "url": "https://lb9.strmd.top/secure/McihFZKrOxyFxVvaPhaNYTqIHjhxVpMT/admin/stream/bl_rbl/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Sion vs Winterthur",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kouEEOCQhuIEppAwQKXCAAmekBomEYwJnzVswZeEXmi1TWmBdjREEA.webp",
-      "sources": [
-        {
-          "url": "https://lb3.strmd.top/secure/HfpNEXGmmiJQMRsoKmPHGgoHgxoJBYTT/echo/stream/fc-sion-vs-fc-winterthur-football-1382406/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Bundesliga: 1899 Hoffenheim vs Borussia Monchengladbach",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIeSAMEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp",
-      "sources": [
-        {
-          "url": "https://lb10.strmd.top/secure/hSKikumWPIRLvvwoOanOErXxAMjzipxN/charlie/stream/1899-hoffenheim-vs-borussia-monchengladbach-1388456/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Bundesliga: 1. FC Koln vs Bayern Munchen",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp",
-      "sources": [
-        {
-          "url": "https://lb4.strmd.top/secure/EmexQkxRmYyCDKBNZtYfPvieuJKvsfJJ/charlie/stream/1-fc-koln-vs-bayern-munchen-1388454/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Go Ahead Eagles vs Heracles Almelo",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYFOrBr4CENxAQQfEIhImDIS2YmEYwJnxRcwZHfXminTWmBdjREEA.webp",
-      "sources": [
-        {
-          "url": "https://lb7.strmd.top/secure/eufxiuLFBDsCfAhsMfPwtMQpHXrYhSpV/echo/stream/go-ahead-eagles-vs-heracles-football-1495637/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "Bundesliga Goal Arena",
-      "logo": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
-      "sources": [
-        {
-          "url": "https://lb4.strmd.top/secure/JFPxOoyPyeDdvxSkFKYUtfqOLldeiWym/echo/stream/bundesliga-goal-arena-game-2636262/1/playlist.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    }
-  ],
-  " Hockey": [
-    {
-      "name": "Lausanne HC vs GenveServette HC",
-      "logo": "https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowSMNxBxaWrQBMQEEH1yrtIEmf0EKTPii5gy8IvNGOmtMM7GiIQA.webp",
-      "sources": [
-        {
-          "url": "https://lb3.strmd.top/secure/MmktFECSxtwusgaSBTXDEDiRsuKgOtrh/echo/stream/servette-fc-vs-lausanne-football-1382397/1/playlist.m3u8",
+          "url": "https://lb5.strmd.top/secure/bYuXqpGopkVcPwwpAjcjFgnUijSUyBYh/admin/stream/sa_int/1/playlist.m3u8",
           "label": "Kaynak 1"
         }
       ]
