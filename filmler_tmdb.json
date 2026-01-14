@@ -13551,6 +13551,12 @@
       "url": "https://vidmody.com/mm/tt2436386/main/index.m3u8"
     },
     {
+      "name": "Push",
+      "tmdb_id": 13455,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt0465580/main/index.m3u8"
+    },
+    {
       "name": "Red Faction: Origins",
       "tmdb_id": 65945,
       "year": null,
@@ -19287,6 +19293,12 @@
       "tmdb_id": 2907,
       "year": null,
       "url": "https://vidmody.com/mm/tt1620981/main/index.m3u8"
+    },
+    {
+      "name": "Aida?",
+      "tmdb_id": 1208348,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt8633462/main/index.m3u8"
     },
     {
       "name": "AK vs AK",
@@ -29303,12 +29315,6 @@
       "tmdb_id": 395982,
       "year": null,
       "url": "https://vidmody.com/mm/tt5154288/main/index.m3u8"
-    },
-    {
-      "name": "Push",
-      "tmdb_id": 1073109,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt0465580/main/index.m3u8"
     },
     {
       "name": "Realms",
@@ -39767,12 +39773,6 @@
       "url": "https://vidmody.com/mm/tt4465564/main/index.m3u8"
     },
     {
-      "name": "Karanlıkta",
-      "tmdb_id": 1275151,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt5164184/main/index.m3u8"
-    },
-    {
       "name": "Kardaki Küller",
       "tmdb_id": 390874,
       "year": null,
@@ -41460,7 +41460,7 @@
     },
     {
       "name": "Asla Pes Etme",
-      "tmdb_id": 391757,
+      "tmdb_id": 8456,
       "year": null,
       "url": "https://vidmody.com/mm/tt1023111/main/index.m3u8"
     },
@@ -45869,6 +45869,12 @@
       "url": "https://vidmody.com/mm/tt5742374/main/index.m3u8"
     },
     {
+      "name": "Karanlıkta",
+      "tmdb_id": 711963,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt5164184/main/index.m3u8"
+    },
+    {
       "name": "Ölüm Defteri",
       "tmdb_id": 351460,
       "year": null,
@@ -49075,12 +49081,6 @@
       "tmdb_id": 530915,
       "year": null,
       "url": "https://vidmody.com/mm/tt8579674/main/index.m3u8"
-    },
-    {
-      "name": "Aida?",
-      "tmdb_id": 728118,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt8633462/main/index.m3u8"
     },
     {
       "name": "Da 5 Bloods",
