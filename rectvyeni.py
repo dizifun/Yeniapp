@@ -3,19 +3,16 @@ import json
 import re
 import concurrent.futures
 import time
-from urllib.parse import urljoin, quote
+from urllib.parse import urljoin
 
 # ==================== AYARLAR ====================
 GITHUB_SOURCE_URL = 'https://raw.githubusercontent.com/nikyokki/nik-cloudstream/refs/heads/master/RecTV/src/main/kotlin/com/keyiflerolsun/RecTV.kt'
 PROXY_URL = 'https://api.codetabs.com/v1/proxy/?quest=' + requests.utils.quote(GITHUB_SOURCE_URL)
 
-# Linkleri sarmalayacak Worker Proxy (Referans koddan alındı)
-WORKER_PREFIX = "https://1.nejyoner19.workers.dev/?url="
-
 # Sabitler
 M3U_USER_AGENT = 'googleusercontent'
-TIMEOUT = 15
-MAX_WORKERS = 5  # Dizi detayına girildiği için worker sayısını çok artırmamak sunucu sağlığı için iyidir
+TIMEOUT = 20 # Zaman aşımını biraz arttırdım
+MAX_WORKERS = 5 
 
 # Dosya İsimleri
 FILE_LIVE = 'canli.m3u'
@@ -24,13 +21,10 @@ FILE_SERIES = 'diziler.m3u'
 
 class RecTVScraper:
     def __init__(self):
-        # Varsayılan (Canlı TV için)
         self.headers_default = {
             'User-Agent': 'okhttp/4.12.0',
             'Referer': 'https://twitter.com/'
         }
-        
-        # VOD (Film/Dizi için - Dart/3.7 isteğin üzerine)
         self.headers_vod = {
             'User-Agent': 'Dart/3.7 (dart:io)',
             'Referer': 'https://twitter.com/'
@@ -40,19 +34,28 @@ class RecTVScraper:
         self.sw_key = ""
         self.found_items = {"live": 0, "movies": 0, "series": 0}
         
-        # Tamponlar
-        self.buffer_live = ["#EXTM3U"]
-        self.buffer_movies = ["#EXTM3U"]
-        self.buffer_series = ["#EXTM3U"]
+        self.buffer_live = []
+        self.buffer_movies = []
+        self.buffer_series = []
 
     def log(self, message):
         print(f"[{time.strftime('%H:%M:%S')}] {message}")
 
-    def get_headers(self, content_type):
-        return self.headers_default if content_type == "live" else self.headers_vod
+    def request_with_retry(self, url, headers, retries=3):
+        """Bir istek başarısız olursa belirtilen sayıda tekrar dener"""
+        for i in range(retries):
+            try:
+                r = requests.get(url, headers=headers, timeout=TIMEOUT, verify=False)
+                if r.status_code == 200:
+                    return r
+                elif r.status_code == 404:
+                    return None # Sayfa yoksa tekrar deneme
+            except requests.exceptions.RequestException:
+                time.sleep(1) # Hata durumunda 1 saniye bekle
+                continue
+        return None
 
     def fetch_github_config(self):
-        """GitHub'dan konfigürasyon çeker"""
         self.log("GitHub'dan yapılandırma çekiliyor...")
         content = None
         try:
@@ -73,7 +76,6 @@ class RecTVScraper:
             s_key = re.search(r'private\s+(val|var)\s+swKey\s*=\s*"([^"]+)"', content)
             if s_key: self.sw_key = s_key.group(2)
             
-            # Canlı TV User-Agent güncelle
             ua = re.search(r'headers\s*=\s*mapOf\([^)]*"user-agent"[^)]*to[^"]*"([^"]+)"', content, re.IGNORECASE)
             if ua: self.headers_default['User-Agent'] = ua.group(1)
             
@@ -82,13 +84,13 @@ class RecTVScraper:
         return False
 
     def find_working_domain(self):
-        """Domain taraması yapar"""
         if self.test_domain(self.main_url):
             self.log(f"GitHub domaini çalışıyor: {self.main_url}")
             return
 
-        self.log("GitHub domaini yanıt vermedi. 1-60 arası taranıyor...")
-        for i in range(65, 0, -1):
+        self.log("GitHub domaini yanıt vermedi. Taramaya geçiliyor...")
+        # 70'ten geriye doğru tara (Geleceğe yönelik arttırdım)
+        for i in range(70, 0, -1):
             domain = f"https://m.prectv{i}.lol"
             if self.test_domain(domain):
                 self.main_url = domain
@@ -105,7 +107,6 @@ class RecTVScraper:
             return False
 
     def get_dub_sub_info(self, title, categories):
-        """Film başlığına dublaj/altyazı bilgisi ekler"""
         tag = ""
         lower_title = title.lower()
         cat_str = "".join([c['title'].lower() for c in categories]) if categories else ""
@@ -116,23 +117,18 @@ class RecTVScraper:
             tag = " [Altyazılı]"
         return title + tag
 
-    def fetch_series_episodes(self, serie_id, serie_title, serie_image, serie_year):
-        """
-        REFERANS KODDAN ENTEGRE EDİLDİ:
-        Bir dizinin ID'sini alıp, sezonlarını ve bölümlerini çeker.
-        """
+    def fetch_series_episodes(self, serie_id, serie_title, serie_image):
         episode_entries = []
         url = f"{self.main_url}/api/season/by/serie/{serie_id}/{self.sw_key}"
         
+        # Retry mekanizması ile istek at
+        r = self.request_with_retry(url, self.headers_vod)
+        if not r: return []
+        
         try:
-            # Diziler için VOD header kullan
-            r = requests.get(url, headers=self.headers_vod, timeout=10, verify=False)
-            if r.status_code != 200: return []
-            
             seasons = r.json()
             if not seasons or not isinstance(seasons, list): return []
 
-            # M3U Group Title olarak DİZİ ADINI kullanıyoruz
             group_title = serie_title
 
             for season in seasons:
@@ -146,30 +142,24 @@ class RecTVScraper:
                         for source in ep['sources']:
                             if source.get('url') and str(source.get('url')).endswith('.m3u8'):
                                 raw_url = source['url']
-                                # WORKER PROXY EKLEME
-                                final_url = f"{WORKER_PREFIX}{raw_url}"
+                                # WORKER KALDIRILDI: Direkt URL kullanılıyor
                                 
-                                # Başlık Formatı: Dizi Adı - Sezon X - Bölüm Y
                                 full_title = f"{serie_title} - {season_name} - {ep_name}"
                                 
                                 entry = f'#EXTINF:-1 tvg-id="{serie_id}" tvg-name="{full_title}" tvg-logo="{serie_image}" group-title="{group_title}", {full_title}'
-                                entry += f'\n#EXTVLCOPT:http-user-agent=okhttp/4.12.0' # Oynatıcı için header
+                                entry += f'\n#EXTVLCOPT:http-user-agent=okhttp/4.12.0'
                                 entry += f'\n#EXTVLCOPT:http-referrer=https://twitter.com'
-                                entry += f'\n{final_url}'
+                                entry += f'\n{raw_url}'
                                 
                                 episode_entries.append(entry)
-            
-            # Sunucuyu boğmamak için minik bekleme
-            time.sleep(0.2)
-            
         except Exception as e:
-            self.log(f"Bölüm çekme hatası ({serie_title}): {e}")
+            self.log(f"Bölüm hatası ({serie_title}): {e}")
             
         return episode_entries
 
     def process_content(self, items, content_type, category_name="Genel"):
         count = 0
-        current_headers = self.get_headers(content_type)
+        current_headers = self.headers_default if content_type == "live" else self.headers_vod
 
         for item in items:
             title = item.get('title', 'Bilinmeyen')
@@ -178,39 +168,31 @@ class RecTVScraper:
                 image = urljoin(self.main_url, image)
             tid = item.get('id', 0)
             
-            # ========== DİZİ İŞLEME MANTIĞI (YENİ) ==========
+            # --- DİZİLER ---
             if content_type == "series":
-                # Dizinin sadece bilgilerini alıp, detay için yeni fonksiyona yolluyoruz
-                year = item.get('year', '')
-                episodes = self.fetch_series_episodes(tid, title, image, year)
-                
+                episodes = self.fetch_series_episodes(tid, title, image)
                 if episodes:
                     self.buffer_series.extend(episodes)
-                    self.found_items["series"] += 1 # Dizi sayısı
+                    self.found_items["series"] += 1
                     count += 1
-                continue # Dizi bitti, sonraki item'a geç
+                continue 
             
-            # ========== CANLI TV VE FİLM İŞLEME MANTIĞI ==========
+            # --- FİLM & CANLI ---
             if 'sources' not in item: continue
             
             for source in item['sources']:
                 if (source.get('type') == 'm3u8' or source.get('type') == 'mp4') and source.get('url'):
                     raw_url = source['url']
                     
-                    # Başlık belirle
                     if content_type == "movies":
                         full_title = self.get_dub_sub_info(title, item.get('categories', []))
-                        # Filmler için de Proxy kullanalım (genelde daha iyi çalışır)
-                        final_url = f"{WORKER_PREFIX}{raw_url}"
                     else:
-                        full_title = title # Canlı TV
-                        final_url = raw_url # Canlı TV'de proxy kullanma (genelde bozabilir)
+                        full_title = title 
 
-                    # M3U Entry
                     entry = f'#EXTINF:-1 tvg-id="{tid}" tvg-name="{full_title}" tvg-logo="{image}" group-title="{category_name}", {full_title}'
                     entry += f'\n#EXTVLCOPT:http-user-agent={M3U_USER_AGENT}'
                     entry += f'\n#EXTVLCOPT:http-referrer={current_headers["Referer"]}'
-                    entry += f'\n{final_url}'
+                    entry += f'\n{raw_url}'
 
                     if content_type == "live":
                         self.buffer_live.append(entry)
@@ -225,52 +207,63 @@ class RecTVScraper:
     def scrape_category(self, api_template, category_name, content_type, start_page=0):
         page = start_page
         empty_streak = 0
-        current_headers = self.get_headers(content_type)
+        max_empty_streak = 5 # Kaç boş sayfadan sonra dursun? (Diziler için önemli)
+        
+        # Dizilerde içerik kaybı olmaması için toleransı arttırıyoruz
+        if content_type == "series":
+            max_empty_streak = 10 
+        
+        current_headers = self.headers_default if content_type == "live" else self.headers_vod
         
         while True:
-            # URL Oluştur
             url = f"{self.main_url}/{api_template.replace('SAYFA', str(page))}{self.sw_key}"
-            try:
-                r = requests.get(url, headers=current_headers, timeout=TIMEOUT, verify=False)
-                if r.status_code != 200: break
-                
-                data = r.json()
-                if not data or not isinstance(data, list): break 
+            
+            # Retry mekanizması ile istek at
+            r = self.request_with_retry(url, current_headers)
+            
+            if not r: 
+                # Eğer retry'lara rağmen cevap yoksa bu sayfayı atla ama döngüyü kırma (belki diğer sayfa çalışır)
+                empty_streak += 1
+                if empty_streak >= max_empty_streak: break
+                page += 1
+                continue
 
-                # İşle
-                count = self.process_content(data, content_type, category_name)
+            try:
+                data = r.json()
+                if not data or not isinstance(data, list):
+                    empty_streak += 1
+                else:
+                    count = self.process_content(data, content_type, category_name)
+                    if count == 0: empty_streak += 1
+                    else: empty_streak = 0 # Veri bulundu, sayacı sıfırla
+
+                if empty_streak >= max_empty_streak: 
+                    self.log(f"{category_name} bitti. (Son sayfa: {page})")
+                    break
                 
-                if count == 0: empty_streak += 1
-                else: empty_streak = 0
-                
-                # Güvenlik çıkışı
-                if empty_streak >= 3: break
                 page += 1
                 
             except Exception as e:
-                self.log(f"Hata ({category_name} - Syf {page}): {e}")
-                break
+                self.log(f"JSON Hatası ({category_name} - Syf {page}): {e}")
+                empty_streak += 1
+                if empty_streak >= max_empty_streak: break
 
     def run(self):
-        # 1. Ayarlar
         if not self.fetch_github_config():
             self.log("Config alınamadı, varsayılanlar kullanılacak.")
         
-        # 2. Domain
         self.find_working_domain()
 
-        # 3. Görev Listesi
+        # DİZİLER: "Son Eklenenler" (0) en kapsamlısıdır. Diğerleri kategori bazlıdır.
+        # Çakışmaları önlemek ve tümünü çekmek için temel filtreleri koruyoruz.
         tasks = [
-            # CANLI TV
             ("api/channel/by/filtres/0/0/SAYFA/", "Canlı TV", "live"),
             
-            # DİZİLER (Referans kod mantığıyla işlenecek)
-            ("api/serie/by/filtres/0/created/SAYFA/", "Son Diziler", "series"),
+            ("api/serie/by/filtres/0/created/SAYFA/", "Tüm Diziler (Son Eklenen)", "series"),
             ("api/serie/by/filtres/1/created/SAYFA/", "Aksiyon Dizileri", "series"),
             ("api/serie/by/filtres/2/created/SAYFA/", "Dram Dizileri", "series"),
             ("api/serie/by/filtres/3/created/SAYFA/", "Komedi Dizileri", "series"),
             
-            # FİLMLER
             ("api/movie/by/filtres/0/created/SAYFA/", "Son Filmler", "movies"),
             ("api/movie/by/filtres/1/created/SAYFA/", "Aksiyon", "movies"),
             ("api/movie/by/filtres/2/created/SAYFA/", "Dram", "movies"),
@@ -280,8 +273,7 @@ class RecTVScraper:
             ("api/movie/by/filtres/23/created/SAYFA/", "Yerli Filmler", "movies"),
         ]
 
-        self.log(f"Tarama başlıyor... (Worker Proxy Aktif)")
-        self.log(f"Canlı: Orjinal | Dizi/Film: Worker Proxy + Dart Header")
+        self.log(f"Tarama başlıyor... (Retry Aktif - Worker Yok)")
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             future_to_url = {
@@ -297,7 +289,19 @@ class RecTVScraper:
                 except Exception as exc:
                     self.log(f"Task hatası {task[1]}: {exc}")
 
-        # 4. Kaydet
+        # 4. Kaydet ve SIRALA (Sorting)
+        # Github'daki "değişiklik" sorununu çözmek için içerikleri alfabetik sıralıyoruz.
+        self.log("Veriler sıralanıyor ve kaydediliyor...")
+        
+        self.buffer_live.sort()
+        self.buffer_movies.sort()
+        self.buffer_series.sort()
+
+        # Başlarına #EXTM3U ekle
+        self.buffer_live.insert(0, "#EXTM3U")
+        self.buffer_movies.insert(0, "#EXTM3U")
+        self.buffer_series.insert(0, "#EXTM3U")
+
         self.save_file(FILE_LIVE, self.buffer_live)
         self.save_file(FILE_MOVIES, self.buffer_movies)
         self.save_file(FILE_SERIES, self.buffer_series)
