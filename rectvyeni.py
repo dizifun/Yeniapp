@@ -11,9 +11,9 @@ PROXY_URL = 'https://api.codetabs.com/v1/proxy/?quest=' + requests.utils.quote(G
 
 # Sabitler
 M3U_USER_AGENT = 'googleusercontent'
-TIMEOUT = 30  # Zaman aşımı süresi arttırıldı (Sunucu yavaşsa beklemesi için)
-MAX_RETRIES = 5  # Hata alırsa kaç kez tekrar denesin?
-MAX_WORKERS = 10 
+TIMEOUT = 25  # Sunucu yavaşsa beklesin
+MAX_RETRIES = 5  # Hata alırsa 5 kere denesin
+MAX_WORKERS = 20 # Hızlandırmak için worker sayısını arttırdım (Kategori sayısı çok olduğu için)
 
 # Dosya İsimleri
 FILE_LIVE = 'canli.m3u'
@@ -52,7 +52,6 @@ class RecTVScraper:
                 elif r.status_code == 404:
                     return None
                 else:
-                    # 500 veya 502 hatası alırsa bekle ve tekrar dene
                     time.sleep(1 + i) 
             except requests.exceptions.RequestException:
                 time.sleep(1 + i)
@@ -93,7 +92,6 @@ class RecTVScraper:
             return
 
         self.log("GitHub domaini yanıt vermedi. Taramaya geçiliyor...")
-        # 80'den geriye doğru tara
         for i in range(80, 0, -1):
             domain = f"https://m.prectv{i}.lol"
             if self.test_domain(domain):
@@ -126,7 +124,6 @@ class RecTVScraper:
         episode_entries = []
         url = f"{self.main_url}/api/season/by/serie/{serie_id}/{self.sw_key}"
         
-        # Retry mekanizması kritik (Dizilerin eksik gelmemesi için)
         r = self.request_with_retry(url, self.headers_vod)
         if not r: return []
         
@@ -134,7 +131,7 @@ class RecTVScraper:
             seasons = r.json()
             if not seasons or not isinstance(seasons, list): return []
 
-            group_title = serie_title.replace(",", " ") # M3U formatını bozmamak için virgülleri temizle
+            group_title = serie_title.replace(",", " ") 
 
             for season in seasons:
                 season_name = season.get("title", "Sezon")
@@ -147,7 +144,6 @@ class RecTVScraper:
                         for source in ep['sources']:
                             if source.get('url') and str(source.get('url')).endswith('.m3u8'):
                                 raw_url = source['url']
-                                # PROXY YOK - Direkt URL
                                 
                                 full_title = f"{serie_title} - {season_name} - {ep_name}"
                                 full_title = full_title.replace(",", " ")
@@ -171,7 +167,7 @@ class RecTVScraper:
             tid = item.get('id', 0)
             if not tid: continue
 
-            # Eğer bu ID zaten kaydedildiyse tekrar işleme (Zaman kazan ve duplike önle)
+            # Zaten varsa atla (Duplike önleme)
             if content_type == "movies" and tid in self.movies_dict: continue
             if content_type == "series" and tid in self.series_dict: continue
             
@@ -182,10 +178,8 @@ class RecTVScraper:
             
             # --- DİZİLER ---
             if content_type == "series":
-                # Dizinin bölümlerini çek
                 episodes = self.fetch_series_episodes(tid, title, image)
                 if episodes:
-                    # ID'yi anahtar olarak kullanıp listeye ekliyoruz
                     self.series_dict[tid] = episodes
                     count += 1
                 continue 
@@ -202,7 +196,7 @@ class RecTVScraper:
                     else:
                         full_title = title 
 
-                    full_title = full_title.replace(",", " ") # M3U hatası önlemek için
+                    full_title = full_title.replace(",", " ") 
 
                     entry = f'#EXTINF:-1 tvg-id="{tid}" tvg-name="{full_title}" tvg-logo="{image}" group-title="{category_name}", {full_title}'
                     entry += f'\n#EXTVLCOPT:http-user-agent={M3U_USER_AGENT}'
@@ -220,16 +214,12 @@ class RecTVScraper:
     def scrape_category(self, api_template, category_name, content_type, start_page=0):
         page = start_page
         empty_streak = 0
-        
-        # Diziler için toleransı çok yüksek tutuyoruz
-        max_empty_streak = 20 if content_type == "series" else 5
-        
+        max_empty_streak = 20 if content_type == "series" else 10 # Toleransı arttırdım
         current_headers = self.headers_default if content_type == "live" else self.headers_vod
         
         while True:
             url = f"{self.main_url}/{api_template.replace('SAYFA', str(page))}{self.sw_key}"
             
-            # Güçlendirilmiş İstek
             r = self.request_with_retry(url, current_headers)
             
             if not r: 
@@ -240,28 +230,25 @@ class RecTVScraper:
 
             try:
                 data = r.json()
-                # Liste boşsa veya liste değilse
                 if not data or not isinstance(data, list):
                     empty_streak += 1
                 else:
                     count = self.process_content(data, content_type, category_name)
-                    # Eğer içerik geldi ama hepsi zaten bizde varsa (duplike) count 0 döner
-                    # Bu durumda API bitmemiş olabilir, devam etmeliyiz.
-                    if count == 0 and len(data) > 0:
-                        empty_streak = 0 # Veri var, sadece bizde kayıtlı. Devam.
-                    elif count > 0:
-                        empty_streak = 0 # Yeni veri bulundu.
+                    # Eğer içerik geldi ama hepsi bizde varsa (duplike) count 0 olur.
+                    # Ancak veri gelmeye devam ettiği sürece kesmemeliyiz.
+                    if len(data) > 0:
+                        empty_streak = 0 
                     else:
-                        empty_streak += 1 # Veri yok.
+                        empty_streak += 1 
 
                 if empty_streak >= max_empty_streak: 
-                    self.log(f"{category_name} bitti. (Son sayfa: {page})")
+                    # self.log(f"{category_name} bitti. (Son sayfa: {page})")
                     break
                 
                 page += 1
                 
             except Exception as e:
-                self.log(f"Hata ({category_name} - Syf {page}): {e}")
+                # self.log(f"Hata ({category_name} - Syf {page}): {e}")
                 empty_streak += 1
                 if empty_streak >= max_empty_streak: break
 
@@ -271,24 +258,23 @@ class RecTVScraper:
         
         self.find_working_domain()
 
-        tasks = [
-            ("api/channel/by/filtres/0/0/SAYFA/", "Canlı TV", "live"),
-            
-            # Diziler için geniş filtreler
-            ("api/serie/by/filtres/0/created/SAYFA/", "Tüm Diziler", "series"),
-            ("api/serie/by/filtres/1/created/SAYFA/", "Aksiyon", "series"),
-            
-            # Filmler için geniş filtreler
-            ("api/movie/by/filtres/0/created/SAYFA/", "Son Filmler", "movies"),
-            ("api/movie/by/filtres/1/created/SAYFA/", "Aksiyon", "movies"),
-            ("api/movie/by/filtres/2/created/SAYFA/", "Dram", "movies"),
-            ("api/movie/by/filtres/3/created/SAYFA/", "Komedi", "movies"),
-            ("api/movie/by/filtres/4/created/SAYFA/", "Bilim Kurgu", "movies"),
-            ("api/movie/by/filtres/8/created/SAYFA/", "Korku", "movies"),
-            ("api/movie/by/filtres/23/created/SAYFA/", "Yerli Filmler", "movies"),
-        ]
+        tasks = []
+        
+        # 1. CANLI TV
+        tasks.append(("api/channel/by/filtres/0/0/SAYFA/", "Canlı TV", "live"))
+        
+        # 2. DİZİLER - FULL TARAMA (Kategori ID 0'dan 25'e kadar dene)
+        # Bu, sunucudaki her türlü dizi kategorisini bulur.
+        for i in range(26):
+            tasks.append((f"api/serie/by/filtres/{i}/created/SAYFA/", f"Dizi Kategori-{i}", "series"))
 
-        self.log(f"Tarama başlıyor... (Proxy KAPALI - Retry AKTİF)")
+        # 3. FİLMLER - FULL TARAMA (Kategori ID 0'dan 45'e kadar dene)
+        # Bu, Animasyon, Western, Belgesel, Yerli ne varsa hepsini bulur.
+        for i in range(46):
+            tasks.append((f"api/movie/by/filtres/{i}/created/SAYFA/", f"Film Kategori-{i}", "movies"))
+
+        self.log(f"DEV TARAMA BAŞLIYOR... Toplam Görev: {len(tasks)}")
+        self.log("Tüm kategoriler (0-45) taranıyor. Bu işlem biraz sürebilir.")
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             future_to_url = {
@@ -296,32 +282,33 @@ class RecTVScraper:
                 for t in tasks
             }
             
+            count_done = 0
             for future in concurrent.futures.as_completed(future_to_url):
                 task = future_to_url[future]
+                count_done += 1
+                # Ekrana çok fazla yazı basmaması için sadece her 10 görevde bir bilgi ver
+                if count_done % 10 == 0:
+                    self.log(f"İlerleme: {count_done}/{len(tasks)} kategori tamamlandı.")
                 try:
                     future.result()
-                    self.log(f"Kategori Tamamlandı: {task[1]}")
                 except Exception as exc:
-                    self.log(f"Task hatası {task[1]}: {exc}")
+                    pass
 
         # KAYDETME AŞAMASI
-        self.log("Veriler işleniyor ve kaydediliyor...")
+        self.log("Veriler işleniyor, sıralanıyor ve kaydediliyor...")
 
-        # Sözlükleri Listeye Çevir (Böylece ID'ler tekil olur)
-        
         # Canlı TV
         final_live = ["#EXTM3U"] + list(self.live_dict.values())
         
-        # Filmler (İsme göre alfabetik sırala)
+        # Filmler (Sıralı)
         sorted_movies = sorted(self.movies_dict.values(), key=lambda x: x.split(',')[1])
         final_movies = ["#EXTM3U"] + sorted_movies
 
-        # Diziler (Sözlükteki her değer bir liste olduğu için onları düzleştirmemiz lazım)
+        # Diziler (Sıralı)
         all_episodes = []
         for ep_list in self.series_dict.values():
             all_episodes.extend(ep_list)
         
-        # Dizileri isme göre sırala
         sorted_series = sorted(all_episodes, key=lambda x: x.split(',')[1])
         final_series = ["#EXTM3U"] + sorted_series
 
