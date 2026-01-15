@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *' # Her 6 saatte bir çalışır
   workflow_dispatch: # Manuel çalıştırma butonu
 
+# İzinleri garantiye alıyoruz
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,6 +16,8 @@ jobs:
     steps:
     - name: Checkout Code
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Git geçmişinin tamamını çek (Hata önleyici)
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -31,7 +37,15 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         
-        # Değişiklik varsa commit et
+        # Dosyaları ekle
         git add canli.m3u filmler.m3u diziler.m3u
-        git commit -m "Otomatik M3U Guncellemesi - $(date)" || echo "Değişiklik yok"
-        git push
+        
+        # Commit et (Eğer değişiklik yoksa hata verme, devam et)
+        git commit -m "Otomatik M3U Guncellemesi - $(date)" || echo "Değişiklik yok, push atlanıyor."
+        
+        # --- KRİTİK DÜZELTME ---
+        # Önce uzaktaki (Github'daki) güncel değişiklikleri çek ve birleştir
+        git pull --rebase origin main
+        
+        # Sonra gönder
+        git push origin main
