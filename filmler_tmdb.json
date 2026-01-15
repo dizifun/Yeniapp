@@ -260,7 +260,7 @@
     },
     {
       "name": "Scoob!",
-      "tmdb_id": 682254,
+      "tmdb_id": 385103,
       "year": null,
       "url": "https://vidmody.com/mm/tt3152592/main/index.m3u8"
     },
@@ -6675,12 +6675,6 @@
       "url": "https://vidmody.com/vs/tt1290138/"
     },
     {
-      "name": "Gece Tarifesi",
-      "tmdb_id": null,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3889166/main/index.m3u8"
-    },
-    {
       "name": "Güneye Doğru",
       "tmdb_id": null,
       "year": null,
@@ -6919,6 +6913,12 @@
       "tmdb_id": null,
       "year": null,
       "url": "https://vidmody.com/mm/tt3606888/main/index.m3u8"
+    },
+    {
+      "name": "Striptiz Kulubu 2",
+      "tmdb_id": null,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2268016/main/index.m3u8"
     },
     {
       "name": "Takiptekiler",
@@ -16739,6 +16739,12 @@
       "url": "https://vidmody.com/mm/tt0866439/main/index.m3u8"
     },
     {
+      "name": "Magic Magic",
+      "tmdb_id": 906221,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt1929308/main/index.m3u8"
+    },
+    {
       "name": "Malibu Rescue: The Next Wave",
       "tmdb_id": 695596,
       "year": null,
@@ -20177,12 +20183,6 @@
       "url": "https://vidmody.com/mm/tt2361509/main/index.m3u8"
     },
     {
-      "name": "Striptiz Kulubu 2",
-      "tmdb_id": 264999,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2268016/main/index.m3u8"
-    },
-    {
       "name": "Superfast",
       "tmdb_id": 325358,
       "year": null,
@@ -20457,12 +20457,6 @@
       "tmdb_id": 1621,
       "year": null,
       "url": "https://vidmody.com/mm/tt2883512/main/index.m3u8"
-    },
-    {
-      "name": "Son 3 Gun",
-      "tmdb_id": 36593,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2172934/main/index.m3u8"
     },
     {
       "name": "Son Aşk",
@@ -23317,12 +23311,6 @@
       "url": "https://vidmody.com/mm/tt1365519/main/index.m3u8"
     },
     {
-      "name": "Top Dog",
-      "tmdb_id": 36278,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt2626460/main/index.m3u8"
-    },
-    {
       "name": "Torque",
       "tmdb_id": 10718,
       "year": null,
@@ -23779,6 +23767,12 @@
       "url": "https://vidmody.com/mm/tt12930350/main/index.m3u8"
     },
     {
+      "name": "Çıkış Yok",
+      "tmdb_id": 521113,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt16253418/main/index.m3u8"
+    },
+    {
       "name": "Çifte Pazarlık",
       "tmdb_id": 1309923,
       "year": null,
@@ -24203,6 +24197,12 @@
       "tmdb_id": 267805,
       "year": null,
       "url": "https://vidmody.com/mm/tt1655444/main/index.m3u8"
+    },
+    {
+      "name": "Çıkış Yok",
+      "tmdb_id": 521113,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt7550014/main/index.m3u8"
     },
     {
       "name": "Ders Planı",
@@ -25781,6 +25781,12 @@
       "tmdb_id": 204082,
       "year": null,
       "url": "https://vidmody.com/mm/tt2312718/main/index.m3u8"
+    },
+    {
+      "name": "Son 3 Gun",
+      "tmdb_id": 192102,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2172934/main/index.m3u8"
     },
     {
       "name": "Sona Dogru",
@@ -27583,12 +27589,6 @@
       "tmdb_id": 301095,
       "year": null,
       "url": "https://vidmody.com/mm/tt11540726/main/index.m3u8"
-    },
-    {
-      "name": "Hayır",
-      "tmdb_id": 808940,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt10954984/main/index.m3u8"
     },
     {
       "name": "Komünyon",
@@ -30427,6 +30427,12 @@
       "url": "https://vidmody.com/mm/tt3811906/main/index.m3u8"
     },
     {
+      "name": "Hayır",
+      "tmdb_id": 762504,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt10954984/main/index.m3u8"
+    },
+    {
       "name": "İkiz",
       "tmdb_id": 1306525,
       "year": null,
@@ -32947,6 +32953,12 @@
       "tmdb_id": 1078870,
       "year": null,
       "url": "https://vidmody.com/mm/tt3885524/main/index.m3u8"
+    },
+    {
+      "name": "Gece Tarifesi",
+      "tmdb_id": 1616258,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3889166/main/index.m3u8"
     },
     {
       "name": "Kurt Cobain",
@@ -35693,12 +35705,6 @@
       "url": "https://vidmody.com/mm/tt3471098/main/index.m3u8"
     },
     {
-      "name": "Magic Magic",
-      "tmdb_id": 14214,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt1929308/main/index.m3u8"
-    },
-    {
       "name": "Magical Girl",
       "tmdb_id": 282983,
       "year": null,
@@ -36875,12 +36881,6 @@
       "url": "https://vidmody.com/mm/tt1412386/main/index.m3u8"
     },
     {
-      "name": "The Blackout",
-      "tmdb_id": 25690,
-      "year": null,
-      "url": "https://vidmody.com/vs/tt3145008/"
-    },
-    {
       "name": "The Blind",
       "tmdb_id": 1032194,
       "year": null,
@@ -37707,12 +37707,6 @@
       "tmdb_id": 536728,
       "year": null,
       "url": "https://vidmody.com/mm/tt8740898/main/index.m3u8"
-    },
-    {
-      "name": "The Space Between Us",
-      "tmdb_id": 615033,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt3922818/main/index.m3u8"
     },
     {
       "name": "The Starling",
@@ -40176,7 +40170,7 @@
     },
     {
       "name": "Fırtınadan Sonra",
-      "tmdb_id": 374671,
+      "tmdb_id": 96279,
       "year": null,
       "url": "https://vidmody.com/mm/tt5294966/main/index.m3u8"
     },
@@ -40284,7 +40278,7 @@
     },
     {
       "name": "Hatırla",
-      "tmdb_id": 1354624,
+      "tmdb_id": 302528,
       "year": null,
       "url": "https://vidmody.com/mm/tt3704050/main/index.m3u8"
     },
@@ -43869,6 +43863,12 @@
       "url": "https://vidmody.com/mm/tt6920356/main/index.m3u8"
     },
     {
+      "name": "The Space Between Us",
+      "tmdb_id": 365942,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt3922818/main/index.m3u8"
+    },
+    {
       "name": "The Sweet Life",
       "tmdb_id": 401484,
       "year": null,
@@ -45351,6 +45351,12 @@
       "tmdb_id": 351809,
       "year": null,
       "url": "https://vidmody.com/mm/tt3655414/main/index.m3u8"
+    },
+    {
+      "name": "Top Dog",
+      "tmdb_id": 272636,
+      "year": null,
+      "url": "https://vidmody.com/mm/tt2626460/main/index.m3u8"
     },
     {
       "name": "VANish",
@@ -47155,6 +47161,12 @@
       "url": "https://vidmody.com/mm/tt5596104/main/index.m3u8"
     },
     {
+      "name": "The Blackout",
+      "tmdb_id": 366383,
+      "year": null,
+      "url": "https://vidmody.com/vs/tt3145008/"
+    },
+    {
       "name": "The Canyon",
       "tmdb_id": 26223,
       "year": null,
@@ -47611,12 +47623,6 @@
       "url": "https://vidmody.com/mm/tt28223926/main/index.m3u8"
     },
     {
-      "name": "Çıkış Yok",
-      "tmdb_id": 1096197,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt16253418/main/index.m3u8"
-    },
-    {
       "name": "Derin Korku",
       "tmdb_id": 507441,
       "year": null,
@@ -47699,12 +47705,6 @@
       "tmdb_id": 857454,
       "year": null,
       "url": "https://vidmody.com/mm/tt14679136/main/index.m3u8"
-    },
-    {
-      "name": "Çıkış Yok",
-      "tmdb_id": 1096197,
-      "year": null,
-      "url": "https://vidmody.com/mm/tt7550014/main/index.m3u8"
     },
     {
       "name": "Derin Korku",
