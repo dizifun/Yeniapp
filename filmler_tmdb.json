@@ -14895,24 +14895,6 @@
       "url": "https://load.prectv63.lol/7/cdn333/55a4aeac-1a70-4ec3-b3b3-720be26c0d68/55a4aeac-1a70-4ec3-b3b3-720be26c0d68-master.m3u8?token=0Bj-PieIqkBF3hfvX3EpwQ&tms=1768588771"
     },
     {
-      "name": "Ash",
-      "tmdb_id": 566938,
-      "year": null,
-      "url": "https://load.prectv63.lol/hls/8/cdn1611/2bCaFNPpxgwVTnHjeagxtBnjaDbMPfsxhUIBVOM4.mp4/index.m3u8?token=3FLZr8JVkBr9TsObfLsa8w&tms=1768588763"
-    },
-    {
-      "name": "Ash",
-      "tmdb_id": 566938,
-      "year": null,
-      "url": "https://load.prectv63.lol/hls/8/cdn1611/DUbwoPukzxzc82MyAhz4r7F8lD28p9AfmbckKnqX.mp4/index.m3u8?token=3FLZr8JVkBr9TsObfLsa8w&tms=1768588763"
-    },
-    {
-      "name": "Aslı Gibidir",
-      "tmdb_id": 48303,
-      "year": null,
-      "url": "https://load.prectv63.lol/hls/1/cdn783/m/4/AsliGibidir.mp4/index.m3u8?token=0Bj-PieIqkBF3hfvX3EpwQ&tms=1768588771"
-    },
-    {
       "name": "Astral Boyut",
       "tmdb_id": 419407,
       "year": null,
@@ -21435,12 +21417,6 @@
       "url": "https://load.prectv63.lol/hls/6/cdn41/Filmler/11.02.2022/OrumcekveKiz.mp4/index.m3u8?token=31nQi3I-LqlZOfjOarDpUQ&tms=1768588781"
     },
     {
-      "name": "Özgürlük Yolu",
-      "tmdb_id": 49009,
-      "year": null,
-      "url": "https://load.prectv63.lol/hls/12/cdn1280/B75GlfuhMx0MPJHnmE7rrX91zuySeFnPYneR3wqi.mp4/index.m3u8?token=6TOaY2X3a01bMEw8YfqvRw&tms=1768588784"
-    },
-    {
       "name": "Özgürlüğün Elli Tonu",
       "tmdb_id": 337167,
       "year": null,
@@ -23075,6 +23051,12 @@
       "url": "https://m.prectv60.lol/uploads/m3u8/87ab4937814479e84272aa1aa654afb7.mp4/index.m3u8"
     },
     {
+      "name": "Özgürlük Yolu",
+      "tmdb_id": 5915,
+      "year": null,
+      "url": "https://load.prectv63.lol/hls/12/cdn1280/B75GlfuhMx0MPJHnmE7rrX91zuySeFnPYneR3wqi.mp4/index.m3u8?token=6TOaY2X3a01bMEw8YfqvRw&tms=1768588784"
+    },
+    {
       "name": "Üç ??? ve Karpat Köpeği",
       "tmdb_id": 1219537,
       "year": null,
@@ -23423,6 +23405,18 @@
       "tmdb_id": 1015303,
       "year": null,
       "url": "https://load.prectv63.lol/hls/8/cdn801/2722847fa9304722376bdf8c0aeaa3af17368671985.mp4/index.m3u8?token=3FLZr8JVkBr9TsObfLsa8w&tms=1768588763"
+    },
+    {
+      "name": "Ash",
+      "tmdb_id": 931349,
+      "year": null,
+      "url": "https://load.prectv63.lol/hls/8/cdn1611/2bCaFNPpxgwVTnHjeagxtBnjaDbMPfsxhUIBVOM4.mp4/index.m3u8?token=3FLZr8JVkBr9TsObfLsa8w&tms=1768588763"
+    },
+    {
+      "name": "Ash",
+      "tmdb_id": 931349,
+      "year": null,
+      "url": "https://load.prectv63.lol/hls/8/cdn1611/DUbwoPukzxzc82MyAhz4r7F8lD28p9AfmbckKnqX.mp4/index.m3u8?token=3FLZr8JVkBr9TsObfLsa8w&tms=1768588763"
     },
     {
       "name": "Asla Bırakma",
@@ -27889,12 +27883,6 @@
       "url": "https://load.prectv63.lol/hls/11/cdn65/XLRElTXOb2x9QnhsJt4cVfCZrjsjlpA8aULBPpv8.mp4/index.m3u8?token=3FLZr8JVkBr9TsObfLsa8w&tms=1768588763"
     },
     {
-      "name": "İkiz",
-      "tmdb_id": 1306525,
-      "year": null,
-      "url": "https://load.prectv63.lol/hls/6/cdn41/Filmler/the-twin-2.mp4/index.m3u8?token=k3KpAdVMdmHtyRpEmFcaog&tms=1768588773"
-    },
-    {
       "name": "İnsan Yiyenler",
       "tmdb_id": 517831,
       "year": null,
@@ -28863,6 +28851,12 @@
       "tmdb_id": 657223,
       "year": null,
       "url": "https://load.prectv63.lol/hls/2/cdn7/Filmler/Aslan.Parcam.2019.1080P.Amzn.Web-Dl.Dd%2B2.0.H.264-Bdc-1.mp4/index.m3u8?token=31nQi3I-LqlZOfjOarDpUQ&tms=1768588781"
+    },
+    {
+      "name": "Aslı Gibidir",
+      "tmdb_id": 584556,
+      "year": null,
+      "url": "https://load.prectv63.lol/hls/1/cdn783/m/4/AsliGibidir.mp4/index.m3u8?token=0Bj-PieIqkBF3hfvX3EpwQ&tms=1768588771"
     },
     {
       "name": "Asteroit Şehir",
@@ -33585,6 +33579,12 @@
       "tmdb_id": 570131,
       "year": null,
       "url": "https://load.prectv63.lol/hls/6/cdn2/load/cdn100/Filmler/MonInconnue.mp4/index.m3u8?token=ZRLZwh0BU50NRw3bvSDecQ&tms=1768588767"
+    },
+    {
+      "name": "İkiz",
+      "tmdb_id": 1245347,
+      "year": null,
+      "url": "https://load.prectv63.lol/hls/6/cdn41/Filmler/the-twin-2.mp4/index.m3u8?token=k3KpAdVMdmHtyRpEmFcaog&tms=1768588773"
     },
     {
       "name": "İkiz Hayat",
