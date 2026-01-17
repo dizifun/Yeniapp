@@ -44,7 +44,7 @@ def create_playlist_json():
             # Her bir bölüm için basit bir obje oluşturuyoruz
             episodes.append({
                 "id": episode_counter,
-                "title": f"Kuzey Güney - {episode_counter}. Bölüm",
+                "title": f"Arkadaşım Hoşgeldin- {episode_counter}. Bölüm",
                 "url": line,
                 "type": "vod" # Uygulamanın bunun canlı değil video olduğunu anlaması için
             })
@@ -56,7 +56,7 @@ def create_playlist_json():
 
     # JSON Olarak Kaydet (Sadece Dizi Listesi)
     data_to_save = {
-        "playlist_name": "Kuzey Güney Tüm Bölümler",
+        "playlist_name": "Arkadaşım Hoşgeldin Tüm Bölümler",
         "total_count": len(episodes),
         "streams": episodes # Tüm bölümler burada liste halindedir
     }
