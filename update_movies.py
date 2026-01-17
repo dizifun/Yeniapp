@@ -4,11 +4,11 @@ import re
 import time
 
 # --- AYARLAR ---
-# Senin GitHub veritabanı linkin
-DATA_URL = "https://raw.githubusercontent.com/dizifun/Filmdizi/main/veritabani.json"
+M3U_URL = "https://cdn.jsdelivr.net/gh/dizifun/Yeniapp@main/filmler.m3u"
+JSON_URL = "https://raw.githubusercontent.com/dizifun/Filmdizi/main/veritabani.json"
 OUTPUT_FILE = "filmler_tmdb.json"
 
-# TMDB API Anahtarı
+# TMDB API ANAHTARI
 TMDB_API_KEY = "6fabef7bd74e01efcd81d35c39c4a049" 
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 
@@ -22,104 +22,113 @@ GENRE_MAP = {
 }
 
 def clean_name(name):
-    """Filmin ismini arama için temizler ve varsa yılı ayıklar."""
-    # Yıl bulma (Genellikle başlıkta yıl olmaz ama temizlik için önlem)
+    """Filmin ismini arama için temizler ve yılı ayıklar."""
     year_match = re.search(r'\((\d{4})\)', name)
     year = year_match.group(1) if year_match else None
 
-    # Temizlik (Gereksiz takıları temizler)
     name = re.sub(r'\[.*?\]|\(.*?\)', '', name)
-    name = re.sub(r'\b(TV|TR|EN|SUB|DUB|HD|FHD|4K|1080p|720p|HEVC|DUAL|Filmbol)\b', '', name, flags=re.IGNORECASE)
-    name = name.replace('|', '').replace('_', ' ').replace(':', '').strip()
+    name = re.sub(r'\b(TV|TR|EN|SUB|DUB|HD|FHD|4K|1080p|720p|HEVC|Filmbol|DUAL)\b', '', name, flags=re.IGNORECASE)
+    name = name.replace('|', '').replace('_', ' ').strip()
     name = re.sub(' +', ' ', name)
 
     return name, year
 
 def get_tmdb_info(query_name, year=None):
     """TMDB'den ID ve Tür bilgisini çeker."""
+    if not TMDB_API_KEY:
+        return None, "Kategorisiz"
+
     search_url = f"{TMDB_BASE_URL}/search/movie"
-    params = {
-        'api_key': TMDB_API_KEY,
-        'query': query_name,
-        'language': 'tr-TR',
-        'page': 1
-    }
-    if year:
-        params['year'] = year
+    params = {'api_key': TMDB_API_KEY, 'query': query_name, 'language': 'tr-TR', 'page': 1}
+    if year: params['year'] = year
 
     try:
-        r = requests.get(search_url, params=params, timeout=10)
+        r = requests.get(search_url, params=params, timeout=5)
         data = r.json()
-
-        if data.get('results'):
+        if data['results']:
             best_match = data['results'][0]
             movie_id = best_match['id']
             genre_ids = best_match.get('genre_ids', [])
             main_category = GENRE_MAP.get(genre_ids[0], "Diğer Filmler") if genre_ids else "Diğer Filmler"
             return movie_id, main_category
-        return None, None
-    except Exception as e:
-        print(f"TMDB Hatası ({query_name}): {e}")
-        return None, None
+        else:
+            return None, "Bulunamayanlar"
+    except:
+        return None, "Hata"
 
 def main():
-    print(f"Veritabanı indiriliyor: {DATA_URL}")
+    organized_data = {} # Hedef: { "Aksiyon": [ {film}, {film} ] }
+    processed_urls = set()
+
+    # 1. M3U DOSYASINI İŞLE
+    print("M3U İndiriliyor...")
     try:
-        response = requests.get(DATA_URL)
-        raw_movies = response.json()
-    except Exception as e:
-        print(f"Veritabanı çekilemedi: {e}")
-        return
+        m3u_res = requests.get(M3U_URL)
+        lines = m3u_res.text.splitlines()
+        temp_name = None
+        for line in lines:
+            line = line.strip()
+            if line.startswith("#EXTINF"):
+                temp_name = line.split(",")[-1].strip()
+            elif line.startswith("http") and temp_name:
+                url = line
+                if url not in processed_urls:
+                    clean_title, year = clean_name(temp_name)
+                    tmdb_id, category = get_tmdb_info(clean_title, year)
+                    
+                    entry = {
+                        "name": clean_title,
+                        "tmdb_id": tmdb_id,
+                        "year": year,
+                        "url": url,
+                        "altyazi_url": None # M3U'da genellikle altyazı olmaz
+                    }
+                    if category not in organized_data: organized_data[category] = []
+                    organized_data[category].append(entry)
+                    processed_urls.add(url)
+                temp_name = None
+                time.sleep(0.05)
+    except Exception as e: print(f"M3U Hatası: {e}")
 
-    organized_data = {}
-    total_movies = len(raw_movies)
-    print(f"Toplam {total_movies} film işlenecek...")
+    # 2. JSON VERİTABANINI İŞLE
+    print("JSON Veritabanı İşleniyor...")
+    try:
+        json_res = requests.get(JSON_URL)
+        db_items = json_res.json()
+        for item in db_items:
+            url = item.get("video_url")
+            if url and url not in processed_urls:
+                raw_name = item.get("baslik")
+                clean_title, year = clean_name(raw_name)
+                tmdb_id, category = get_tmdb_info(clean_title, year)
 
-    for count, movie in enumerate(raw_movies, 1):
-        baslik = movie.get("baslik", "Bilinmeyen Film")
-        video_url = movie.get("video_url")
-        altyazi = movie.get("altyazi")
-        poster = movie.get("poster")
+                # TMDB bulamazsa JSON'daki orijinal kategoriyi dene
+                if tmdb_id is None:
+                    category = item.get("kategori", "Kategorisiz")
 
-        # Altyazı kontrolü: Eğer "YOK" veya null ise temizle
-        if altyazi in ["YOK", "null", None]:
-            altyazi = None
+                # Altyazı temizliği
+                sub = item.get("altyazi")
+                if sub in ["YOK", "null", "", None]: sub = None
 
-        # Başlığı temizle ve TMDB'den bilgi al
-        clean_title, year = clean_name(baslik)
-        tmdb_id, category = get_tmdb_info(clean_title, year)
-        
-        # Eğer TMDB kategorisi bulunamazsa JSON'daki orijinal kategoriyi kullan
-        if not category:
-            category = movie.get("kategori", "Kategorisiz")
+                entry = {
+                    "name": clean_title,
+                    "tmdb_id": tmdb_id,
+                    "year": year,
+                    "url": url,
+                    "altyazi_url": sub
+                }
+                
+                if category not in organized_data: organized_data[category] = []
+                organized_data[category].append(entry)
+                processed_urls.add(url)
+                time.sleep(0.05)
+    except Exception as e: print(f"JSON Hatası: {e}")
 
-        # Film objesini oluştur
-        film_entry = {
-            "baslik": baslik,
-            "arama_ismi": clean_title,
-            "tmdb_id": tmdb_id,
-            "video_url": video_url,
-            "altyazi_url": altyazi,
-            "poster": poster,
-            "yil": year
-        }
-
-        # Kategoriye göre grupla
-        if category not in organized_data:
-            organized_data[category] = []
-        organized_data[category].append(film_entry)
-
-        if count % 10 == 0:
-            print(f"İşlenen: {count}/{total_movies} - {baslik}")
-        
-        # TMDB API limitlerine takılmamak için kısa bekleme
-        time.sleep(0.1)
-
-    # Yeni JSON dosyasına kaydet
+    # JSON Kaydet (Senin uygulamanın istediği format)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(organized_data, f, ensure_ascii=False, indent=2)
 
-    print(f"\nİşlem tamamlandı! {OUTPUT_FILE} dosyası oluşturuldu.")
+    print(f"\nBitti! {OUTPUT_FILE} oluşturuldu. Toplam Kategori: {len(organized_data)}")
 
 if __name__ == "__main__":
     main()
