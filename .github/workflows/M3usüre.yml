@@ -1,12 +1,12 @@
 name: M3U Süre Hesaplayıcı
 
 on:
-  workflow_dispatch: # Manuel tetikleme butonu ekler
+  workflow_dispatch: # Manuel tetikleme butonu
 
 jobs:
   analyze-durations:
     runs-on: ubuntu-latest
-    permissions: # Commit atmak için gerekli izinler
+    permissions: # Commit atmak ve Pushlamak için gerekli izinler
       contents: write
       
     steps:
@@ -31,6 +31,21 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
+          
+          # Oluşan JSON dosyasını sahneye al
           git add arkadasim_hosgeldin_sureler.json
-          # Eğer değişiklik yoksa hata vermesin diye kontrol ekliyoruz
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Dizi süreleri güncellendi" && git push)
+          
+          # Eğer değişiklik varsa işlem yap, yoksa boşuna hata verme
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            echo "Değişiklik tespit edildi, güncelleniyor..."
+            git commit -m "Dizi süreleri güncellendi"
+            
+            # --- KRİTİK DÜZELTME BURASI ---
+            # Önce sunucudaki yeni değişiklikleri çekip bizimkilerin altına koyar (rebase)
+            git pull --rebase origin main
+            
+            # Sonra gönderir
+            git push
+          else
+            echo "Dosyada değişiklik yok, işlem atlanıyor."
+          fi
