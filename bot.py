@@ -3,8 +3,8 @@ import json
 import os
 
 # --- AYARLAR ---
-M3U_URL = "https://raw.githubusercontent.com/UzunMuhalefet/Legal-IPTV/main/lists/video/sources/www-kanald-com-tr/arsiv-diziler/kuzey-guney.m3u"
-OUTPUT_FILE = "api/kuzey_guney_full.json" # Dosya adını içeriğe uygun değiştirdim
+M3U_URL = "https://raw.githubusercontent.com/UzunMuhalefet/Legal-IPTV/main/lists%2Fvideo%2Fsources%2Fwww-kanald-com-tr%2Farsiv-programlar%2Farkadasim-hosgeldin.m3u"
+OUTPUT_FILE = "api/Arkdasim_Hosgeldin_full.json" # Dosya adını içeriğe uygun değiştirdim
 GITHUB_USER = "dizifun" # Senin kullanıcı adın (gerekirse değiştir)
 GITHUB_REPO = "Yeniapp" # Senin repo adın (gerekirse değiştir)
 
