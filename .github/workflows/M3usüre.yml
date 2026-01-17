@@ -1,0 +1,36 @@
+name: M3U Süre Hesaplayıcı
+
+on:
+  workflow_dispatch: # Manuel tetikleme butonu ekler
+
+jobs:
+  analyze-durations:
+    runs-on: ubuntu-latest
+    permissions: # Commit atmak için gerekli izinler
+      contents: write
+      
+    steps:
+      - name: Depoyu Çek
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: FFmpeg Kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Kütüphaneleri Kur
+        run: pip install requests
+
+      - name: Scripti Çalıştır
+        run: python m3u_sure_hesapla.py
+
+      - name: JSON Dosyasını Kaydet (Commit)
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add arkadasim_hosgeldin_sureler.json
+          # Eğer değişiklik yoksa hata vermesin diye kontrol ekliyoruz
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Dizi süreleri güncellendi" && git push)
