@@ -3,21 +3,15 @@
   "channels": [
     {
       "name": "Kuzey Güney 7/24",
-      "logo": "https://i.ytimg.com/vi/dwUvbkMAcZE/hq720.jpg?v=695225b1&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBLM6NPGNQ71fjuLLYM3cnzsodddw",
-      "group": "Efsane Diziler",
+      "logo": "https://i.ibb.co/nsk3P6jV/Logopit-1768673542806.png",
+      "group": "Fanatik PRİME",
       "url": "https://cdn.jsdelivr.net/gh/dizifun/Yeniapp@main/api/kuzey_guney_full.json"
     },
     {
-      "name": "Aşk-ı Memnu Özel",
-      "logo": "https://upload.wikimedia.org/wikipedia/tr/6/62/A%C5%9Fk-%C4%B1_Memnu_Dizi_Afi%C5%9Fi.jpg",
-      "group": "Efsane Diziler",
-      "url": "https://senin-sunucun.com/api/aski_memnu_listesi.json"
-    },
-    {
-      "name": "Kurtlar Vadisi",
-      "logo": "https://i.imgur.com/kurtlar_vadisi_logo.png",
-      "group": "Aksiyon",
-      "url": "https://senin-sunucun.com/api/kv_listesi.json"
+      "name": "Arkdaşım Hoşgeldin",
+      "logo": "",
+      "group": "Fanatik PRİME",
+      "url": "https://cdn.jsdelivr.net/gh/dizifun/Yeniapp@main/api%2FArkdasim_Hosgeldin_full.json"
     }
   ]
 }
