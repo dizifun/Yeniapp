@@ -1,12 +1,13 @@
 import requests
 import json
 import os
+import subprocess
 
 # --- AYARLAR ---
 M3U_URL = "https://raw.githubusercontent.com/UzunMuhalefet/Legal-IPTV/main/lists%2Fvideo%2Fsources%2Fwww-kanald-com-tr%2Farsiv-programlar%2Farkadasim-hosgeldin.m3u"
-OUTPUT_FILE = "api/Arkdasim_Hosgeldin_full.json" # Dosya adını içeriğe uygun değiştirdim
-GITHUB_USER = "dizifun" # Senin kullanıcı adın (gerekirse değiştir)
-GITHUB_REPO = "Yeniapp" # Senin repo adın (gerekirse değiştir)
+OUTPUT_FILE = "api/Arkdasim_Hosgeldin_full.json"
+GITHUB_USER = "dizifun"
+GITHUB_REPO = "Yeniapp"
 
 def fix_github_url(url):
     """GitHub linkini düzeltir."""
@@ -14,11 +15,29 @@ def fix_github_url(url):
         return url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
     return url
 
+def get_duration(url):
+    """Videonun süresini saniye cinsinden (float) döndürür."""
+    try:
+        # ffprobe komutu: Videoyu indirmeden sadece başlık bilgisini okur
+        komut = [
+            "ffprobe", 
+            "-v", "error", 
+            "-show_entries", "format=duration", 
+            "-of", "default=noprint_wrappers=1:nokey=1", 
+            url
+        ]
+        # 10 saniye zaman aşımı koyduk, link bozuksa script donmasın
+        sonuc = subprocess.run(komut, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=10)
+        return float(sonuc.stdout.strip())
+    except Exception as e:
+        print(f"⚠️ Süre alınamadı: {e}")
+        return 0
+
 def create_playlist_json():
     print("📥 M3U Listesi indiriliyor...")
 
     final_url = fix_github_url(M3U_URL)
-    
+
     try:
         response = requests.get(final_url)
         content = response.text
@@ -28,37 +47,41 @@ def create_playlist_json():
 
     episodes = []
     lines = content.splitlines()
-    episode_counter = 1
+    
+    # Önce sadece geçerli linkleri bir listede toplayalım
+    valid_urls = [line.strip() for line in lines if line.strip() and not line.startswith("#") and ("http" in line or line.endswith(".m3u8") or line.endswith(".mp4"))]
 
-    print("⚙️ Linkler ayıklanıyor...")
+    print(f"⚙️ Toplam {len(valid_urls)} bölüm bulundu. Süreler hesaplanıyor...")
 
-    for line in lines:
-        line = line.strip()
+    for i, line in enumerate(valid_urls, 1):
+        print(f"[{i}/{len(valid_urls)}] İşleniyor...") # Loglarda ilerlemeyi görmek için
+        
+        # Süreyi hesapla
+        sure_saniye = get_duration(line)
+        
+        # Dakika:Saniye formatına çevir
+        dakika = int(sure_saniye // 60)
+        saniye = int(sure_saniye % 60)
+        sure_metin = f"{dakika}:{saniye:02d}"
 
-        # Boş satırları ve yorum satırlarını atla
-        if not line or line.startswith("#"):
-            continue
-
-        # Link tespiti
-        if "http" in line or line.endswith(".m3u8") or line.endswith(".mp4"):
-            # Her bir bölüm için basit bir obje oluşturuyoruz
-            episodes.append({
-                "id": episode_counter,
-                "title": f"Arkadaşım Hoşgeldin- {episode_counter}. Bölüm",
-                "url": line,
-                "type": "vod" # Uygulamanın bunun canlı değil video olduğunu anlaması için
-            })
-            episode_counter += 1
+        episodes.append({
+            "id": i,
+            "title": f"Arkadaşım Hoşgeldin - {i}. Bölüm",
+            "url": line,
+            "type": "vod",
+            "duration_sec": int(sure_saniye),       # Fake TV mantığı için ham saniye
+            "duration_text": sure_metin             # Ekranda göstermek için (örn: 45:12)
+        })
 
     if not episodes:
         print("❌ Hata: Liste boş!")
         return
 
-    # JSON Olarak Kaydet (Sadece Dizi Listesi)
+    # JSON Olarak Kaydet
     data_to_save = {
         "playlist_name": "Arkadaşım Hoşgeldin Tüm Bölümler",
         "total_count": len(episodes),
-        "streams": episodes # Tüm bölümler burada liste halindedir
+        "streams": episodes
     }
 
     os.makedirs("api", exist_ok=True)
