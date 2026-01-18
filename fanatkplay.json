@@ -12,6 +12,12 @@
       "logo": "",
       "group": "Fanatik PRİME",
       "url": "https://cdn.jsdelivr.net/gh/dizifun/Yeniapp@main/api%2FArkdasim_Hosgeldin_full.json"
+    },
+    {
+      "name": "Kırmızı Oda",
+      "logo": "",
+      "group": "Fanatik PRİME",
+      "url": "https://cdn.jsdelivr.net/gh/dizifun/Yeniapp@main/api%2FK%C4%B1rm%C4%B1z%C4%B1_Oda_full.json"
     }
   ]
 }
