@@ -13,7 +13,7 @@ API_KEYS = [
 ]
 
 JSON_FILE = 'filmler_tmdb.json' 
-LIMIT_PER_RUN = 50  # DİKKAT: Direkt indirme linki aldığımız için bu sayıyı DÜŞÜK tutmalısın!
+LIMIT_PER_RUN = 10000  # DİKKAT: Direkt indirme linki aldığımız için bu sayıyı DÜŞÜK tutmalısın!
 SLEEP_TIME = 2      # İndirme isteği hassastır, bekleme süresini artırdık.
 
 def get_headers(api_key):
