@@ -1,0 +1,33 @@
+name: Update Subtitles Direct
+
+on:
+  workflow_dispatch: # İstediğin zaman elle tetiklemek için
+  schedule:
+    - cron: '0 */6 * * *' # Günde 4 kez (6 saatte bir) otomatik çalışır
+
+jobs:
+  update-subs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Repoya yazma izni (commit için şart)
+
+    steps:
+    - name: Repoyu Çek
+      uses: actions/checkout@v3
+
+    - name: Python Kur
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Gerekli Kütüphaneyi Yükle
+      run: pip install requests
+
+    - name: Scripti Çalıştır
+      run: python update_subtitles.py
+
+    - name: Değişiklikleri Kaydet ve Gönder
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Bot: Altyazı linkleri güncellendi [Auto]"
+        file_pattern: 'filmler_tmdb.json'
