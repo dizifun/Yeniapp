@@ -3,19 +3,19 @@ name: Update Subtitles Direct
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *' # 6 saatte bir çalışır
 
 jobs:
   update-subs:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Yazma izni şart
 
     steps:
     - name: Repoyu Çek (Checkout)
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0 # Tüm geçmişi çek ki hata olmasın
+        fetch-depth: 0 # Tüm geçmişi çek (Hataları önler)
 
     - name: Python Kur
       uses: actions/setup-python@v4
@@ -25,20 +25,24 @@ jobs:
     - name: Gerekli Kütüphaneyi Yükle
       run: pip install requests
 
-    # --- YENİ EKLENEN KISIM BAŞLANGIÇ ---
-    - name: Git Ayarlarını Yap ve Güncelle (Çakışmayı Önle)
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git pull origin main --rebase || echo "Zaten güncel veya rebase gerekmedi"
-    # --- YENİ EKLENEN KISIM BİTİŞ ---
-
     - name: Scripti Çalıştır
       run: python update_subtitles.py
 
-    - name: Değişiklikleri Kaydet ve Gönder
-      uses: stefanzweifel/git-auto-commit-action@v5
-      with:
-        commit_message: "Bot: Altyazı linkleri güncellendi [Auto]"
-        file_pattern: 'filmler_tmdb.json'
-        branch: main
+    - name: Güvenli Kayıt ve Push (Manuel)
+      run: |
+        # 1. Kimlik Tanımla
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        # 2. Değişiklikleri Ekle
+        git add filmler_tmdb.json
+        
+        # 3. Değişiklik Yoksa Dur, Varsa Commit Yap
+        # Eğer dosya değişmediyse hata vermeden çıkması için "|| echo" ekledik
+        git commit -m "Bot: Altyazı listesi güncellendi" || echo "Değişiklik yok, işlem atlanıyor."
+        
+        # 4. KRİTİK NOKTA: Sunucudaki son değişiklikleri al ve birleştir (Rebase)
+        git pull origin main --rebase
+        
+        # 5. Son olarak gönder
+        git push origin main
