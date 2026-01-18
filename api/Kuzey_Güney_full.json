@@ -1,0 +1,646 @@
+{
+    "playlist_name": "Kuzey Güney Tüm Bölümler",
+    "total_count": 80,
+    "streams": [
+        {
+            "id": 1,
+            "title": "Kuzey Güney - 1. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/9ddd_1223/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6444,
+            "duration_text": "107:24"
+        },
+        {
+            "id": 2,
+            "title": "Kuzey Güney - 2. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/2458_449/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5983,
+            "duration_text": "99:43"
+        },
+        {
+            "id": 3,
+            "title": "Kuzey Güney - 3. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/b83e_258/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5616,
+            "duration_text": "93:36"
+        },
+        {
+            "id": 4,
+            "title": "Kuzey Güney - 4. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/f7e8_255/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6805,
+            "duration_text": "113:25"
+        },
+        {
+            "id": 5,
+            "title": "Kuzey Güney - 5. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/fae6_447/index.m3u8",
+            "type": "vod",
+            "duration_sec": 7275,
+            "duration_text": "121:15"
+        },
+        {
+            "id": 6,
+            "title": "Kuzey Güney - 6. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/d548_237/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6668,
+            "duration_text": "111:08"
+        },
+        {
+            "id": 7,
+            "title": "Kuzey Güney - 7. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/2f61_239/index.m3u8",
+            "type": "vod",
+            "duration_sec": 7491,
+            "duration_text": "124:51"
+        },
+        {
+            "id": 8,
+            "title": "Kuzey Güney - 8. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/7cd6_238/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6379,
+            "duration_text": "106:19"
+        },
+        {
+            "id": 9,
+            "title": "Kuzey Güney - 9. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/1465_234/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6456,
+            "duration_text": "107:36"
+        },
+        {
+            "id": 10,
+            "title": "Kuzey Güney - 10. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/b96a_695/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6659,
+            "duration_text": "110:59"
+        },
+        {
+            "id": 11,
+            "title": "Kuzey Güney - 11. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/4a80_681/index.m3u8",
+            "type": "vod",
+            "duration_sec": 7776,
+            "duration_text": "129:36"
+        },
+        {
+            "id": 12,
+            "title": "Kuzey Güney - 12. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/76ae_689/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6651,
+            "duration_text": "110:51"
+        },
+        {
+            "id": 13,
+            "title": "Kuzey Güney - 13. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/79ad_683/index.m3u8",
+            "type": "vod",
+            "duration_sec": 7388,
+            "duration_text": "123:08"
+        },
+        {
+            "id": 14,
+            "title": "Kuzey Güney - 14. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/9097_759/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6371,
+            "duration_text": "106:11"
+        },
+        {
+            "id": 15,
+            "title": "Kuzey Güney - 15. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/3cf0_701/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6959,
+            "duration_text": "115:59"
+        },
+        {
+            "id": 16,
+            "title": "Kuzey Güney - 16. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/4278_600/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6983,
+            "duration_text": "116:23"
+        },
+        {
+            "id": 17,
+            "title": "Kuzey Güney - 17. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/23ec_594/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6332,
+            "duration_text": "105:32"
+        },
+        {
+            "id": 18,
+            "title": "Kuzey Güney - 18. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/f9e8_221/index.m3u8",
+            "type": "vod",
+            "duration_sec": 1527,
+            "duration_text": "25:27"
+        },
+        {
+            "id": 19,
+            "title": "Kuzey Güney - 19. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/71c5_601/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6789,
+            "duration_text": "113:09"
+        },
+        {
+            "id": 20,
+            "title": "Kuzey Güney - 20. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/fc79_581/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6761,
+            "duration_text": "112:41"
+        },
+        {
+            "id": 21,
+            "title": "Kuzey Güney - 21. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/7b0d_580/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6758,
+            "duration_text": "112:38"
+        },
+        {
+            "id": 22,
+            "title": "Kuzey Güney - 22. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/1c23_254/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6792,
+            "duration_text": "113:12"
+        },
+        {
+            "id": 23,
+            "title": "Kuzey Güney - 23. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/cde3_253/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5968,
+            "duration_text": "99:28"
+        },
+        {
+            "id": 24,
+            "title": "Kuzey Güney - 24. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/a816_251/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6020,
+            "duration_text": "100:20"
+        },
+        {
+            "id": 25,
+            "title": "Kuzey Güney - 25. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/df9e_583/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6629,
+            "duration_text": "110:29"
+        },
+        {
+            "id": 26,
+            "title": "Kuzey Güney - 26. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/1807_579/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6336,
+            "duration_text": "105:36"
+        },
+        {
+            "id": 27,
+            "title": "Kuzey Güney - 27. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/c5c0_578/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6007,
+            "duration_text": "100:07"
+        },
+        {
+            "id": 28,
+            "title": "Kuzey Güney - 28. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/0d3a_472/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5874,
+            "duration_text": "97:54"
+        },
+        {
+            "id": 29,
+            "title": "Kuzey Güney - 29. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/f74e_437/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5779,
+            "duration_text": "96:19"
+        },
+        {
+            "id": 30,
+            "title": "Kuzey Güney - 30. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/48d2_573/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5772,
+            "duration_text": "96:12"
+        },
+        {
+            "id": 31,
+            "title": "Kuzey Güney - 31. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/56e7_574/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5982,
+            "duration_text": "99:42"
+        },
+        {
+            "id": 32,
+            "title": "Kuzey Güney - 32. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/3b04_444/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6023,
+            "duration_text": "100:23"
+        },
+        {
+            "id": 33,
+            "title": "Kuzey Güney - 33. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/8465_248/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6052,
+            "duration_text": "100:52"
+        },
+        {
+            "id": 34,
+            "title": "Kuzey Güney - 34. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/72bd_240/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6300,
+            "duration_text": "105:00"
+        },
+        {
+            "id": 35,
+            "title": "Kuzey Güney - 35. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/fe0c_241/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6181,
+            "duration_text": "103:01"
+        },
+        {
+            "id": 36,
+            "title": "Kuzey Güney - 36. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/a574_479/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6776,
+            "duration_text": "112:56"
+        },
+        {
+            "id": 37,
+            "title": "Kuzey Güney - 37. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/388a_235/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5832,
+            "duration_text": "97:12"
+        },
+        {
+            "id": 38,
+            "title": "Kuzey Güney - 38. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/fc3e_236/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6437,
+            "duration_text": "107:17"
+        },
+        {
+            "id": 39,
+            "title": "Kuzey Güney - 39. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/8f05_207/index.m3u8",
+            "type": "vod",
+            "duration_sec": 7108,
+            "duration_text": "118:28"
+        },
+        {
+            "id": 40,
+            "title": "Kuzey Güney - 40. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/99fa_427/index.m3u8",
+            "type": "vod",
+            "duration_sec": 7786,
+            "duration_text": "129:46"
+        },
+        {
+            "id": 41,
+            "title": "Kuzey Güney - 41. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/293b_199/index.m3u8",
+            "type": "vod",
+            "duration_sec": 7201,
+            "duration_text": "120:01"
+        },
+        {
+            "id": 42,
+            "title": "Kuzey Güney - 42. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/07ae_200/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5559,
+            "duration_text": "92:39"
+        },
+        {
+            "id": 43,
+            "title": "Kuzey Güney - 43. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/ff0a_419/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6037,
+            "duration_text": "100:37"
+        },
+        {
+            "id": 44,
+            "title": "Kuzey Güney - 44. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/2c1c_202/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5656,
+            "duration_text": "94:16"
+        },
+        {
+            "id": 45,
+            "title": "Kuzey Güney - 45. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/afff_140/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5826,
+            "duration_text": "97:06"
+        },
+        {
+            "id": 46,
+            "title": "Kuzey Güney - 46. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/04c2_593/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6180,
+            "duration_text": "103:00"
+        },
+        {
+            "id": 47,
+            "title": "Kuzey Güney - 47. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/2d29_141/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6803,
+            "duration_text": "113:23"
+        },
+        {
+            "id": 48,
+            "title": "Kuzey Güney - 48. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/f305_138/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5824,
+            "duration_text": "97:04"
+        },
+        {
+            "id": 49,
+            "title": "Kuzey Güney - 49. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/76f5_120/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6179,
+            "duration_text": "102:59"
+        },
+        {
+            "id": 50,
+            "title": "Kuzey Güney - 50. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/daf1_105/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5989,
+            "duration_text": "99:49"
+        },
+        {
+            "id": 51,
+            "title": "Kuzey Güney - 51. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/622e_470/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6228,
+            "duration_text": "103:48"
+        },
+        {
+            "id": 52,
+            "title": "Kuzey Güney - 52. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/24f6_468/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5573,
+            "duration_text": "92:53"
+        },
+        {
+            "id": 53,
+            "title": "Kuzey Güney - 53. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/d8fb_927/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5930,
+            "duration_text": "98:50"
+        },
+        {
+            "id": 54,
+            "title": "Kuzey Güney - 54. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/dc2b_1224/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5604,
+            "duration_text": "93:24"
+        },
+        {
+            "id": 55,
+            "title": "Kuzey Güney - 55. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/6ab1_1815/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5728,
+            "duration_text": "95:28"
+        },
+        {
+            "id": 56,
+            "title": "Kuzey Güney - 56. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/713d_1599/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6318,
+            "duration_text": "105:18"
+        },
+        {
+            "id": 57,
+            "title": "Kuzey Güney - 57. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/e06f_2134/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6837,
+            "duration_text": "113:57"
+        },
+        {
+            "id": 58,
+            "title": "Kuzey Güney - 58. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/c238_2551/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5655,
+            "duration_text": "94:15"
+        },
+        {
+            "id": 59,
+            "title": "Kuzey Güney - 59. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/66c0_2915/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5896,
+            "duration_text": "98:16"
+        },
+        {
+            "id": 60,
+            "title": "Kuzey Güney - 60. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S1/HLS_VOD/218d_3142/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6019,
+            "duration_text": "100:19"
+        },
+        {
+            "id": 61,
+            "title": "Kuzey Güney - 61. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/ed6f_3719/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5956,
+            "duration_text": "99:16"
+        },
+        {
+            "id": 62,
+            "title": "Kuzey Güney - 62. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/3972_6037/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5609,
+            "duration_text": "93:29"
+        },
+        {
+            "id": 63,
+            "title": "Kuzey Güney - 63. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/4231_8d96/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5705,
+            "duration_text": "95:05"
+        },
+        {
+            "id": 64,
+            "title": "Kuzey Güney - 64. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/4632_eeae/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5682,
+            "duration_text": "94:42"
+        },
+        {
+            "id": 65,
+            "title": "Kuzey Güney - 65. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/4978_bad8/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5695,
+            "duration_text": "94:55"
+        },
+        {
+            "id": 66,
+            "title": "Kuzey Güney - 66. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/5353_bd9c/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5699,
+            "duration_text": "94:59"
+        },
+        {
+            "id": 67,
+            "title": "Kuzey Güney - 67. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/5834_f2e4/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5691,
+            "duration_text": "94:51"
+        },
+        {
+            "id": 68,
+            "title": "Kuzey Güney - 68. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/6050_c604/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5594,
+            "duration_text": "93:14"
+        },
+        {
+            "id": 69,
+            "title": "Kuzey Güney - 69. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/6298_ddd2/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5649,
+            "duration_text": "94:09"
+        },
+        {
+            "id": 70,
+            "title": "Kuzey Güney - 70. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/6501_a56d/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5733,
+            "duration_text": "95:33"
+        },
+        {
+            "id": 71,
+            "title": "Kuzey Güney - 71. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/6767_0e0e/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5610,
+            "duration_text": "93:30"
+        },
+        {
+            "id": 72,
+            "title": "Kuzey Güney - 72. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/7002_a09b/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5688,
+            "duration_text": "94:48"
+        },
+        {
+            "id": 73,
+            "title": "Kuzey Güney - 73. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/7380_9a32/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5611,
+            "duration_text": "93:31"
+        },
+        {
+            "id": 74,
+            "title": "Kuzey Güney - 74. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/8048_8e73/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5479,
+            "duration_text": "91:19"
+        },
+        {
+            "id": 75,
+            "title": "Kuzey Güney - 75. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/8339_5c03/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5495,
+            "duration_text": "91:35"
+        },
+        {
+            "id": 76,
+            "title": "Kuzey Güney - 76. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/8751_3865/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5249,
+            "duration_text": "87:29"
+        },
+        {
+            "id": 77,
+            "title": "Kuzey Güney - 77. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/9170_e5e4/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5425,
+            "duration_text": "90:25"
+        },
+        {
+            "id": 78,
+            "title": "Kuzey Güney - 78. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/9714_17bb/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5304,
+            "duration_text": "88:24"
+        },
+        {
+            "id": 79,
+            "title": "Kuzey Güney - 79. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/10360_98d8/index.m3u8",
+            "type": "vod",
+            "duration_sec": 5448,
+            "duration_text": "90:48"
+        },
+        {
+            "id": 80,
+            "title": "Kuzey Güney - 80. Bölüm",
+            "url": "https://kanaldvod.duhnet.tv/S2/HLS_VOD/10806_9da2/index.m3u8",
+            "type": "vod",
+            "duration_sec": 6098,
+            "duration_text": "101:38"
+        }
+    ]
+}
