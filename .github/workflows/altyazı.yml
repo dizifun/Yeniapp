@@ -1,19 +1,21 @@
 name: Update Subtitles Direct
 
 on:
-  workflow_dispatch: # İstediğin zaman elle tetiklemek için
+  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # Günde 4 kez (6 saatte bir) otomatik çalışır
+    - cron: '0 */6 * * *'
 
 jobs:
   update-subs:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Repoya yazma izni (commit için şart)
+      contents: write
 
     steps:
-    - name: Repoyu Çek
+    - name: Repoyu Çek (Checkout)
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Tüm geçmişi çek ki hata olmasın
 
     - name: Python Kur
       uses: actions/setup-python@v4
@@ -23,6 +25,14 @@ jobs:
     - name: Gerekli Kütüphaneyi Yükle
       run: pip install requests
 
+    # --- YENİ EKLENEN KISIM BAŞLANGIÇ ---
+    - name: Git Ayarlarını Yap ve Güncelle (Çakışmayı Önle)
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git pull origin main --rebase || echo "Zaten güncel veya rebase gerekmedi"
+    # --- YENİ EKLENEN KISIM BİTİŞ ---
+
     - name: Scripti Çalıştır
       run: python update_subtitles.py
 
@@ -31,3 +41,4 @@ jobs:
       with:
         commit_message: "Bot: Altyazı linkleri güncellendi [Auto]"
         file_pattern: 'filmler_tmdb.json'
+        branch: main
