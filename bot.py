@@ -4,8 +4,8 @@ import os
 import subprocess
 
 # --- AYARLAR ---
-M3U_URL = "https://raw.githubusercontent.com/UzunMuhalefet/Legal-IPTV/main/lists%2Fvideo%2Fsources%2Fwww-kanald-com-tr%2Farsiv-diziler%2Fkuzey-guney.m3u"
-OUTPUT_FILE = "api/Kuzey_Güney_full.json"
+M3U_URL = "https://raw.githubusercontent.com/UzunMuhalefet/Legal-IPTV/main/lists%2Fvideo%2Fsources%2Fwww-tv8-com-tr%2Fall%2Fkirmizi-oda.m3u"
+OUTPUT_FILE = "api/Kırmızı_Oda_full.json"
 GITHUB_USER = "dizifun"
 GITHUB_REPO = "Yeniapp"
 
@@ -76,7 +76,7 @@ def create_playlist_json():
 
         episodes.append({
             "id": i,
-            "title": f"Kuzey Güney - {i}. Bölüm",
+            "title": f"Kırmızı Oda - {i}. Bölüm",
             "url": line,
             "type": "vod",
             "duration_sec": int(sure_saniye),
@@ -88,7 +88,7 @@ def create_playlist_json():
         return
 
     data_to_save = {
-        "playlist_name": "Kuzey Güney Tüm Bölümler",
+        "playlist_name": "Kırmızı Oda Tüm Bölümler",
         "total_count": len(episodes),
         "streams": episodes
     }
