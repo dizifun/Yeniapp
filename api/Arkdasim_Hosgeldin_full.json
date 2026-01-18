@@ -4,237 +4,315 @@
     "streams": [
         {
             "id": 1,
-            "title": "Arkadaşım Hoşgeldin- 1. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 1. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/65246_e31b/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 2,
-            "title": "Arkadaşım Hoşgeldin- 2. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 2. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/64651_edbf/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 3,
-            "title": "Arkadaşım Hoşgeldin- 3. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 3. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/64085_fb0f/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 4,
-            "title": "Arkadaşım Hoşgeldin- 4. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 4. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/62974_d3b5/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 5,
-            "title": "Arkadaşım Hoşgeldin- 5. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 5. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/62589_629e/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 6,
-            "title": "Arkadaşım Hoşgeldin- 6. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 6. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/61915_9672/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 7,
-            "title": "Arkadaşım Hoşgeldin- 7. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 7. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/61435_2aae/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 8,
-            "title": "Arkadaşım Hoşgeldin- 8. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 8. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/60807_5d03/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 9,
-            "title": "Arkadaşım Hoşgeldin- 9. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 9. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/60335_3a89/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 10,
-            "title": "Arkadaşım Hoşgeldin- 10. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 10. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/59617_bfb1/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 11,
-            "title": "Arkadaşım Hoşgeldin- 11. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 11. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/59202_1fe2/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 12,
-            "title": "Arkadaşım Hoşgeldin- 12. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 12. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/58565_13ac/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 13,
-            "title": "Arkadaşım Hoşgeldin- 13. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 13. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/58056_b199/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 14,
-            "title": "Arkadaşım Hoşgeldin- 14. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 14. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/57441_dc96/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 15,
-            "title": "Arkadaşım Hoşgeldin- 15. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 15. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/56757_0997/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 16,
-            "title": "Arkadaşım Hoşgeldin- 16. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 16. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S8/HLS_VOD/56073_b573/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 17,
-            "title": "Arkadaşım Hoşgeldin- 17. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 17. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/46738_96b9/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 18,
-            "title": "Arkadaşım Hoşgeldin- 18. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 18. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/46171_67c3/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 19,
-            "title": "Arkadaşım Hoşgeldin- 19. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 19. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/45552_cc88/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 20,
-            "title": "Arkadaşım Hoşgeldin- 20. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 20. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/44775_1f79/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 21,
-            "title": "Arkadaşım Hoşgeldin- 21. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 21. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/43500_c00d/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 22,
-            "title": "Arkadaşım Hoşgeldin- 22. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 22. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/42658_f37f/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 23,
-            "title": "Arkadaşım Hoşgeldin- 23. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 23. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/42035_2f02/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 24,
-            "title": "Arkadaşım Hoşgeldin- 24. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 24. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/41275_857f/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 25,
-            "title": "Arkadaşım Hoşgeldin- 25. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 25. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/40468_ff95/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 26,
-            "title": "Arkadaşım Hoşgeldin- 26. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 26. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/39661_7343/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 27,
-            "title": "Arkadaşım Hoşgeldin- 27. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 27. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/38890_1451/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 28,
-            "title": "Arkadaşım Hoşgeldin- 28. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 28. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/38059_1f8b/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 29,
-            "title": "Arkadaşım Hoşgeldin- 29. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 29. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/37134_e9d6/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 30,
-            "title": "Arkadaşım Hoşgeldin- 30. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 30. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/36294_bf18/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 31,
-            "title": "Arkadaşım Hoşgeldin- 31. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 31. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/35340_ad2e/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 32,
-            "title": "Arkadaşım Hoşgeldin- 32. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 32. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S7/HLS_VOD/34549_57d2/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 33,
-            "title": "Arkadaşım Hoşgeldin- 33. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 33. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S5/HLS_VOD/33476_b7e5/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 34,
-            "title": "Arkadaşım Hoşgeldin- 34. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 34. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S5/HLS_VOD/32496_eea9/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 35,
-            "title": "Arkadaşım Hoşgeldin- 35. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 35. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S5/HLS_VOD/31608_b99a/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 36,
-            "title": "Arkadaşım Hoşgeldin- 36. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 36. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S5/HLS_VOD/30773_5534/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 37,
-            "title": "Arkadaşım Hoşgeldin- 37. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 37. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S5/HLS_VOD/29980_ee72/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 38,
-            "title": "Arkadaşım Hoşgeldin- 38. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 38. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S3/HLS_VOD/28911_a1c8/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         },
         {
             "id": 39,
-            "title": "Arkadaşım Hoşgeldin- 39. Bölüm",
+            "title": "Arkadaşım Hoşgeldin - 39. Bölüm",
             "url": "https://kanaldvod.duhnet.tv/S3/HLS_VOD/27559_f3ca/index.m3u8",
-            "type": "vod"
+            "type": "vod",
+            "duration_sec": 0,
+            "duration_text": "0:00"
         }
     ]
 }
