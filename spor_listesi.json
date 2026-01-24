@@ -277,7 +277,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/46319886-6c97-4640-8d63-8e4b11511c74.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtspor_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtspor_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -291,7 +291,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bc458b63-fe9e-40c2-b8a3-d56dc7189e0a.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -301,7 +301,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aspor_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aspor_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -311,7 +311,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -321,7 +321,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -331,7 +331,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/213d42ff-51ba-4591-ae43-a35779496d93.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/htsporhd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/htsporhd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -353,7 +353,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/eb8b4876-a698-41b8-b937-518abbba69fd.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tracesport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tracesport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -363,7 +363,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/fightscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/fightscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -373,7 +373,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekolsports_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekolsports_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -383,7 +383,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtsporyildiz_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtsporyildiz_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -393,7 +393,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sportstv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sportstv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -411,7 +411,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/06bc7085-065e-473e-b4aa-ec56ed3455f5.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/fbtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/fbtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -1515,216 +1515,6 @@
       ]
     },
     {
-      "name": "ARAGUAINA vs GURUPI",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36413671.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "PALMEIRAS vs SÃO PAULO",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36413799.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "MONTE RORAIMA vs BARE EC",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36413803.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "HALCONES vs CIERVOS",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36413861.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DIABLOS ROJOS vs VILLA LETELIER",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36413877.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DRAGONES TOLUCA vs CLUB CELAYA",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36413895.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "CORDOBES vs CORRECAMINOS II",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36413909.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SÃO JOSÉ EC vs MONTE AZUL",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36413991.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SANDY POINT vs ST. PETERS FC",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36413993.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "BARRANQUILLA FC vs ORSOMARSO",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36413995.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "QUERETARO U19 vs PUEBLA U19",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414075.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "BANDEIRANTE vs PORTUGUESA SANTISTA",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414091.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ANAPOLINA vs GOIAS",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414169.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "CHAPADA FC vs CUIABA",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36414171.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "VITORIA ES vs DESPORTIVA FERROVIARIA",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414185.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "CIBAO vs SALCEDO FC",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414189.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DEPORTIVA VENADOS vs RACING DE VERACRUZ",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36414203.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ARTESANOS METEPEC vs ACAMBARO",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414209.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SANTA ANA DEL CONDE vs REAL OLMECA SPORT",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36414219.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "POTOSINOS vs FUT CAR",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414241.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "URT vs ITABIRITO",
-      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414267.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
       "name": "GIMNASIA LA PLATA vs RACING CLUB",
       "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
@@ -1855,7 +1645,7 @@
       ]
     },
     {
-      "name": "AD VASKO DA GAMA vs ADESG",
+      "name": "VASCO DE GAMA vs ADESG",
       "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
@@ -1865,51 +1655,21 @@
       ]
     },
     {
-      "name": "BARCELOS vs SANJOANENSE",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "name": "O'HIGGINS vs DEPORTES MAGALLANES",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
-          "url": "https://e4-22.n4154.xyz/36413531.m3u8",
+          "url": "https://e2-22.n4154.xyz/36414889.m3u8",
           "label": "Kaynak 1"
         }
       ]
     },
     {
-      "name": "CLUBE DOS GALITOS vs QUINTA DOS LOMBOS",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "name": "HERNAN ESPINOZA vs UNION SERGIO MAY",
+      "logo": "https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg",
       "sources": [
         {
-          "url": "https://e3-22.n4154.xyz/36413539.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "FLORIDA vs AUBURN )",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36413679.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SMU vs FLORIDA STATE )",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36413681.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "UNLV vs SAN DIEGO STATE )",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36413683.m3u8",
+          "url": "https://e4-22.n4154.xyz/36414899.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -1920,16 +1680,6 @@
       "sources": [
         {
           "url": "https://e3-22.n4154.xyz/36413801.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "RICE vs TULSA )",
-      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36413961.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -2145,7 +1895,7 @@
       ]
     },
     {
-      "name": "BAYLOR BEARS vs TCU HORNED FROGS )",
+      "name": "BAYLOR vs TCU )",
       "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
       "sources": [
         {
@@ -2155,11 +1905,31 @@
       ]
     },
     {
-      "name": "NOTRE DAME FIGHTING IRISH vs BOSTON COLLEGE )",
+      "name": "NOTRE DAME vs BOSTON COLLEGE )",
       "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
       "sources": [
         {
           "url": "https://e2-22.n4154.xyz/36414837.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "INSTITUTO DE CORDOBA vs GORRIONES",
+      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36414957.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ORL MAGIC vs CLE CAVALIERS",
+      "logo": "https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36414973.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -7979,7 +7749,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -7989,7 +7759,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -7999,7 +7769,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8009,7 +7779,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8019,7 +7789,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8029,7 +7799,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4145ea10-96ad-400d-8870-f22a075f4add.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8039,7 +7809,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8049,7 +7819,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8059,7 +7829,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8071,7 +7841,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8093,7 +7863,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8115,7 +7885,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/showtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/showtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8129,7 +7899,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8143,7 +7913,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8153,7 +7923,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanal7_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanal7_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8167,7 +7937,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/000ce792-db90-411c-a22a-cd53f1f45369.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8177,7 +7947,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8187,7 +7957,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a92329d7-3d4c-4631-ab3e-c7d36a3f1a6f.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/beyaztv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/beyaztv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8201,7 +7971,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/a2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/a2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8219,7 +7989,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/efee6394-24c4-4c07-80f3-f2af18a6ff31.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/teve2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/teve2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8229,7 +7999,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/36157058-80ce-4724-a7ff-28bbad7df301.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/360tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/360tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8239,7 +8009,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8249,7 +8019,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dmax_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dmax_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8259,7 +8029,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6a265ee4-81f8-4a57-80ba-41ddb0663aaf.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kontv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kontv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8269,7 +8039,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv100_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv100_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8283,7 +8053,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnbce_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8293,7 +8063,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ulusalkanal_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8303,7 +8073,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/gzttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/gzttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8313,7 +8083,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fc190867-720b-4e57-b561-993d0a02bcae.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanalb_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kanalb_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8323,7 +8093,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bd1c765c-df9f-4d23-8af2-ef84796fbe64.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/genctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/genctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8333,7 +8103,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4b16c0b2-6b04-452f-8342-7f082e803854.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/vavtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/vavtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8343,7 +8113,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6c2e739-0336-4e34-9f27-38e181522363.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tytturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tytturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8357,7 +8127,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/3d8f616d-a421-4fcd-a13a-1a29e3bbd88c.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tmb_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tmb_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8367,7 +8137,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8377,7 +8147,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6edd1622-84fd-4ebf-a50b-7e95787ee427.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/benguturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/benguturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8387,7 +8157,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/14a65b49-958f-497f-be22-52d958ef8498.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8397,7 +8167,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8407,7 +8177,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/00a59236-8875-4555-a97c-94b7633e14fa.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtgenc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtgenc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8417,7 +8187,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/0acb34e5-4b37-434e-b555-c7eb0271ba9d.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8431,7 +8201,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4a3026d6-b1be-4373-bb83-447117196e55.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtavaz_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtavaz_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8445,7 +8215,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aac80fcc-d1e7-41da-85b6-3037cc3f1a4b.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt3spor-tbmmtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trt3spor-tbmmtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8455,7 +8225,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1d937ced-d803-47eb-aa0c-90586e4e162e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtkurdi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtkurdi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8465,7 +8235,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/229e051d-6090-4235-a2ef-9420a17e6f9d.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekoltv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekoltv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8475,7 +8245,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1a0988d9-5d11-4b35-8d5e-bae0ca492b38.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv42_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv42_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8485,7 +8255,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/043eff4d-bde2-493c-9c7d-c07a698bb0be.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv5_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv5_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8495,7 +8265,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9fac001-ce36-4712-9eaa-786ec2465171.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/diyanet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/diyanet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8505,7 +8275,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8322c403-9f7c-4b5a-aef1-7c65e56ee8a6.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lalegul_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lalegul_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8687,7 +8457,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ec93858b-ea91-4e9d-b510-bc3187e5ade9.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/mezzohd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/mezzohd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8697,7 +8467,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8abc330-f38a-4a81-b555-c5fef692f63e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/classical_harmony_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/classical_harmony_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8707,7 +8477,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kitchentv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/kitchentv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8717,7 +8487,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d8dfa223-6fd9-4780-9b5a-3e3fe87454ad.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/myzen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/myzen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8729,7 +8499,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8c07dd0b-0100-4a56-9a8c-9f810a184bd4.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trthaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trthaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8743,7 +8513,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7f90b121-1f7f-4dc7-980f-38167b147cdb.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ahaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ahaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8757,7 +8527,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/344f452e-fa44-4f00-8005-1b8898186888.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ntv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ntv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8771,7 +8541,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3686a1f5-9c4d-401f-9c7b-031ca66454a0.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8785,7 +8555,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/216cade3-b4a7-4c8b-8d62-aab7a3431a89.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/24tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/24tv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8795,7 +8565,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a5773592-d40c-4d84-a64a-21c422cc7eb3.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tgrthaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tgrthaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8809,7 +8579,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/516aa59e-70a2-4be3-9077-02862a052fde.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/haberturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/haberturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8819,7 +8589,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5795a2e7-9d78-4cc5-b83e-b6dcf36256fd.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/bloomberg_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/bloomberg_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8829,7 +8599,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/5a733c68-7739-4466-851d-573cfd125990.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ulketv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ulketv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8843,7 +8613,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b6abbbf7-0822-448d-a942-7af6d079d997.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tvnet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tvnet_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8857,7 +8627,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/akittv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/akittv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8867,7 +8637,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/brt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/brt1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8877,7 +8647,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ecb65a51-f5ad-440f-9c21-a4db8cbc9398.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/haberglobalhd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/haberglobalhd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8891,7 +8661,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8901,7 +8671,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c9acd31e-5cc0-4b5d-bdef-7c9f8b577c42.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/halktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/halktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -8915,7 +8685,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4b99d5a-c302-4524-aad7-e490def3bf0d.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/thturkhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8925,7 +8695,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2fdd6eb0-bd9e-44ef-ad0e-7f2c4cf3a8a7.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8935,7 +8705,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/cf2bdbf5-2686-4437-9e8b-33d80385645c.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/apara_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/apara_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8945,7 +8715,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c5d7d21d-7fc2-4429-8331-bb7bdb20172a.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekoturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ekoturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8955,7 +8725,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d9a6815-d9a4-425d-abf3-1ce4ea1e1044.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/liderhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/liderhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8965,7 +8735,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/50921da2-0f81-40cf-971b-1b3db26245d7.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tele1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tele1_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8975,7 +8745,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c6b3e55-2898-47ce-9a1b-42695e31c61c.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/astv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/astv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8985,7 +8755,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/45cbd99f-5e77-4c59-b8a2-3e0aa66d1c3f.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/flashhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/flashhaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -8995,7 +8765,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/acd68840-492b-43c5-9635-bbaf32148e2a.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9005,7 +8775,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/39782c5a-711e-4f31-8ae0-590303ff65c4.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/anews_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/anews_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9015,7 +8785,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a5693ef9-7290-41c9-ad65-7c23b94ddf97.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnint_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cnnint_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9025,7 +8795,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/953f9cf4-15ab-447b-b08d-1349f65cbbcf.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/bloombergtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/bloombergtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9035,11 +8805,11 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a73baff0-a3f5-434c-acc2-a00b5b625adf.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aljazeeraarabic_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aljazeeraarabic_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aljazeeraint_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aljazeeraint_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Alternatif 2"
         }
       ]
@@ -9049,7 +8819,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1857f0c2-3a80-4b95-bb35-ffcefdcf4729.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtarabi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtarabi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9059,7 +8829,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b2d761b5-1822-4531-8f00-51bb232f8afa.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dwtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dwtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9069,11 +8839,11 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7b3fce6-7662-470b-9224-fd930e29a7f7.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/france24en_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/france24en_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/france24fr_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/france24fr_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Alternatif 2"
         }
       ]
@@ -9083,7 +8853,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/dd7a57ef-0e92-470d-9a86-3c6169a10afe.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtn_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtn_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9093,7 +8863,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/926b063a-44e4-4300-89b8-3e04111da93e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/russia24_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/russia24_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9103,7 +8873,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/cc25bb9c-1b0e-4a19-a77a-182dc73a0935.png",
       "sources": [
         {
-          "url": "https://cdn07.kablowebtv.net/live_turksat_sub3/kbstv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://cdn07.kablowebtv.net/live_turksat_sub3/kbstv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9113,7 +8883,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7c31e29a-c073-4d9b-a73d-acab75a35d6e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/nhkworld_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/nhkworld_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9305,7 +9075,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6925f7f0-2d64-4a15-99ec-e4a19c117279.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtbelgesel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtbelgesel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9323,7 +9093,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeo_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeo_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9337,7 +9107,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeowild_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeowild_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9347,7 +9117,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9365,7 +9135,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9379,7 +9149,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub2/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub2/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9401,7 +9171,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9419,7 +9189,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7194b74e-4b67-4ec6-83ef-09af3669a515.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/docuscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/docuscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9429,7 +9199,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d39dd182-c195-4025-976d-10af0b08335e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9443,7 +9213,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/08bd982f-08e2-4e05-8f80-892a74c4d143.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         },
         {
@@ -9681,7 +9451,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/29fb144d-ad0e-4402-9afb-0b1a9dfc98a3.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aztv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/aztv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9691,7 +9461,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a5f1e18e-e3cb-4288-a603-60fa4fc3f10d.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/turkmenelitv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/turkmenelitv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9701,7 +9471,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8571202-da92-4afb-8de9-96c0577c0851.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv5mondeeurope_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tv5mondeeurope_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9711,7 +9481,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1d027e6f-4d0f-4f07-992e-821f2d551e9e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cctv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cctv4_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9721,7 +9491,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/bfe7a0d7-cd08-4a5c-850a-8dd2b6dbbac4.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sauditv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sauditv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9731,7 +9501,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/29cdb09a-4f83-4fad-9e0c-bf8c537951a8.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/birtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/birtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9741,7 +9511,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3e32e0db-b536-4ba1-90d1-f7aaae33204f.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/hayat2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/hayat2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9751,7 +9521,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b02e4513-7e5a-4fda-bb41-d155735580d5.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/rtrplaneta_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/rtrplaneta_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9761,7 +9531,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6efa2f13-269b-41a3-8378-afb073963ac5.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/arirang_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/arirang_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9771,7 +9541,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/b079e32b-9991-4724-9cf9-5f40231b3adf.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/freedom_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/freedom_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9781,7 +9551,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/655c2fee-0b87-48df-b41e-cb5c742807ad.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/alquran_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/alquran_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9791,7 +9561,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/00701177-8898-4f68-a08e-5f45e0e12df3.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/alsunnah_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/alsunnah_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9803,7 +9573,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9813,7 +9583,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/minikacocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/minikacocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9823,7 +9593,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7dfb3c14-3837-4c82-9c30-88edefebe4bd.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/minikago_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/minikago_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9833,7 +9603,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7e733bf8-6c0e-4d6e-b18a-5864e571894b.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtdiyanetcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtdiyanetcocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9843,7 +9613,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1e92ccd2-d2f4-48e5-a886-164389511271.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9853,7 +9623,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1cc6ebf5-4e01-407d-8a88-94dcdf2d5ddd.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/azoomee_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/azoomee_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9863,7 +9633,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2442b7b7-04da-41c1-a7ca-03466853040e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/babytv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/babytv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9873,7 +9643,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/51d3a383-2842-4a4c-b622-20f09b309973.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/disneyjunior_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/disneyjunior_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9883,7 +9653,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4c47b639-2916-4563-9e40-0f2a7925b2ea.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cartoonnetwork_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/cartoonnetwork_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9893,7 +9663,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3b9d40e7-327e-4d51-977b-e46286eda12f.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/moonbugkids_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/moonbugkids_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9903,7 +9673,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8107e33-52b1-4ba0-a7d4-bb877d5658c4.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ducktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/ducktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9913,7 +9683,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/31a93dde-3b2e-4be7-b684-43ee9c2a5442.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/englishclub_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/englishclub_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9923,7 +9693,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f2ed966d-693e-40b4-a737-740817d4eb2f.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/davinci_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/davinci_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9933,7 +9703,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/97f5f9c6-70e1-4326-a046-43d6fdd0d81c.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9943,7 +9713,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a29ccf28-73b8-48ef-a055-ddb1820c9d57.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lingotoons_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/lingotoons_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9953,7 +9723,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1b0a8967-61ef-4066-a422-2e4eccd18ec5.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9963,7 +9733,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/47fcca43-c2ac-4ab8-ae92-2b007655be9f.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trteba_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trteba_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9975,7 +9745,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/81ac5eb4-6201-47ce-977e-736a4247da91.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtmuzik_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/trtmuzik_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9985,7 +9755,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/63d6800d-1ecb-40b6-bc2b-01a225f0d3ec.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dreamturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/dreamturk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -9995,7 +9765,7 @@
       "logo": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/39b773d6-719e-440b-b97c-3b8eaed0153e.png",
       "sources": [
         {
-          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/traceurban_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDEwOjU0OjMyIFBNJmhhc2hfdmFsdWU9M0QyRkd6cy9zQ3hnQk5WVndYK2pPUT09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
+          "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/traceurban_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI2IDExOjIzOjUzIFBNJmhhc2hfdmFsdWU9Nm1MdU83eTZBWEZKWEZxd0xqTTY2dz09JnZhbGlkbWludXRlcz0yODgwJmlkPTA5M2Q3MjBhLTUwMmMtNDFlZC1hODBmLTJiODE2OTg0ZmI5NSxlYjg3NzQ0Yy05ODQyLTQ1MDctOWIwYS00NDdkZmI4NjYyYWQsYTA5MDg3ODQtZDEyOC00NjFmLWI3NmItYTU3ZGViMWI4MGNjLDBmYTAzNTlkLWExOWItNDFiMi05ZTczLTI5ZWNiNjk2OTY0MCwwLDo6ZmZmZjoxMC4wLjAuMg==",
           "label": "Kaynak 1"
         }
       ]
@@ -18561,16 +18331,6 @@
       ]
     },
     {
-      "name": "BLACK ANGELS vs FIRST FLYERS",
-      "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36414561.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
       "name": "CHA CHECKERS vs WBS PENGUINS",
       "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
       "sources": [
@@ -18601,167 +18361,27 @@
       ]
     },
     {
-      "name": "SHERIFF vs GLADIATORS",
+      "name": "CITY DEVILS vs BLACK ANGELS",
       "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
       "sources": [
         {
-          "url": "https://e4-22.n4154.xyz/36414749.m3u8",
+          "url": "https://e4-22.n4154.xyz/36414921.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "RUSSIA MNHL vs",
+      "logo": "https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36415005.m3u8",
           "label": "Kaynak 1"
         }
       ]
     }
   ],
   " Masa Teni̇si̇": [
-    {
-      "name": "RUSLAN ROMANOVSKY vs ARTYOM STRELCHENOK",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414525.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "NIKOLAE TOMA vs DANIELY BELIBOV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36414539.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DANIEL LOPERA SANTA vs DIEGO BARO LOSILLA",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414581.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "MATIAS HERNANDEZ vs EZEQUIEL ARAKAKI",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414583.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "JAKUB OKUROWSKI vs DAWID STOLARSKI",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414597.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "JAROSLAW BURDYNSKI vs MICHAL KRUCZEK",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414599.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ALEXEY PAVLOV vs ALEXANDER RUBTSOV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414653.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "MAKSIM TURKANU vs ALEKSANDR KOSOGOLOV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414665.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ALEKSANDR MELASHENKO vs YAN KROLY",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414685.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ANASTASIA SAMOILUK vs VICTORIA BREDIKHINA",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414691.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ALEKSEY RADIONOV vs ILYA SHUT",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36414693.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ADAM POLECH vs KAROL WISNIEWSKI",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414699.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "ALEKSANDR LEBEDENKO vs ALEXANDER KULAGIN",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414757.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "NIKITA MOSKOVKIN vs MAKSIM KOVRIZHNIKOV",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414765.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "NIKOLAE TOMA vs MAKSIM UNGURYAN",
-      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36414795.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
     {
       "name": "ALEXANDER BROOK vs DMITRY STEPANOV",
       "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
@@ -18791,59 +18411,139 @@
           "label": "Kaynak 1"
         }
       ]
+    },
+    {
+      "name": "ROBERTO GARCIA GOMEZ vs ALEJANDRO MERINO PENA",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36414859.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "VITALIY JISHKEVICH vs ANDREY NIKONCHUK",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36414867.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "JACEK SKWARCZYNSKI vs DAWID STOLARSKI",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36414873.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "MARTIN BERLESE vs MATIAS HERNANDEZ",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36414875.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "JAROSLAW OKRUCH vs KRZYSZTOF KAMINSKI",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36414897.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ALEKSANDR GOMILKO vs KONSTANTIN GRINENKO",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36414901.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "VLADIMIR KOROBKO vs RUSLAN NOVAK",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36414903.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "DMITRIY KULAGIN vs SERGIU BARANCHAN",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36414905.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "ARTEM HALIKOV vs VITALY MAGER",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36414913.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "VALERIA BELOVOL vs YULIA GARMASH",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36414963.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "GRZEGORZ SKALOWSKI vs YURII CHALENKO",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36414975.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "IGOR MALOV vs STANISLAV LYKOV",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36414985.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "SERGEY SHMELIOV vs ALISHER KARIMZHANOV",
+      "logo": "https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg",
+      "sources": [
+        {
+          "url": "https://e4-22.n4154.xyz/36415001.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
     }
   ],
   " Voleybol": [
-    {
-      "name": "NRG VC GEEL vs BEVO ROESELARE",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36412837.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "MENEN vs VBC WAREMME",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e1-22.n4154.xyz/36412839.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "NOORDERKEMPEN vs ASTERIX AVO",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36412841.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "MAIRENA VC vs ALGAR SUMENOR",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36412843.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "MURANO vs LINARES",
-      "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36412903.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
     {
       "name": "CANADOR PENTERZ vs LOYALIST LANSERZ",
       "logo": "https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg",
@@ -19029,6 +18729,18 @@
       ]
     }
   ],
+  " Hentbol": [
+    {
+      "name": "BRAZIL vs ARGENTINA",
+      "logo": "https://image.fanatik.com.tr/i/fanatik/75/0x410/6282949745d2a051587ed23b.jpg",
+      "sources": [
+        {
+          "url": "https://e3-22.n4154.xyz/36414961.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    }
+  ],
   " Beyzbol": [
     {
       "name": "NAVEGANTES DEL MAGALLANES vs CARDENALES DE LARA",
@@ -19083,11 +18795,23 @@
       ]
     },
     {
-      "name": "MAVER vs LIONS",
+      "name": "MAVERICKS CHENNAI vs CHENNAI LIONS",
       "logo": "https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg",
       "sources": [
         {
           "url": "https://e2-22.n4154.xyz/36414797.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    }
+  ],
+  " Boks": [
+    {
+      "name": "UFC DZHOSH HOKIT vs DENZEL FRIMAN DENZEL FRIMAN )",
+      "logo": "https://www.sportsmith.co/wp-content/uploads/2023/04/Thumbnail-scaled.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36414967.m3u8",
           "label": "Kaynak 1"
         }
       ]
@@ -19117,59 +18841,7 @@
       ]
     }
   ],
-  " Ufc": [
-    {
-      "name": "ADAM FUGITT vs TY MILLER",
-      "logo": "",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414761.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    }
-  ],
   " At Yarişi": [
-    {
-      "name": "MARONAS",
-      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
-      "sources": [
-        {
-          "url": "https://e3-22.n4154.xyz/36414615.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "DELTA DOWNS",
-      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414625.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "PALERMO",
-      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414629.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
-      "name": "SAM HOUSTON RACE PARK",
-      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
-      "sources": [
-        {
-          "url": "https://e4-22.n4154.xyz/36414703.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
     {
       "name": "TURF PARADISE",
       "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
@@ -19181,21 +18853,41 @@
       ]
     },
     {
-      "name": "HIPODROMO CHILE",
-      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
-      "sources": [
-        {
-          "url": "https://e2-22.n4154.xyz/36414753.m3u8",
-          "label": "Kaynak 1"
-        }
-      ]
-    },
-    {
       "name": "SANTA ANITA",
       "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
       "sources": [
         {
           "url": "https://e1-22.n4154.xyz/36414811.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "MARONAS",
+      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
+      "sources": [
+        {
+          "url": "https://e2-22.n4154.xyz/36414865.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "SAM HOUSTON RACE PARK",
+      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36414935.m3u8",
+          "label": "Kaynak 1"
+        }
+      ]
+    },
+    {
+      "name": "HIPODROMO CHILE",
+      "logo": "https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg",
+      "sources": [
+        {
+          "url": "https://e1-22.n4154.xyz/36414981.m3u8",
           "label": "Kaynak 1"
         }
       ]
