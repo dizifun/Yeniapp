@@ -4,8 +4,7 @@ import re
 import time
 
 # --- AYARLAR ---
-M3U_URL = "https://cdn.jsdelivr.net/gh/dizifun/Yeniapp@main/filmler.m3u"
-JSON_URL = "https://raw.githubusercontent.com/dizifun/Filmdizi/main/veritabani.json"
+M3U_URL = "https://raw.githubusercontent.com/dizifun/Filmler/main/ana_filmler.m3u"
 OUTPUT_FILE = "filmler_tmdb.json"
 
 TMDB_API_KEY = "6fabef7bd74e01efcd81d35c39c4a049" 
