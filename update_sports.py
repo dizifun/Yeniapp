@@ -10,7 +10,7 @@ URLS = [
 "https://raw.githubusercontent.com/undefinedtv/undefinedtv/main/karisik.m3u",
 
 "https://raw.githubusercontent.com/StarLIVE-TV/digitaltivi.m3u/main/mobiltv.m3u",
-    "https://raw.githubusercontent.com/SuperNova-Repo/Vavuu-IPTV/refs/heads/main/Vavoo-IPTV-Turkey.m3u8",
+    "https://raw.githubusercontent.com/undefinedtv/undefinedtv/main/androtv.m3u",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/istplay_streams.m3u",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/androiptv.m3u8",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/Roxiestreams.m3u",
