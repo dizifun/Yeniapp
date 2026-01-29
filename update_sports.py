@@ -12,7 +12,7 @@ URLS = [
 "https://raw.githubusercontent.com/StarLIVE-TV/digitaltivi.m3u/main/mobiltv.m3u",
     "https://raw.githubusercontent.com/undefinedtv/undefinedtv/main/androtv.m3u",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/istplay_streams.m3u",
-    "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/androiptv.m3u8",
+    "https://raw.githubusercontent.com/dizifun/Filmler/main/ana_filmler.m3u",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/Roxiestreams.m3u",
     "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/StreamedSU.m3u8"
 ]
