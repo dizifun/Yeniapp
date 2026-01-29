@@ -28,6 +28,14 @@
       "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/movie.png",
       "json_url": "https://raw.githubusercontent.com/yavuzelidurmaz-sketch/film/main/fanatik_movies.json",
       "is_active": true
+    },
+    {
+      "id": "dizi_vod",
+      "title": "Diziler (VOD)",
+      "type": "vod_series",
+      "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/series.png",
+      "json_url": "https://raw.githubusercontent.com/yavuzelidurmaz-sketch/ma-/main/diziyou_playlist.json",
+      "is_active": true
     }
   ]
 }
