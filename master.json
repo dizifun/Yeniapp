@@ -26,7 +26,7 @@
       "title": "Sinema (VOD)",
       "type": "vod_movie",
       "icon": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/icons/movie.png",
-      "json_url": "https://raw.githubusercontent.com/dizifun/Yeniapp/main/filmler_tmdb.json",
+      "json_url": "https://raw.githubusercontent.com/yavuzelidurmaz-sketch/film/main/fanatik_movies.json",
       "is_active": true
     }
   ]
